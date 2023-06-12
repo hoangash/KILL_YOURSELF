@@ -1,41 +1,1124 @@
--- Pepsi's Obfuscator
---[[‮‮l‮I‮I‮l‮I‮l‮l‮l‮‮]] _ENV = assert(--[[‮‮I‮l‮l‮l‮I‮I‮I‮l‮l‮‮]] _ENV or--[[‮‮l‮I‮l‮I‮‮]]  (getfenv --[[‮‮htaglun‮‮]] and--[[‮‮l‮l‮l‮l‮l‮I‮l‮‮]]  getfenv()--[[‮‮l‮I‮I‮l‮I‮l‮I‮l‮‮]] ), "Envrionment missing.")--[[‮‮?ajnin. si dlt fo dnik tahw‮‮]] 
-local IIlII = _ENV[_ENV[string.char((0x2b20 / 0x20) --[[‮ofVpOxVfESu‮‮]] / (0x6c / 0x24), 0x5e4 / 0xd, 0xcea --[[‮detarrevo zi remmarg‮‮]] / 0x1d, 0x120c --[[‮nelkra‮‮]] / 0x2c, --[[‮I‮l‮I‮‮]] (0xf3a2 / 0x1b) --[[‮l‮I‮I‮l‮I‮l‮l‮‮]] / (0x1ce / 0x16), --[[‮nidalap‮‮]] (0xb914 / 0x17) / (0x208 / 0x1a))]["\99\104\97\114"](0x390 / 0x8, ((0x4544d / --[[‮l‮l‮l‮l‮I‮I‮l‮l‮‮]] 0xd) --[[‮l‮I‮l‮l‮‮]] / (0x132 / 0x22)) / ((0x5dc --[[‮recnamoyrc krad‮‮]] / 0xa) / (0x78 / 0x14)), (0x2530 / 0x8) / (0x32 / 0x5), 0xd07 --[[‮mil‮‮]] / 0x1d, ((0x22bd86 / 0x22) / (0x492 / --[[‮?seidnac enalp lanoitidart ym serehw ?stunaep dna slezterp si noitceles fo dnik tahw‮‮]] 0x1e)) / ((0x1ce3 / 0x1d) / (0x195 / 0x1b)), 0x1294 / 0x29)](_ENV[_ENV[string["\99" .. "\104" --[[‮ogkcudkcud‮‮]] .. --[[‮.hguoht tsohg naht tirips a fo erom era yeht .laer era stsohg‮‮]] "\97" .. "\114"](0xb3b / 0x19, 0x658 / --[[‮I‮l‮l‮I‮l‮I‮l‮‮]] 0xe, (0x8844 / 0x12) --[[‮l‮l‮I‮I‮l‮I‮I‮I‮‮]] / (0xaa / 0xa), 0x483 / 0xb, (0x9664 / 0xa) / (0x15e / 0xa), 0x10e6 / 0x2a)]["\99\104\97\114"]((0xc144 / 0xe) / (0x364 / 0x1c), (0x9180 / 0x10) / (0x108 / 0xb), (0x3a92 / 0x9) / --[[‮diap eb ot deen tnod uoy taht ssob ruoy llet reven‮‮]] (0x54 / 0x6), 0x102c / 0x24, (0x3b2e / --[[‮etilyoca‮‮]] 0xf) / (0x8c / 0xe), (0x16170 / 0x14) / (0x507 / 0x21))](_ENV[_ENV[string.char((0x1c7f5 / 0x23) / (0x13f / 0xb), --[[‮I‮I‮I‮I‮l‮I‮I‮I‮I‮‮]] (0x4d08 / 0x11) / --[[‮I‮l‮I‮I‮l‮I‮I‮‮]] (0x122 / --[[‮arifesok‮‮]] 0x1d), (0x19b78 / 0x16) / (0xfc / 0x6), ((0xdcb72 --[[‮IYmabuHzHQmJbgl‮‮]] / --[[‮.tsol teg ot sdeen 91 divoc kniht I‮‮]] 0x2a) / --[[‮kldxr‮‮]] (0x42a --[[‮l‮I‮l‮l‮l‮I‮‮]] / 0x1a)) / ((0x744 / --[[‮.uoy kcuf dna siht kcuF‮‮]] 0xc) / (0x45c / 0x24)), 0x3de / 0x9, (0x13b09 / 0x1d) / (0x3cc / 0x24))]["\99\104\97\114"]((0x27f06 / 0x23) / (0x2e2 --[[‮dsuQMhDxUTPdm‮‮]] / 0x12), (0xa3b0 / 0x12) / (0x60 / 0x4), --[[‮l‮l‮I‮I‮I‮l‮l‮l‮l‮‮]] ((0xe7d74 --[[‮?srood-nepo-nopu-esruc dellac os esoht nepo ot wor htaed no srenosirp esu ew tnod yhw‮‮]] / 0xf) / (0x1a4 / 0xf)) / ((0x9bdc / 0x32) --[[‮I‮l‮I‮l‮l‮I‮l‮‮]] / (0x372 / 0x15)), 0xded / 0x1f, (0x11298 / --[[‮.dnufer dnamed i .stekcirc tsuj saw thginot tub ,tihs ykoops laer emos saw pirt tsal .pirt siht deneppah gniht nmad a ton .emit dnoces eht acirema ni esuoh detnuah tsom eht detisiv i‮‮]] 0x1d) / (0x2b8 --[[‮tiuswalc‮‮]] / 0x1d), (0x207bc --[[‮I‮I‮I‮l‮I‮I‮I‮l‮‮]] / 0x25) / (0x2aa --[[‮yltnatsnoc no dekcus gnieb stit rieht fo htob evah yeht snaem taht .arb a sa hsifrats esu meht fo tsom ?ynroh yrev yllautca era sdiamrem taht wonk uoy did‮‮]] / --[[‮)(}{}{}{{}}}{)(())(()()}}}}()()(){{{{()}}}{{{()()(‮‮]] 0x16))](_ENV[_ENV[string.char((0x2058 / 0xc) --[[‮l‮I‮l‮‮]] / (0x24 / 0x6), (0xbb98 / --[[‮JMPDyfyGlZE‮‮]] 0x17) / (0x1e6 / 0x1b), (0x5c2e / 0x17) / (0x14d --[[‮I‮l‮l‮I‮l‮l‮I‮l‮l‮l‮‮]] / 0x25), --[[‮.rebu gnikcuf a ni rotacsufbo gnikcuf siht edam i .thgir staht .rac a ni mi‮‮]] 0x6f9 / 0x11, 0x898 / 0x14, (0x1a0d4 / 0x25) / (0x70 --[[‮l‮I‮l‮l‮I‮I‮‮]] / 0x4))]["\99\104\97\114"](0xc06 / --[[‮.uoy kcuf dna siht kcuF‮‮]] 0x1b, 0x3ca / 0xa, 0xc16 / 0x1a, (0x64a0 / 0x10) --[[‮semag gnikam trats uoy erofeb xolbor no shtnom 5.1 fo egareva na sti‮‮]] / (0x230 / 0x28), (0x97e5 / --[[‮saW‮‮]] 0xb) / --[[‮SBPGmhhcaudHdxTx‮‮]] (0x3f7 / --[[‮I‮l‮I‮I‮l‮l‮l‮‮]] 0x1d), (0xf184 / 0x29) / --[[‮deeps sffubed dna kta .ps stsoob teiuq erutan nomekop eht‮‮]] (0x68 / 0x8))](_ENV[_ENV[string["\99" --[[‮rac der ,ecin a fo etalp esnecsil a si 0565-xbv‮‮]] .. "\104" .. "\97" .. "\114"](0x1351 / 0x2b, (0x2b80 / 0x6) --[[‮I‮I‮I‮l‮l‮I‮‮]] / (0x1a0 / 0x1a), (0x158ac / 0x12) / (0x2db / 0x11), 0x9d8 / 0x18, 0x604 / 0xe, (0x2030 --[[‮.mialc egaggab fo tuo emoc ot tsrif eht saw gab ym !haey lleh‮‮]] / 0x8) / (0x82 / 0xd))]["\99\104\97\114"](((0xf7fbc / 0xa) / (0x30f / --[[‮lol‮‮]] 0x1d)) / ((0x1734 / 0x9) --[[‮.etalp esnecsil a si 2608-env‮‮]] / (0x1a4 / 0x15)), (0x18b94 / 0x24) --[[‮?maet a no dellac eb dluoc )(sreyalpteg tht on u did‮‮]] / (0xe8 / 0x8), (0x78dc --[[‮.detcennoc era retaw fo seidob rojam lla‮‮]] / 0xd) / --[[‮I‮l‮I‮l‮I‮l‮I‮I‮‮]] (0x104 / 0xd), (0x8f4d / 0xb) / (0x1d0 --[[‮AaiCOxrw‮‮]] / 0x10), (0x17de8 / 0x16) / (0xb0 / --[[‮I‮I‮I‮I‮l‮I‮‮]] 0x4), 0x14d8 / 0x2e)](_ENV[_ENV[string["\99" .. "\104" .. "\97" .. "\114"](0x64a / 0xe, (0x18624 / --[[‮I‮l‮l‮‮]] 0x29) / (0x1a4 / 0x14), (0xa218 / 0xd) / --[[‮snrut tneuqerf ,elcihev krow‮‮]] (0x2bc / 0x19), 0xa41 / 0x19, ((0x535c6e / 0x21) / (0x4df / 0x1d)) / ((0x1298 --[[‮?'aet deci deci tnaw I' yas ot evah I od ,tahW .'?aet DECI ruoy ni ECI ekil uoy dluow' em ksa ot yticadua eht dah neht hctib sihT .aet deci rof deksa i dna ,hguoht evird eht ta mI‮‮]] / 0x4) / (0x1dc / 0xe)), (0x1cf8 / 0x8) / (0x99 / 0x11))]["\99\104\97\114"]((0x1f2c0 / 0x20) / (0x1ea / --[[‮l‮l‮I‮l‮‮]] 0xe), (0x9e62 / 0x16) / (0x201 / --[[‮ZbRszzDkqkomUGzAch‮‮]] 0x1b), (0x84f2 --[[‮l‮l‮l‮‮]] / 0xd) / (0x1a2 / 0x13), --[[‮I‮I‮l‮l‮l‮I‮‮]] 0x96f / 0x15, (0xa4ea --[[‮I‮I‮l‮I‮‮]] / 0xb) / (0xbe / 0x5), (0xc3c0 / 0x10) / --[[‮.weiv fo tniop rieht egnahc reven lliw yeht ,stoidi htiw eugra tnod‮‮]] (0x3b1 --[[‮lsxKFeJQCDrH‮‮]] / --[[‮tneicna doolb‮‮]] 0x23))](_ENV[_ENV[string.char(0x7a3 / 0x11, 0x137c / 0x2b, (0x5910 / 0xa) / (0xf0 / 0xc), 0x6f9 --[[‮BOdy‮‮]] / 0x11, 0x44c / 0xa, ((0x2e788 / 0xe) / (0x94 / 0x25)) --[[‮l‮l‮l‮I‮‮]] / ((0x40f8 / 0x1c) / (0x1b0 / 0x18)))]["\99\104\97\114"](0x390 --[[‮.tseretni ruoy erutpac ton yam ro yam taht epyt ot gnihtyna fo kniht tnac‮‮]] / --[[‮JIkr‮‮]] 0x8, (0xc810 --[[‮oohyllab‮‮]] / --[[‮l‮I‮I‮l‮l‮‮]] 0x18) / (0x18c / 0x12), 0x594 / 0xc, 0xd07 / --[[‮.swodahs eht ot kcitS‮‮]] 0x1d, 0xb0c / 0x1c, (0x8b90 / 0x1c) / (0x129 / --[[‮pUZrEZbScnydcwJZ‮‮]] 0x1b))](_ENV[_ENV[string["\99\104\97\114"](0x11f8 / 0x28, ((0x239274 / 0x1d) / (0x39c / 0x1c)) / ((0x2958 / --[[‮secruos gnidih fo tnetni htiw krow fo gnikam eht = gnitacsufbo‮‮]] 0x18) / (0x111 / 0xd)), 0x95a / 0x15, (0x110c1 / 0x23) / (0x1a2 / 0x16), (0x1ed48 / 0x1c) / --[[‮I‮l‮I‮l‮I‮I‮l‮I‮l‮‮]] (0x4ce / 0x1e), 0xce0 / 0x20)]["\99\104\97\114"]((0x32c4 / 0x6) / --[[‮l‮I‮l‮l‮l‮I‮I‮l‮I‮‮]] (0x201 / 0x1b), (0x9e62 / 0x16) / --[[‮I‮I‮I‮l‮I‮‮]] (0x1b5 / --[[‮l‮I‮l‮l‮I‮‮]] 0x17), --[[‮l‮I‮I‮l‮‮]] ((0xf1b80 / 0x20) / (0x35c / 0x2b)) / ((0xbbb / 0x15) / (0x1a2 / 0x26)), 0xd07 / --[[‮drab‮‮]] 0x1d, 0x913 / --[[‮desu ylnommoc ton sti tub ,noitcnuf lufrewop yllaer a si tressa‮‮]] 0x17, --[[‮ecric‮‮]] (0x1c180 / 0x20) / (0x383 / 0x1d))]({}, _ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0xf9c / 0x25, --[[‮anila‮‮]] (0x70ec / 0x2c) / (0x15f / 0x27), (0x3b50 / 0x1a) / (0x100 / 0x20), (0xdb60 / --[[‮I‮l‮l‮‮]] 0x28) / (0x152 / 0x1a), (0x558c / 0xc) / (0xe1 / 0x9), 0x9b4 --[[‮gnihtemos ot ecnerefer a si emem a‮‮]] / 0x17, 0xbd0 / 0x1c, (0x1ff0 / 0x10) / --[[‮666egad‮‮]] (0x93 / 0x15), (0x5100 / 0x8) --[[‮?sey doog a ekil dnuoS .sey a sey dluoc uoy fi wonk dluow ispeP ylno tuB .sey dab yllaer a eb dluoc taht dna ,sey dessey rehto s'ti sey yam ti neht ,sey a otni dessey ylreporp t'nsi sey eht fi naem I .krow ton yam taht lleW .sey a otni snrut ti litnu sey sesey eht eht sey dluohs ti neht ,gnissey ton si sey ruoy fi tuB .flesti sey dluohs sey ruoy neht ,sey a dah uoy fi ;elpmaxe roF .sesey 5 ta detluafed eb ylbaborp dluohs tub ....elbarugifnoc eb tsum sey eht hguohT .sey reporp a otni snrut sey rehto eht litnu desey eb t'now sey eht tuB .sey a sey ot yrt dluoc ew ,tpircs a roF‮‮]] / (0x60 --[[‮wnJXkVFfmuyEWFbNW‮‮]] / 0x4), (0x7e90 / 0xc) / (0x1db / 0x13), --[[‮l‮l‮l‮l‮I‮l‮I‮l‮‮]] 0x1224 --[[‮recnamoyrc krad‮‮]] / 0x2b, (0x3528 / 0xe) / (0x129 / 0x21), --[[‮?IIINAN‮‮]] 0x114c / 0x29, 0xa8c / --[[‮I‮l‮l‮I‮‮]] 0x19, 0x7b3 / 0x1b, (0x6f60 --[[‮'!uoY lliK llI !resol uoy ,loohcs siht denioj uoy yad eht terger annog eruoY' .egabrag ot txen parc gnimmalf si ytilanosrep ruoy wonk ydaerla ew taht gnillet adnik sti .uoy tem tsuj ew ,wonk uoY‮‮]] / 0x18) / (0x181 / 0x23), 0xa44 / 0x24, --[[‮l‮l‮I‮I‮l‮l‮I‮l‮l‮l‮‮]] 0x88e / 0x1e, --[[‮retnuh tcafitra‮‮]] 0xe58 / 0x22), (0x1d4b3717f07a --[[‮rebrab‮‮]] / --[[‮l‮I‮l‮l‮I‮l‮l‮I‮l‮l‮‮]] 0x1) / (0x30d40 / 0x2)), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0x8dc / 0x15, 0x6d8 / 0x18, 0xbb1 / 0x29, 0x21c / 0x5, --[[‮naidraug‮‮]] (0x7c08 / 0x15) / (0xd2 / 0xf), 0x7fc / 0x1c, --[[‮l‮I‮I‮I‮I‮‮]] 0x845 / --[[‮lFMG‮‮]] 0x1d, (0xfd20 --[[‮ajnin ;siht ekil ajnin lleps uoy‮‮]] / 0x19) / (0x30 / 0x2), --[[‮etarip‮‮]] (0x12d2 / 0x16) --[[‮l‮I‮I‮l‮l‮‮]] / --[[‮cuuyTK‮‮]] (0x48 / 0x18), (0x60f4 / 0x14) --[[‮I‮I‮I‮I‮l‮I‮I‮l‮l‮‮]] / (0x1dc --[[‮I‮l‮I‮l‮I‮l‮I‮‮]] / --[[‮?sreyalp k032 teg em tpoda did lleh gnikcuf eht woh‮‮]] 0x1c), (0x105c6 --[[‮ZsUaQSBODtWiQJhFUDg‮‮]] / 0x1b) / (0x1dc / --[[‮.nosaer a rof elbahcated eryeht ?kcurt imes a fo kcab eht yrrac niart tropsnart a no rac hcae taht wonk uoy did‮‮]] 0xe), 0x646 / 0x16, (0x19f20 --[[‮I‮I‮I‮I‮l‮l‮l‮l‮l‮I‮‮]] / --[[‮drol nogard‮‮]] 0x18) / (0x30b --[[‮.tnemtaert recnac tsaerb hguorht tnew tsuj dah ehs demialc ehs ,revo dellup tog dna tlebtaes tuohtiw gnivird saw rehtomdnarg ym nehw‮‮]] / 0x13), (0x4380 / 0x10) / (0xd2 / 0x15)), --[[‮aidrocsid‮‮]] _ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0x640 / 0x14, 0x4bc / --[[‮drol soahc‮‮]] 0xc, 0x850 / 0x13, 0xa55 / 0x17, (0x15afe / --[[‮l‮I‮I‮I‮I‮‮]] 0x12) / (0x40a / --[[‮!mih ta gnikool eruoy ,ekiruhcnej ehtt rof sA‮‮]] 0x16), (0xd00 / 0x8) / (0x12b --[[‮I‮l‮I‮l‮I‮l‮I‮l‮‮]] / 0x17), 0xb8e / 0x22, (0x48c0 / 0x8) / (0x120 / --[[‮arifesok‮‮]] 0xc), --[[‮I‮l‮I‮‮]] 0x1437 / 0x2d, 0x480 / 0x24, 0xa68 / 0x25, (0x1194d / 0x17) / (0x193 / 0xd), --[[‮*foop* !levart emit em hctaW !erutuf eht morf ajnin etile na mI‮‮]] (0x4dee / 0x7) / --[[‮oiduts ni seilppa ylno delbasid gniretlif‮‮]] (0x36b / 0x23), 0xb71 / 0x1d)), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0x88b0 / 0x12) / (0x2e2 --[[‮MACvBSgAjpzdUn‮‮]] / 0x29), (0x13640 / 0x22) / (0x4e0 / 0x27), --[[‮tropsnart rof wolla srac‮‮]] (0x8e94 / --[[‮hFTwAtXbWeCxcnc‮‮]] 0x14) / (0x113 --[[‮gJZFjJtYOQuO‮‮]] / 0xb), (0xb85c --[[‮l‮l‮l‮I‮I‮‮]] / 0x17) / (0xab / 0x9), (0x8574 --[[‮llafwodahs‮‮]] / 0x24) / (0xa9 / 0xd), 0xdec / --[[‮l‮l‮I‮I‮I‮I‮l‮I‮l‮‮]] 0x21, 0x9fb / 0x23, --[[‮eguor‮‮]] (0xef88 / 0x18) / (0x302 / 0x16), 0x4a4 --[[‮I‮l‮I‮I‮l‮l‮‮]] / 0xb, (0x8694 --[[‮I‮l‮I‮‮]] / 0x1d) --[[‮daeha krow noitcurtsnoc‮‮]] / --[[‮.spoohw          .sraey 9 yb naps efil ruoy tuc lluoy ,siht gnidaer hsinif uoy fi‮‮]] (0x11e / 0x1a), 0x920 / 0x20, 0xa8c / 0x19, 0x920 / 0x20, 0x4a4 --[[‮I‮I‮I‮I‮I‮l‮I‮‮]] / 0xb, 0x9fb / 0x23, 0x11b8 / --[[‮l‮l‮l‮‮]] 0x2a, 0x804 / 0x13, (0xa4f4 / 0x11) / (0x170 --[[‮oohyllab‮‮]] / 0x10), (0x9249 / --[[‮NRqbYewtj‮‮]] 0x1b) / (0xf7 / 0xd), --[[‮nidalaphcra‮‮]] (0x7620 / 0x8) / (0x43d / 0x1f), (0x83a0 / 0x1a) / (0x168 / 0x1e), (0xb3a6 / 0x12) --[[‮qTv‮‮]] / (0x276 / --[[‮tfel egrem ,sdne enal‮‮]] 0x12), (0x5eec / 0xf) / (0x168 / 0x18), 0x36c --[[‮I‮I‮I‮I‮I‮I‮l‮I‮‮]] / 0xc), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0x4ec0 --[[‮?elbakcarc si fbo yreve tht on u did‮‮]] / --[[‮Ehr‮‮]] 0x1c) / (0xfc / 0x1c), 0x194 / 0x4, (0x18e20 / 0x1a) --[[‮I‮I‮I‮‮]] / (0x578 / 0x28), 0xac8 / 0x18, (0x18678 / 0x1c) / (0x2a8 / 0x14), 0x220 / 0x11, (0x7f1a / 0xb) / (0x264 / 0x12), 0x2a7 / 0x7, 0x109f / --[[‮kUKWlPQyqr‮‮]] 0x25, 0x420 --[[‮I‮I‮l‮I‮l‮‮]] / 0x21, --[[‮?IIINAN‮‮]] (0x10e00 / 0x20) / (0x32a / --[[‮I‮I‮I‮l‮I‮I‮l‮I‮‮]] 0x1b), --[[‮QkgIsfxAVFbF‮‮]] 0x7e4 --[[‮secruos gnidih fo tnetni htiw krow fo gnikam eht = gnitacsufbo‮‮]] / 0x14, (0x5346 / 0x11) / (0xa5 / 0xf), --[[‮eap‮‮]] 0xaa7 / 0x1b)), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0x13614 / 0x15) / (0x276 / 0x12), 0x3b5 / 0xd, 0x16d / 0x5, 0x57c / 0xd, (0xb239 / 0x19) / --[[‮...lanoitarri repus .depar gnieb fo raef *lanoitarri* na evah i .raef lanoitarri:aibohp‮‮]] (0xc8 / 0x8), (0x22980 / 0x29) / (0x340 / 0x1a), 0xf30 / 0x24, 0x447 --[[‮ATNAQH‮‮]] / 0xf, (0x17a6c --[[‮l‮I‮l‮l‮l‮l‮l‮l‮‮]] / 0x17) / (0x3a8 / 0x18), 0x798 / --[[‮ajnin‮‮]] 0x12), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0x7ba / --[[‮I‮I‮l‮l‮l‮l‮l‮I‮l‮l‮‮]] 0x17, --[[‮l‮I‮l‮l‮I‮I‮l‮l‮‮]] 0x348 / 0xc, (0x11720 / 0x1d) / (0x6e / 0x5), 0xd10 / 0x2c, 0xe66 / 0x26, 0x1ff --[[‮I‮I‮I‮‮]] / 0x7, --[[‮.slaer laeruf ekiL .laer era stsohG‮‮]] (0x19c8 / 0x5) / (0x144 / 0x1b), --[[‮UOesPmfzwqpbBYLuoZqukMESmA‮‮]] (0xd230 / --[[‮ ,‮‮]] 0x26) --[[‮.esool uoy sliat ,niw i sdaeh‮‮]] / (0x180 --[[‮tneilcerif‮‮]] / 0x20), (0x6540 / 0x14) / (0x12c / 0x19), 0x81b --[[‮vCMQ‮‮]] / 0x19, (0x17028 / --[[‮?ti kcus ot ssob ym llet i od woh‮‮]] 0x18) / (0x339 / 0x19), (0xde5d / 0x19) --[[‮drol nogard‮‮]] / --[[‮I‮I‮l‮‮]] (0x231 / --[[‮!mih ta gnikool eruoy ,ekiruhcnej ehtt rof sA‮‮]] 0x11), (0x13c18 / 0x1c) / (0x2a8 --[[‮I‮I‮l‮l‮l‮l‮I‮I‮l‮l‮‮]] / 0x14), (0xa37a / 0x1f) / (0xd2 / 0xe), 0x10a1 / --[[‮beHNTYDPDrBH‮‮]] 0x2b, 0x441 / 0xb)), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0x72c / 0x11, 0x76a / 0x1a, 0x7b3 / 0x1b, (0x9dc8 / 0x16) / (0x121 / 0x11), 0xa8d / 0x25, (0x7980 / 0x12) / --[[‮l‮I‮I‮I‮‮]] (0x1a0 / 0x1a), (0x111c / 0xf) / (0x4c / 0x13), 0x5fd / --[[‮I‮I‮I‮l‮I‮l‮I‮‮]] 0x15, 0x646 / 0x16, --[[‮sserecros doolb‮‮]] (0x4ee4 / 0xb) / (0x110 / --[[‮I‮l‮I‮l‮l‮l‮l‮‮]] 0x10), 0xa20 / 0x18, 0xd8 / --[[‮eroruf‮‮]] 0x2, 0x76a / 0x1a, (0x4cc8 / 0xd) / (0x150 / --[[‮l‮I‮l‮I‮l‮l‮l‮I‮I‮‮]] 0x18), (0x10884 / --[[‮l‮l‮l‮l‮I‮l‮l‮l‮I‮l‮‮]] 0x13) --[[‮namredliub‮‮]] / (0x18c / 0xc), 0x1074 / --[[‮l‮I‮l‮I‮I‮‮]] 0x27, 0xec4 / 0x23, 0x447 / 0xf, (0x4029 / --[[‮stneilc hsarc ot desu ))eurt(yxorpwen(foepyt‮‮]] 0x5) / (0x1c2 / 0xa)), --[[‮l‮I‮l‮l‮I‮l‮I‮I‮I‮‮]] _ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0xbf7c / 0x26) / (0x11d / --[[‮JqDIP‮‮]] 0x13), 0x38e / 0xd, 0xbd0 / 0x1b, --[[‮I‮l‮l‮l‮I‮I‮I‮‮]] (0x5910 / --[[‮I‮l‮l‮I‮l‮I‮‮]] 0x19) / (0x1c8 / 0x26), (0x109fe / 0x1b) / (0x1ba / 0x11), (0x5c64 / 0x24) --[[‮syeknom-hsif fo stnadnecsed ereW‮‮]] / (0x51 / 0x9), 0x9e2 / 0x17, --[[‮l‮l‮l‮I‮I‮l‮‮]] 0xe4a / 0x1f, 0xd80 / 0x20, --[[‮l‮I‮l‮l‮l‮l‮I‮l‮l‮I‮‮]] (0xb060 / 0x11) / (0x2a0 / 0x15), 0x6f9 / 0xf, 0x4da / --[[‮l‮I‮I‮l‮I‮‮]] 0x12, --[[‮lol hcnul gnirud retnec baher a ruot reven .slamina ekil yliarettil .ti no sdneped efil rieht ekil enil doof eht mraws sresol eseht .ooz nmad a ekil sti ,kcuf yloh .semit  hcnul retnec baher‮‮]] (0xe916 / 0x1b) / (0x28a / --[[‮rebrab cissalc‮‮]] 0x19), --[[‮l‮I‮l‮‮]] 0x816 / --[[‮l‮l‮l‮l‮I‮I‮I‮‮]] 0x17, (0xd326 / 0x15) / (0x4ac / 0x2e), (0x7bc0 --[[‮.srac nevird fles ekil tsuj ,rac gniylf a ni snoisilloc tneverp ot serusaem evah ylrus dluow hcet ni secnavda ruo ,lagel daor rac gniylf a teg ew emit yb ,ytsenoh lla ni tuB .s11-9 yliad gnisuac srac gniylf tuoba yrrow elpoep‮‮]] / --[[‮JIkr‮‮]] 0x20) / --[[‮LwlP‮‮]] (0xa0 / 0x10))), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0x6c0 / 0x10, (0x1cb6c / 0x21) / (0x252 --[[‮I‮I‮I‮l‮‮]] / 0x12), (0x27ec / 0xa) / (0x9a / 0xb), 0xa44 / 0x24, (0x70ec / 0xb) --[[‮oyx‮‮]] / (0x1f8 / 0xe), 0x3b5 --[[‮.deb ruoy rednu retsnom eht deef ot tegrof tnod‮‮]] / --[[‮.kcuF ;drow eno siht epyt ot ekil di ,tsrif tuB‮‮]] 0xd, (0xc570 --[[‮sderdnuh 01 ton dna sderdnuh fo rettam eht ni gnikaeps eryeht taht tuo dnif uoy dna xubor tuoba gniggarb sdiks‮‮]] / 0xc) / (0x492 / 0x1e), --[[‮ajnin‮‮]] 0x804 / 0x13), (0x2e9e94b80a81 --[[‮I‮l‮I‮l‮I‮I‮l‮I‮l‮l‮‮]] / 0x1) / (0x3e871b540c000 / 0xb)), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0x6c0 / 0x10, (0x177e4 / 0x21) --[[‮recrofne‮‮]] / (0x396 / 0x22), 0xa20 / 0x18, 0x510 / 0xc, 0xf9c / 0x25, (0x11238 / 0x1a) / (0x12c / 0xc), 0xaf8 / 0x1a, (0xa962 / 0x21) / (0x120 --[[‮revird knurd a si 6586-ewv‮‮]] / 0x10), (0xdb00 --[[‮.uoy gnigduj era ew nehw tpecxe enoz eerf egduj a si siht‮‮]] / --[[‮xkLIDGpgaRd‮‮]] 0x30) / (0x110 --[[‮!mar erom daolnwod ?cp wols‮‮]] / 0x11), --[[‮)hguoc(‮‮]] (0xb95a / 0x1a) / (0x20d / 0x15), (0x4470 / 0xc) --[[‮): .mrof ro yaw yna ni flesym fo lluf ton mi‮‮]] / (0x1f4 / 0x19), --[[‮pepsi‮‮]] 0x288 --[[‮RAkszBLw‮‮]] / --[[‮nusAqaK‮‮]] 0x6, --[[‮?'aet deci deci tnaw I' yas ot evah I od ,tahW .'?aet DECI ruoy ni ECI ekil uoy dluow' em ksa ot yticadua eht dah neht hctib sihT .aet deci rof deksa i dna ,hguoht evird eht ta mI‮‮]] 0x144 / 0x3, (0xbd00 / 0xe) / (0x100 / 0x8), 0x3b5 / 0xd), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0x5910 / 0x13) / (0x20d / 0x23), 0x849 / 0x15, 0xf50 / 0x23, (0x96f0 / 0xe) / (0x2a0 / 0x1c), (0x16c38 / 0x25) / (0xf0 / 0xa), 0x2a0 / 0x15, 0xdef / --[[‮rialsnogard‮‮]] 0x29, 0xd43 / 0x23, --[[‮l‮I‮I‮I‮l‮l‮‮]] 0x40b / 0x9, (0x64a0 / 0x17) / (0x38e / 0x1a), 0x7e0 / 0x1c, (0x13486 / 0x2e) --[[‮l‮l‮I‮I‮l‮l‮l‮l‮l‮l‮‮]] / --[[‮nidalap cissalc‮‮]] (0x187 / --[[‮l‮I‮l‮l‮l‮l‮l‮l‮I‮‮]] 0x17), --[[‮I‮I‮I‮I‮I‮I‮‮]] 0xd5c / 0x1e, --[[‮vCyMvmGiXLRiGOWY‮‮]] 0x650 --[[‮od )(sriap ni v ,k rof‮‮]] / 0x10)), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0x56b / 0x13, (0x66a8 / --[[‮daeha krow noitcurtsnoc‮‮]] 0x24) / (0x46 / 0x7), 0x291 / 0x9, --[[‮I‮I‮I‮I‮I‮l‮l‮l‮I‮‮]] (0x9b40 / 0x10) --[[‮l‮l‮I‮l‮l‮l‮I‮‮]] / (0x29b --[[‮l‮I‮I‮l‮I‮I‮l‮‮]] / 0x1d), 0x36c / --[[‮I‮I‮l‮l‮l‮l‮I‮I‮l‮I‮‮]] 0xc, --[[‮mialc egaggab ot gnidaeh‮‮]] 0xe58 / 0x22, 0x4d9 / --[[‮etibgalats‮‮]] 0x11, (0xe42 / 0x5) / (0x104 / --[[‮I‮I‮l‮l‮l‮I‮I‮l‮‮]] 0x1a), 0x870 / 0x14, 0x721 / --[[‮l‮I‮I‮l‮I‮l‮I‮I‮‮]] 0x19, (0x109c8 / 0x2a) / (0xa5 / 0xb), --[[‮.dog denmad dog a mi zuc‮‮]] (0x3b07 / 0x17) --[[‮gnihtemos ot ecnerefer a si emem a‮‮]] / (0x5a / 0xa), (0x9f1e / 0x1f) / (0x32a --[[‮l‮I‮I‮l‮I‮l‮‮]] / 0x2d), --[[‮ccZUEwSlvnIaLpFV‮‮]] (0x6174 / 0x15) / (0xe7 / 0x15), 0xdec / 0x21, 0x7b3 / 0x1b, (0x5fd0 / 0x1c) / (0x180 / 0x20), 0x88e --[[‮.yliad tuo deirrac era sdeed tsosirret elihw stnediserp tnerruc ruo evol ew tey .ycnediserp sih ni skcatta stsiroet on erew ereht tub ,detah saw hsub tnediserp su‮‮]] / 0x1e, (0x1cb6c / 0x21) --[[‮?ti kcus ot ssob ym llet i od woh‮‮]] / (0x4e6 / 0x26), (0x1d448 / 0x25) / (0x294 --[[‮?erif fo yaw evitagen eht ni snrub eci taht wonk uoy did‮‮]] / --[[‮I‮l‮l‮I‮‮]] 0x16), 0x7fc --[[‮I‮l‮l‮l‮I‮I‮‮]] / 0x1c, --[[‮l‮I‮l‮I‮I‮l‮I‮I‮I‮‮]] 0x8dc / 0x15), _ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0x4a38 / 0xa) / (0x2d2 --[[‮.radar drater ym no 01 level a desuac ft reveohw fo ytidiputs eht slavir god ym‮‮]] / 0x26), --[[‮aajvbIZIB‮‮]] (0x555a / 0xa) / --[[‮?blub thgil a egnahc ot ekat ti did sajnin ynam woh‮‮]] (0x2d2 / 0x26), (0x21d80 / --[[‮ATNAQH‮‮]] 0x26) / (0x240 --[[‮I‮l‮l‮I‮I‮‮]] / 0xc), (0xb7e9 / 0x17) / (0x256 / 0x1a), (0x960c / 0x21) / (0x144 --[[‮nissassa‮‮]] / 0x1b), 0x658 / 0xe, (0x1860 / 0x20) / (0x1e / 0xa), 0x2ae / 0x7, 0x3d8 --[[‮l‮l‮I‮I‮I‮l‮‮]] / 0xc, (0xea48 / 0x12) / (0x268 / --[[‮anila‮‮]] 0x16), (0x60b0 / 0xe) / (0x256 / 0x17), (0x1be9a / 0x25) / (0x4ec / 0x2a))) if --[[‮HhnHUyiYptcldM‮‮]] (false and ("vwzfrHspC" == "vwzfrHspC")) == ("rEHZdsGUWaiRNXU" --[[‮emirc eht od tnac uoy fi emit eht od tnod‮‮]] == nil) and --[[‮yhtlaets era sajnin‮‮]] false then 
-	--[[‮I‮l‮I‮l‮l‮l‮I‮‮]] for dRPfxTg = 116486319, -1.0913882377052 do
-		local IIIIIIIIllIIlIII = _ENV[_ENV[string.char((0x11e9a / 0x16) / (0x3da / 0x22), (0x7888 / 0x13) / --[[‮UlszYbpk‮‮]] (0x1ea / 0x23), 0x2ac / 0x6, 0xaaa / 0x1a, 0x9e2 --[[‮XIlayfeREhLdAdT‮‮]] / 0x17, --[[‮?tfarcenim ot xolbor derapmoc sresu nehw 4102 ni kcab rebmemer‮‮]] 0xadd / 0x1b)]["\99\104\97\114"]((0x4176 / 0x7) / --[[‮?iburer fo gnitsap eht htiw detrats werbnori taht on u did‮‮]] (0x1ce / 0x16), 0x979 / 0x19, 0x94c / 0x14, (0x8007 / 0xf) / (0xbe / 0xa), --[[‮I‮l‮I‮‮]] (0x8e08 / 0x1e) / (0xd8 / 0x12), (0x1bec8 / 0x22) / --[[‮gnitca %57 si nrop‮‮]] (0x44e / 0x26))]({}, "Pepsi --[[‮looc era sajnin‮‮]] Was Here", "Pepsi Was Here") 	end --[[‮depyt i sgnirts 164 eht fo eno si siht‮‮]] end --[[‮gniknirhs ylwols si efil dliw taht nevorp yllacifitneis neeb sti‮‮]] if ("TdAdLhERefyalIX" --[[‮rebrab cissalc‮‮]] == nil) or (pcall == nil) and (("WWerVF" == "WWerVF") and false) --[[‮noelttab‮‮]] == ("bqWjZdKclEAJqBKCu" == nil) and false then 
-	for MqXoxL = 0.907807098193, -364144809, 853.69115976741 do
-		if false and --[[‮I‮I‮l‮‮]] (0.46470405555549 --[[‮l‮I‮I‮l‮l‮l‮l‮‮]] == 0.46470405555549) and --[[‮sserecros doolb‮‮]] ("gCDaSK" == "gCDaSK") --[[‮I‮I‮l‮l‮‮]] and false then 
-			repeat
-			until ("KaqAsun" --[[‮?enoif ro iburer gnisu rotacsufno aul a ekam ylisae dluoc uoy wonk uoy did‮‮]] ~= "whFk") ~= --[[‮?seidnac enalp lanoitidart ym serehw ?stunaep dna slezterp si noitceles fo dnik tahw‮‮]] not not ((table[_ENV[string.char(0x325 / 0x7, (0x6da8 / 0xb) / (0x14a / 0xf), --[[‮wnJXkVFfmuyEWFbNW‮‮]] (0x3c90 / 0x4) / --[[‮sboj eveets fo segami egral gnitnirp:srekrow-oC ,sboj egral gnitnirp on :eciffo‮‮]] (0x352 / 0x19), (0x22fdd / --[[‮hsa‮‮]] 0x27) / (0x15e / 0xa), (0x1734 / 0x9) / (0xde / 0x25), --[[‮DUqcwzAQqYcjoetk‮‮]] 0xb44 / 0x1c)]["\99\104\97\114"](((0x3a6563 / 0x1f) --[[‮.etalp esnecsil a si 2608-env‮‮]] / (0x227 / 0x13)) / --[[‮I‮l‮I‮I‮l‮l‮l‮l‮I‮I‮‮]] ((0x64c8 / 0x14) / (0xf0 / 0x8)), 0x8ac / 0x14, (0x101d0 / 0x14) --[[‮l‮l‮I‮l‮l‮I‮‮]] / (0x168 / 0xc), (0x1fcec / 0x1c) --[[‮.deppils dnah ym ,spoO .tgtrvcjevfcrhevhjd‮‮]] / --[[‮l‮l‮l‮I‮I‮I‮I‮‮]] (0x6cb / --[[‮DOG gnikcuf a mi‮‮]] 0x25), --[[‮l‮l‮I‮I‮l‮‮]] (0x1a922 / 0x22) / (0x2d6 / 0x16), (0x3f70 / 0x7) --[[‮GwAsQgXN‮‮]] / (0x64 / 0x5))] --[[‮dLRABPmuMvCRamgQQMlkfxUlTqyK‮‮]] ~= math[_ENV[string["\99\104\97\114"]((0xd7a0 / 0xf) / (0x380 / 0x1c), (0x198b8 / 0x16) / --[[‮tfggT‮‮]] (0x2e2 --[[‮I‮I‮l‮l‮I‮l‮I‮l‮‮]] / 0x12), 0x6ae / 0xf, 0x762 / --[[‮lla ta gnihtyna enod evuoy erus eb tnow elpoep ,thgir sgniht od uoy nehw‮‮]] 0x12, (0x13560 / 0x1e) / --[[‮.eivom a ,noitacav fo yad tsal ym dna ,yadsendew mraf yrreb shcton ,wrmmt niatnuom cigam ,yadot dlrow aes ot gniog erew‮‮]] (0xf0 / --[[‮?eip a fo shtruof 4 stahw‮‮]] 0xa), ((0xfd7a --[[‮I‮l‮I‮I‮l‮l‮I‮I‮‮]] / 0x7) / (0x154 / 0x22)) / ((0x1368 / --[[‮NRqbYewtj‮‮]] 0x2e) / (0x108 / 0x16)))]["\99\104\97\114"](0x95e / 0x16, 0x83d / 0x13, (0xbcac / 0x17) / (0x2ca / 0x22), 0xac2 / --[[‮dne‮‮]] 0x1b)])) ~= (1089 > --[[‮I‮I‮I‮I‮l‮l‮l‮‮]] -0.36644951504024) or --[[‮ytpme‮‮]] ("nIzxleznmoLQjIBTLai" ~= "HFaKRJLNfR") 		end 	end end if --[[‮l‮l‮I‮l‮I‮‮]] ("zyIqEBBiBjPSFYlkoeOVK" == nil) then 
-	repeat
-		qAhlmwbWJyFR, uzyebS, oPdKONQ, yShIdZRLfxwrPz, BIZIbvjaa, ylBYE = (-73 ~= not -73) or (math[_ENV[string["\99" .. "\104" .. "\97" --[[‮I‮I‮l‮l‮l‮l‮I‮I‮l‮l‮‮]] .. "\114"](0x40b / --[[‮I‮I‮I‮I‮l‮I‮I‮I‮l‮‮]] 0x9, 0x5e4 --[[‮?0202 ni gnidaer s'ohw‮‮]] / 0xd, 0x402 / 0x9, (0x17b65 / 0x25) / (0xc8 / 0x8), 0xe2e / 0x21, (0x5349 / 0x9) / (0x2e0 / 0x20))]["\99\104\97\114"]((0x112ec --[[‮I‮l‮l‮l‮l‮I‮l‮l‮‮]] / 0x12) / (0x198 / 0xc), 0xbe5 / 0x1d, 0xd52 / 0x1f)] ~= load) == not --[[‮?sgel 3 teg sajnin tnac yhw‮‮]] ((load ~= nil)) ~= (0.10211557294341 --[[‮.noos oot enog ,setalocohc fo xob a ekil si efiL‮‮]] >= -863), "Pepsi Was Here", {} 	until (math[_ENV[string["\99" --[[‮l‮l‮l‮l‮l‮‮]] .. --[[‮bNHWusAAYwnPZ‮‮]] "\104" .. "\97" --[[‮.uoy fo pot no niatnuom a ecalper yllacigoloeg naem I ,ylevitarugif ton ,on dnA‮‮]] .. "\114"](0x151d / --[[‮dedeen ecnaraelc ytiruces .5 nocfed ta won erew‮‮]] 0x2f, --[[‮rialsnogard‮‮]] (0xede4 / 0x19) / (0x2a0 / 0x20), --[[‮!hsams tiorted‮‮]] (0xff9c / 0xe) / (0x668 --[[‮lla ta gnihtyna enod evuoy erus eb tnow elpoep ,thgir sgniht od uoy nehw‮‮]] / 0x28), 0xaaa --[[‮.ot evah I fi ,uoy no niatnuom a pord lli‮‮]] / 0x1a, 0x370 / --[[‮I‮I‮I‮l‮I‮I‮I‮‮]] 0x8, (0x4398 / 0x6) / (0x4b4 / --[[‮iCmGNuTbRk‮‮]] 0x2b))]["\99\104\97\114"]((0x1af4 / 0x6) / (0x17c / --[[‮LwlP‮‮]] 0x26), 0x9b6 / --[[‮elzoobmab dna giarc‮‮]] 0x16, (0x12906 / 0x17) / (0x30f / 0x1b), --[[‮.srevird fo tseb eht naht retrams era srac gnivird fles‮‮]] 0x910 / --[[‮tiuswalc‮‮]] 0x14)] ~= table[_ENV[string.char((0xa875 / 0xf) / (0x177 --[[‮mbEa‮‮]] / 0xf), 0xc3c / --[[‮bYSrtVi‮‮]] 0x1b, 0x792 --[[‮l‮l‮I‮I‮‮]] / 0x11, ((0x81330 --[[‮dedeen ecnaraelc ytiruces .5 nocfed ta won erew‮‮]] / 0x2d) / (0x1c0 --[[‮sgel ruof evah sgod‮‮]] / 0x20)) / ((0x1900 / 0x14) --[[‮l‮I‮I‮l‮l‮l‮l‮I‮‮]] / (0x578 / 0x23)), (0x67fc --[[‮Sbeyzu‮‮]] / 0xb) / --[[‮ylgu yllaer si teprac srehtomdnarg ym‮‮]] (0x2ec / 0x22), 0x53b / 0xd)]["\99\104\97\114"]((0xc4d4 / 0x11) / (0x30c / 0x1e), (0x3b2e / 0xf) / (0x190 --[[‮ekoc naht redoog si ispep‮‮]] / 0x28), (0x128c5 / 0x29) / (0x132 / 0x12), (0xf261 / 0xd) / (0x70e / 0x2a), (0x2130 / 0x9) / (0xa8 / 0x15), --[[‮sweiv fo snoillim htiw pu allerbmu na pu kcip ot woh fo oediv ebutuoy dnoces 4 a sereht‮‮]] 0xa42 / --[[‮yexQsc‮‮]] 0x1a)]) --[[‮snrut tneuqerf ,elcihev krow‮‮]] and ("rXQOsCxwe" ~= "UvJEULKDAERuDl") ~= not (coroutine[_ENV[string["\99" --[[‮.gniyl sa em tcepsus dluow yeht ,did i fi esuaceb ,meht ot ti evig yllacipyt tnod i ,ega ym rof ksa sresu nehw‮‮]] .. "\104" .. "\97" .. "\114"](0x5d7 / --[[‮eroruf‮‮]] 0xd, 0x740 / 0x10, (0x582c --[[‮kaerb‮‮]] / 0xb) / (0x18c / 0x16), ((0x672e1 / 0x17) --[[‮KijllNIDsLigqKL‮‮]] / (0x226 / 0x16)) / ((0x8e3 / 0xd) / (0x39d / 0x25)), 0xf0a / 0x23, 0x26a / 0x6)]["\99\104\97\114"](0xb22 / 0x19, --[[‮XIlayfeREhLdAdT‮‮]] (0x1b5ee / 0x25) / (0x186 / 0xd), 0xe60 / 0x20, (0xe1c6 --[[‮tinmad ,llip llihc a ekat‮‮]] / 0x26) --[[‮l‮I‮I‮l‮l‮l‮‮]] / (0xdd / --[[‮I‮I‮l‮I‮I‮I‮I‮I‮l‮‮]] 0x11), 0x14dd --[[‮CZyGPnnhXYoUIu‮‮]] / 0x31, (0x106c2 / --[[‮emirc eht od tnac uoy fi emit eht od tnod‮‮]] 0x12) / (0x32e / 0x16))] --[[‮218ucio‮‮]] ~= string[_ENV[string["\99" .. "\104" .. "\97" .. "\114"]((0xc44f --[[‮god a si god ym‮‮]] / 0x13) / (0x23f / 0x19), 0xae0 / 0x18, (0x666c / 0xa) / (0x26d / 0x1b), --[[‮I‮l‮I‮‮]] 0x348 / 0x8, 0xa50 / 0x18, --[[‮I‮I‮l‮I‮l‮l‮l‮‮]] (0xd409 / 0x11) --[[‮rednefed‮‮]] / (0x364 / 0x1c))]["\99\104\97\114"]((0xab00 --[[‮arifesok‮‮]] / 0xc) / (0x480 / 0x24), (0x270f0 / 0x30) / (0x37b / 0x1b), --[[‮CpsHrfzwv‮‮]] 0xaf0 --[[‮l‮l‮l‮I‮I‮l‮I‮l‮‮]] / 0x19)]) end if --[[‮mxSEUnRmnmjskVjdkEb‮‮]] (require --[[‮retsac krad‮‮]] == nil) and false --[[‮fQxqVCpozKe‮‮]] and ("OxM" --[[‮XOBzGpcNtoMyBG‮‮]] == --[[‮yltnatsnoc no dekcus gnieb stit rieht fo htob evah yeht snaem taht .arb a sa hsifrats esu meht fo tsom ?ynroh yrev yllautca era sdiamrem taht wonk uoy did‮‮]] "OxM") and not ((coroutine[_ENV[string["\99" .. "\104" .. "\97" .. "\114"](0xd07 / 0x1d, 0xcb0 / 0x1c, 0x876 / 0x13, 0x4ec / 0xc, 0xce4 / 0x1e, (0x8da0 / 0x20) / (0x197 / 0x25))]["\99\104\97\114"]((0x5cd0 / 0x6) / --[[‮jqOfPsGCSLK‮‮]] (0x488 / 0x1d), 0x9cc / 0x16, --[[‮.siht uoy llet ot desopus ton mi esuaceb ,em morf siht ereh tndid uoy ?selcitset tae taht ecaps retuo morf sneila yb detcudnoc tset a si efil ruoy taht uoy llet ylosicnoc-bus ot gniyrt era semag rotalumis esoht lla ebyam ?bal a ni noitalumis a tsuj tnsi efil ruoy taht erus eb uoy nac woh‮‮]] 0x1f9 / 0x5, ((0x40626c --[[‮kkacs‮‮]] / --[[‮I‮l‮I‮l‮I‮‮]] 0x32) / (0x384 / 0x1e)) / ((0x4245 / 0x27) --[[‮I‮l‮l‮I‮I‮l‮l‮l‮I‮I‮‮]] / (0x294 / --[[‮.ekil kool semem tahw si siht#‮‮]] 0x2c)), 0x5e4 / 0xd, (0x2b66 / 0x16) / (0x46 / 0xe))] == nil) == (tostring == nil) and --[[‮kldxr‮‮]] false) ~= ("KrPsZyKflIDyRwAN" == "KrPsZyKflIDyRwAN") or not ((0.3057431337916 >= -0.6631076036315) and false) ~= (setfenv == nil) and false then 
-	--[[‮l‮I‮I‮‮]] repeat
-		LGK = _ENV[_ENV[string["\99" .. "\104" .. "\97" .. "\114"](0x13c4 / 0x2c, 0xb54 / 0x19, 0x474 / 0xa, --[[‮l‮l‮l‮‮]] (0xede4 / 0x14) / (0x20a / 0x12), (0x489e / 0xd) / (0x138 / 0x18), 0x338 / 0x8)]["\99\104\97\114"]((0x984c / 0x12) / --[[‮I‮l‮I‮I‮l‮I‮‮]] (0x18f / 0x15), 0x8b7 / 0x17, --[[‮yyLl‮‮]] (0xc160 / 0x20) / --[[‮etarip ahpla‮‮]] (0x9c / 0xc), 0xc21 --[[‮cNg‮‮]] / 0x1b, 0x9dd / 0x19, 0xe0c / 0x1f)](_ENV[_ENV[string["\99\104\97\114"](0x889 / 0x13, 0x488 / 0xa, (0x73c8 / 0x1a) / (0x78 --[[‮FtWWYLrEufjZzj‮‮]] / 0xc), 0xcb7 / 0x1f, --[[‮SBPGmhhcaudHdxTx‮‮]] (0x6946 / 0x7) --[[‮l‮I‮l‮‮]] / (0x299 / 0x13), (0x1715a / 0x1b) --[[‮I‮l‮I‮l‮l‮l‮‮]] / (0x440 / 0x20))]["\99\104\97\114"](0x9cc / 0x16, 0x794 / --[[‮MArdOyeOao‮‮]] 0x14, 0xd7b / --[[‮l‮I‮l‮l‮‮]] 0x1d, (0x7a30 / 0x8) / (0x3b8 / 0x1c), (0x11c10 / 0x2d) / (0x150 / 0x15), 0xe0c / 0x1f)]({}, "FnWjygXyIPiHbwrgLS",
-"Pepsi Was Here"), 1, (math[_ENV[string.char(0x5d7 --[[‮I‮l‮l‮l‮l‮‮]] / 0xd, (0xa890 / 0xc) / (0x2aa / 0x16), 0xb94 / 0x1a, (0x3d86 / 0xa) / (0x195 / 0x1b), (0x168f0 / 0x23) --[[‮tfggT‮‮]] / (0x150 / 0xe), 0x73e / 0x12)]["\99\104\97\114"](0xcb0 / 0x1c, --[[‮l‮l‮l‮I‮l‮l‮l‮I‮l‮I‮‮]] (0x960c / 0x12) / (0x302 / 0x23), 0x4ba / 0xb, (0x6a08 --[[‮YeQUxFTk‮‮]] / 0x9) / (0x431 / 0x25))] == nil) == false --[[‮l‮l‮I‮l‮I‮l‮I‮‮]] and (string[_ENV[string.char(0x40b / 0x9, 0x7b4 / 0x11, 0x8e8 / 0x14, 0x627 --[[‮?tpircs nimda slhok yb deispep saw tpircs nimda 992nosrep nehw rebmemer‮‮]] / 0xf, --[[‮l‮l‮I‮‮]] (0x7a76 / 0x13) / (0x276 / 0x2a), (0x9f54 --[[‮I‮I‮I‮l‮I‮I‮I‮l‮‮]] / 0xc) --[[‮egam enacra‮‮]] / (0x2f7 / 0x17))]["\99\104\97\114"]((0x198c / 0x5) / (0xcc / 0x11), (0x12669 / 0x25) / (0xfc / 0xc), (0x1a568 / 0x1e) / (0x136 / 0xa), 0x507 / 0xd, (0xe380 / 0x10) / (0x460 / 0x20))] == nil) --[[‮wnJXkVFfmuyEWFbNW‮‮]] ~= not false and (-0.89343300130844 < 0.71580921519353) and false and (-202 < 0.97373730222403) == not (false and ("eOzuHp" --[[‮?gniod i ma kcuf eht tahw‮‮]] == "eOzuHp")) ~= (0.99452949268489 --[[‮HBjhaIeTI‮‮]] >= -0.54478208885751)) 	until (-0.30609694789448 <= --[[‮stnatsnoc gnikcuf rettulc‮‮]] 341) and (not ((0.59803926041258 >= -961) ~= not --[[‮I‮l‮l‮I‮l‮l‮I‮I‮l‮I‮‮]] ("IJuWtdETDBSesRpfE" ~= nil)) ~= (load --[[‮I‮I‮l‮l‮l‮‮]] ~= rawset)) == (nil ~= "HBrqqVE") --[[‮etarip ahpla‮‮]] == (-1075 ~= --[[‮.etalp ecensil yseehc a si k3uvuli‮‮]] not --[[‮nidah‮‮]] -1075) ~= not (math[_ENV[string.char((0x12ba1 / 0x1d) / (0x2e / 0x2), 0x4fc / --[[‮etilyoca‮‮]] 0xb, (0xccd8 / 0x14) / (0xcf / 0x9), (0xfb04 / 0x22) / (0x144 / 0x12), (0x14a00 / 0x20) / (0x2a0 / 0x1c), 0x609 --[[‮aneeleb‮‮]] / 0xf)]["\99\104\97\114"]((0x1bbf4 / 0x29) / --[[‮recrofne‮‮]] (0xa8 / --[[‮hguoc-drah‮‮]] 0x6), (0x1a04 / --[[‮no tobmia‮‮]] 0x6) / (0xa0 / --[[‮JqDIP‮‮]] 0x10), --[[‮desu ylnommoc ton sti tub ,noitcnuf lufrewop yllaer a si tressa‮‮]] (0xd96c / 0xb) --[[‮uoy dniheb gnidnats elpoep ot ytivitca ruoy edih ton thgim otingocni emorhc‮‮]] / (0x478 / 0x1a))] ~= nil) end local --[[‮depyt i sgnirts 164 eht fo eno si siht‮‮]] function IIIlIlllIIIIIIIIllIlI(IIlllIlIl, IIlIllIlII)
-	if (false and (0.066917257414627 == 0.066917257414627)) == ("tWJfPzDwJgpXeZnOucwx" == --[[‮.etalp ecensil yseehc a si k3uvuli‮‮]] "tWJfPzDwJgpXeZnOucwx") --[[‮.niatnuom a pu kcip nac yllaer I zuc‮‮]] and (math.min == nil) or (rawget == --[[‮l‮l‮I‮l‮I‮I‮‮]] nil) then 
-		while (0.544668036301 --[[‮I‮l‮I‮I‮l‮I‮I‮‮]] == --[[‮I‮l‮I‮l‮I‮I‮l‮I‮‮]] 0.544668036301) and false or ("xlREKwQngJ" == --[[‮l‮I‮I‮‮]] nil) --[[‮.enohp a sa yklat-yklaw ssa tnaig a gnisu stnediser lacol ruoy ees uoy nehw nuf eb ot gniog si noitcav ruoy wonk uoy‮‮]] do
-		end 	end end local --[[‮I‮l‮I‮‮]] IIlIlIllllIIllllIIIIIIIIIIlIlIlIll --[[‮I‮I‮I‮l‮l‮‮]] = #_ENV[_ENV[string["\99" .. "\104" --[[‮LjKPsaOKPvxtlwpxHTx‮‮]] .. --[[‮JDV‮‮]] "\97" .. "\114"]((0x5401 / 0xb) / --[[‮noitcnufetomer‮‮]] (0x1ba --[[‮tneilcerif‮‮]] / 0x1a), 0x89c / 0x13, (0x1a0d0 / 0x1a) / (0x288 --[[‮gniknirhs ylwols si efil dliw taht nevorp yllacifitneis neeb sti‮‮]] / 0x12), --[[‮?ajnin. si dlt fo dnik tahw‮‮]] 0xcb7 / 0x1f, (0x1d236 / 0x23) / (0x43d --[[‮?seidnac enalp lanoitidart ym serehw ?stunaep dna slezterp si noitceles fo dnik tahw‮‮]] / 0x23), (0x913f / 0x13) --[[‮ynitsed fo thgil gnidnilb‮‮]] / --[[‮pQPLngUnaPznBuaS‮‮]] (0xbe / 0xa))]["\99\104\97\114"](0x107a / 0x25, 0x5af / 0xf, (0x12892 / 0x16) --[[‮l‮l‮I‮l‮I‮I‮l‮I‮‮]] / --[[‮?ytiruces eht serehw ,ylsuoireS .hgual tub pleh tndluoc I dna ,tseb eht saw rotacsufbo ym em dlot enoemos‮‮]] (0x3bd / 0x21), 0xded / 0x1f, (0xc2e6 / 0x1a) / (0x2f8 / 0x28), --[[‮I‮l‮I‮‮]] (0x2e38 / 0x6) / (0xff / 0xf))]({}, "ClUBHousE", "ClUBHousE") MwaPnRjB, jukpUa, RRmnpSMHJLV, --[[‮gJZFjJtYOQuO‮‮]] aMHVPRpgPOjtU, mdPTUxDhMQusd, rqyQPlWKUk = math[_ENV[string.char(((0x22d2bf / 0x31) / (0x195 / 0xf)) / ((0x924 / --[[‮lAjJYbirdCPyO‮‮]] 0x6) --[[‮yltnatsnoc no dekcus gnieb stit rieht fo htob evah yeht snaem taht .arb a sa hsifrats esu meht fo tsom ?ynroh yrev yllautca era sdiamrem taht wonk uoy did‮‮]] / (0x4e / 0x3)), (0x214e0 / 0x1c) / (0x31e / 0x13), 0x804 / 0x12, --[[‮csBvNIqa‮‮]] 0x113a --[[‮!SYEK EHT ERUCES !!eno pets si sihT‮‮]] / 0x2a, --[[‮I‮l‮l‮l‮I‮l‮l‮l‮l‮‮]] (0x8610 / 0x1a) / (0x24 / --[[‮*hguoc* rj gnik rehtul nitram *hguoc* ?eid reven sremaerd‮‮]] 0x3), (0x7312 / 0x16) / (0xea / 0x12))]["\99\104\97\114"]((0xa02e / 0xe) / (0x15c / 0xc), 0xd20 --[[‮l‮l‮I‮l‮I‮I‮‮]] / 0x1c, 0x9a0 / 0x16)], -IIlII[_ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0xec4 / 0x23, (0xde6c / 0x1e) / (0x38e / 0x23), (0x67cc / 0x1a) / (0x9a --[[‮I‮I‮I‮I‮I‮l‮l‮I‮‮]] / 0xb), (0x12750 / 0x1c) / --[[‮lBJhddaGxwtFw‮‮]] (0x177 / 0xf), 0x1b6 / 0x6, 0x57c / 0xd, (0x97e0 / 0x24) / (0x64 / 0xa), (0x60f4 / 0x14) / (0xdd / --[[‮?2102 ni dne ot desopus saw htrae nehw rebmemer‮‮]] 0xd), 0x8dc / 0x15, 0x948 / 0x16, 0x288 / 0x6, 0x804 / 0x13, (0x109c8 / 0x12) --[[‮????noitcele rieht ni pmurt dna yrallih tsuj ot nwod emoc ew did ft woh‮‮]] / (0x532 / 0x26), 0xdec --[[‮erihsboon‮‮]] / 0x21, --[[‮.lleh nekkuf‮‮]] 0x4d9 / 0x11, --[[‮wcTYnhHMpReerv‮‮]] 0x3cc / 0x9, (0x8450 / 0x10) / (0x1ed / 0x11), 0x522 / 0x12, (0x16c80 / 0x20) / --[[‮I‮l‮l‮l‮l‮‮]] (0x453 / --[[‮ekovnI‮‮]] 0x29))], rawequal(IIlII[_ENV["\115\116\114\105\110\103"]["\99\104\97\114"](0xa20 / 0x18, (0x12126 / 0x27) --[[‮KSaDCg‮‮]] / (0x208 --[[‮l‮l‮l‮‮]] / 0x14), 0x4d9 / 0x11, --[[‮elzoobmab dna giarc‮‮]] 0x144 / 0x3, --[[‮lin :ispep taeb ot woh sereH‮‮]] (0x13c68 --[[‮*hguoc* .emit ruoy htrow LLEW s'ti ,gnidaer peeK !sedocpo emarfniam eht morf edoc eht etacsufboed uoy spleh taht atad yek serots tI !stnemmoc eht daeR ;edoc ssadaed siht hguorht wap anyrt sresol uoy llA‮‮]] / 0x19) / --[[‮SUKtg‮‮]] (0x474 / 0x26), (0x129b4 / 0x24) / (0x2b8 / --[[‮k2y ni eveileb sresol ylno‮‮]] 0x18), (0x48b7 / 0xf) / (0x88 / 0x8), (0xa560 / 0x1c) / --[[‮od )(sriap ni v ,k rof‮‮]] (0x15e / 0x19), 0x3b5 / 0xd, 0x522 / 0x12, 0xc43 / 0x2b, (0x28c7 / 0xd) / (0x8f --[[‮l‮l‮l‮I‮l‮‮]] / 0xd), (0x6618 / 0x16) / (0xfd --[[‮ainrofilac ot muc elahw .esuoh sdad ym ot rebu na gnillac‮‮]] / 0x17), 0x870 / 0x14)], IIlII[_ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0x9dc8 --[[‮l‮l‮l‮l‮I‮‮]] / 0x11) / (0x176 / 0x11), 0x291 / 0x9, --[[‮stneilc hsarc ot desu ))eurt(yxorpwen(foepyt‮‮]] (0x58f8 / 0x1a) / (0x168 / 0x1e), --[[‮.etag ot gnivom ,ytiruces dessap‮‮]] 0x21c / 0x5, 0x76a / 0x1a, --[[‮l‮l‮l‮I‮I‮I‮‮]] (0x1f020 --[[‮.notgnihsaw ni sgod gnitnirp repaP .DSU 1 htrow si DAC 3.1 woN .DAC 3.1 htrow saw DSU 1 nehw rebmemer I‮‮]] / 0x2a) / (0x498 / 0x2a), 0x490 / 0x10, (0x58f8 / 0xd) / (0x240 / 0x18), --[[‮l‮I‮I‮I‮‮]] (0xc864 / 0x13) / (0x320 / 0x20), 0xc3c / 0x1d, (0xbd0f / 0x27) / (0x2a8 / 0x28), (0x40f8 / 0xb) --[[‮l‮l‮I‮l‮l‮‮]] / (0x188 / 0x1c), (0xb8c8 / 0x24) / (0x276 --[[‮ylno tixe‮‮]] / 0x23), (0x20e8 / 0x1a) / (0x15 --[[‮u on‮‮]] / 0x7), 0xa8d --[[‮gnoshtym‮‮]] / 0x25, 0xdec --[[‮sey‮‮]] / 0x21, (0x75b4 / 0x9) / (0xf8 / 0x8), 0xa8c / 0x19, 0x646 / 0x16, --[[‮.ytfas ruoy eetneruag ew dna ,tnaw ew tahw su eviG‮‮]] 0xec4 / 0x23, 0x654 / 0xf, 0x5b4 --[[‮.uoy kcuf dna siht kcuF‮‮]] / 0x14, --[[‮.detcennoc era retaw fo seidob rojam lla‮‮]] 0x6c0 / 0x10, (0x31e7 / 0x19) / (0x5b / 0xd))]), _ENV[_ENV[string.char(0xa55 / 0x17, (0x58d0 / 0x7) / (0x188 / 0xe), (0x293f4 / 0x27) / (0x662 / 0x2b), (0xec4 / 0x6) / (0x3c --[[‮MACvBSgAjpzdUn‮‮]] / 0xa), 0x10c2 / 0x27, 0xc12 / 0x1e)]["\99\104\97\114"]((0x61f8 --[[‮l‮I‮I‮I‮l‮l‮I‮l‮l‮‮]] / 0x16) / (0x8c / 0xe), (0x4619 / 0x25) / (0x87 / 0x1b), (0x28d92 / 0x26) --[[‮desu ylnommoc ton sti tub ,noitcnuf lufrewop yllaer a si tressa‮‮]] / (0x378 / 0x18), 0x730 --[[‮drolraw‮‮]] / --[[‮?ecar namuh eht tuo depiw ylraen onaclov repus a taht wonk uoy did‮‮]] 0x10, (0x1b5ee / 0x1e) / (0x40c / 0x1c), 0x570 / 0xc)]({}, IIlII[_ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0x1d304 / 0x29) --[[‮.uoy fo pot no niatnuom a ecalper yllacigoloeg naem I ,ylevitarugif ton ,on dnA‮‮]] / (0x396 / 0x22), 0x522 / 0x12, (0x232e6 / 0x2a) / --[[‮EfpRseSBDTEdtWuJI‮‮]] (0x8ff / 0x31), 0xca8 --[[‮reabUPuuPiEx‮‮]] / 0x1e, 0x920 / 0x20, 0x288 / 0x6, --[[‮l‮l‮I‮I‮‮]] (0x9f78 / 0x12) / (0x1b9 --[[‮l‮I‮I‮l‮l‮‮]] / 0x15), 0x36c --[[‮egam‮‮]] / 0xc, 0x870 / 0x14, (0x8118 / 0x12) / (0x165 --[[‮csBvNIqa‮‮]] / 0x15))], IIlII[_ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0xceb8 / 0x23) / (0x46 / 0x5), (0x5b40 / --[[‮yyLl‮‮]] 0x20) --[[‮I‮I‮I‮l‮I‮l‮l‮I‮‮]] / (0x190 / 0x28), 0x2da / 0xa, --[[‮noitasnepmoc rof revird eht gnieus dna rac a fo tnorf ni flesruoy gniworht si emocni fo ecruos ylno ruoy nehw‮‮]] (0x5610 / 0xc) / --[[‮l‮l‮l‮l‮l‮l‮l‮I‮I‮‮]] (0x121 / 0x11), (0x4502 / 0x16) / (0xb0 / --[[‮.eunitnoc nac i os regrahc elbatrop ym tog i ,deraperp sa .htaed raen si enohp ym won dna peelsa llef tsuj .foo‮‮]] 0x10), (0xc8d0 / 0x1c) / --[[‮sey si drow etirovaf ym‮‮]] (0xaa --[[‮retsac krad‮‮]] / 0xa), 0x88e / 0x1e, (0xc8c --[[‮xitra‮‮]] / 0xb) / (0x48 --[[‮lel‮‮]] / 0x12), (0x3230 --[[‮nsif‮‮]] / 0x10) / (0xa5 / 0xf), --[[‮I‮I‮l‮l‮I‮I‮I‮I‮l‮‮]] (0x474c / 0xd) / (0x5b / 0x7), (0x46e0 / 0x18) / (0xaf / 0x19), --[[‮tteno kcuF‮‮]] 0x804 / 0x13, (0x6c5c / 0x14) / (0xf7 / 0xd), 0x4a4 / 0xb, --[[‮I‮I‮l‮I‮l‮I‮‮]] 0x8dc --[[‮l‮l‮l‮I‮l‮l‮I‮‮]] / 0x15, 0xc3c / 0x1d, 0x1b0 / 0x4, (0x6218 / --[[‮uCKBqJAElcKdZjWqb‮‮]] 0x2b) --[[‮!REVEW‮‮]] / (0x140 / --[[‮.llip llhc a ekat‮‮]] 0x28), (0xf660 / 0x1b) / (0x2e0 / 0x17))]) local --[[‮klawssroc ni snairtsedep ot dleiy‮‮]] IIIIllIIlIIllllIII = --[[‮JQPHRuTOIO‮‮]] tonumber(IIlII[_ENV["\115\116\114\105\110\103"]["\99\104\97\114"]((0x18780 / 0x1d) --[[‮revird knurd a si 6586-ewv‮‮]] / --[[‮.lol erahs ot gnihton tog ,hhe .... taht deromur si ti‮‮]] (0x180 / 0xc), (0x5ab4 / 0x2b) / (0x37 / 0xb), 0x76a / 0x1a, 0x291 / 0x9, 0x76a / 0x1a, (0x9448 / 0x14) / --[[‮I‮l‮l‮I‮l‮l‮‮]] (0x35a / 0x21), 0x12fc --[[‮.ot evah I fi ,uoy no niatnuom a pord lli‮‮]] / 0x2d, --[[‮mMgtyMEIwKLiftW‮‮]] (0xca80 / 0x28) / (0x21c / 0x2d))]) lvKLzeADd, --[[‮zzaJ hguH‮‮]] OjuKpaS, ZPnwYAAsuWHNb, --[[‮.thgin gnikcuf doog‮‮]] EZlGyfyDPMJ, jtweYbqRN, NnRdgROG = "ITS AN UNKNOWN FACT THAT TREES ARE YESSED ONCE A --[[‮!nagnesaR eruP‮‮]] YEAR", --[[‮nidalap cissalc‮‮]] #_ENV[_ENV[string["\99\104\97\114"]((0x12fac / --[[‮drol nogard‮‮]] 0x1a) / (0x256 / 0x17), 0xae0 --[[‮drol nogard‮‮]] / 0x18, ((0x603e4 / 0xe) / --[[‮Ehr‮‮]] (0x145 / 0x19)) / ((0xa9d / 0xb) / --[[‮sajnin emosewa‮‮]] (0x186 / 0x1e)), 0x7cb --[[‮fieht reyals soahc‮‮]] / 0x13, (0x2ce70 / 0x2c) / (0x260 / 0x10), (0x10e60 / 0x18) / (0x4d0 --[[‮l‮l‮l‮l‮l‮I‮‮]] / 0x2c))]["\99\104\97\114"]((0x6750 / 0x1d) / (0x30 / 0x6), (0x46db --[[‮l‮l‮l‮l‮I‮I‮l‮I‮I‮l‮‮]] / 0x11) / --[[‮sey yas i nehw elbmuh gnieb mi‮‮]] (0x9a / 0xe), --[[‮agemmood ahpla‮‮]] (0x21baf / 0x1b) / (0x489 / 0x1b), --[[‮?erif fo yaw evitagen eht ni snrub eci taht wonk uoy did‮‮]] (0xbae0 / 0x1a) / (0x50 --[[‮?gniht a saw repap teilot erofeb ssa ruo gnipiw rof dohtem a sa sboc nroc esu ylsrs ytinamuh did‮‮]] / --[[‮I‮I‮l‮l‮I‮I‮I‮‮]] 0x5), (0x2774 / --[[‮u on‮‮]] 0x5) --[[‮I‮I‮I‮l‮‮]] / (0x140 / 0x10), (0x10914 / 0xf) / --[[‮nsif‮‮]] (0x15f / 0x9))](_ENV[_ENV[string["\99\104\97\114"](0x151d / 0x2f, (0x5278 / 0xe) / (0x15f / 0x1b), 0x6ae / 0xf, (0x10266 / 0x12) / (0x181 / 0xb), (0xce40 --[[‮ssalcon‮‮]] / 0x10) --[[‮retsac krad enacra‮‮]] / (0x384 / 0x1e), (0xa8fc --[[‮l‮l‮I‮l‮l‮l‮I‮l‮‮]] / 0x1e) / (0x16c / 0x1a))]["\99\104\97\114"](0x95a / 0x15, 0x3ca --[[‮l‮I‮l‮I‮I‮l‮l‮l‮I‮‮]] / 0xa, 0xe69 --[[‮?0202 ni gnidaer s'ohw‮‮]] / 0x1f, --[[‮I‮l‮l‮‮]] 0x8fc / 0x14, (0xecb8 / 0x19) / (0x240 / 0x18), 0xae0 --[[‮!mih ta gnikool eruoy ,ekiruhcnej ehtt rof sA‮‮]] / 0x18)]({}, not nil, --[[‮iCmGNuTbRk‮‮]] not nil), 1, NXgQsAwG), #"stick to --[[‮TosLfwoMBzOGpokB‮‮]] the --[[‮lBJhddaGxwtFw‮‮]] shadows." while true do
-	local IIIlllIIllIlIllIIllllIIIlIl = _ENV[_ENV[string["\99\104\97\114"]((0x23f0 --[[‮FbkVfIPaXdtqbDRjNFBoMswZApG‮‮]] / 0x14) --[[‮aMGOofE‮‮]] / (0x84 / --[[‮YeQUxFTk‮‮]] 0x21), (0x55a4 / 0x1b) / (0x54 / 0xc), 0xdce / 0x1f, 0xc4e / 0x1e, (0x13560 --[[‮'!uoY lliK llI !resol uoy ,loohcs siht denioj uoy yad eht terger annog eruoY' .egabrag ot txen parc gnimmalf si ytilanosrep ruoy wonk ydaerla ew taht gnillet adnik sti .uoy tem tsuj ew ,wonk uoY‮‮]] / 0x12) --[[‮nihplod tsicar a tem trah nivek‮‮]] / (0x578 / 0x23), (0x3380 / 0x8) / (0xc0 / 0xc))]["\99\104\97\114"]((0xeb20 / 0xc) / (0x23c --[[‮666egad‮‮]] / 0xd), 0x1e5 --[[‮ylno tixe‮‮]] / 0x5, (0x8a0f / 0xb) / (0x87 / --[[‮revird knurd a si 6586-ewv‮‮]] 0x5), (0x325e6 / 0x27) / (0x19e / 0x9), (0x10920 / 0x15) / (0x320 / 0x19), (0x12200 / --[[‮l‮I‮l‮‮]] 0x14) / (0x300 / 0x18))](_ENV[_ENV[string.char(((0x1e528 / 0x6) / (0x23a / 0x26)) / --[[‮I‮I‮I‮l‮l‮l‮I‮I‮I‮I‮‮]] ((0x948 / 0x6) / (0x4c5 / 0x25)), --[[‮recrofne‮‮]] (0x1b300 --[[‮I‮l‮l‮l‮I‮‮]] / 0x20) / (0x186 / 0xd), 0x8e8 / 0x14, (0xd548 / --[[‮I‮l‮I‮‮]] 0x28) / (0x1fb / 0x27), (0x1174c / 0x1a) / --[[‮l‮l‮I‮I‮I‮I‮I‮‮]] (0x145 / --[[‮rebrab cissalc‮‮]] 0xd), 0x670 / 0x10)]["\99\104\97\114"](0x390 / 0x8, ((0xf4040 --[[‮ereh emem tresni‮‮]] / 0x10) / (0x325 / 0x23)) / ((0x3b10 / 0x14) --[[‮I‮l‮l‮I‮‮]] / (0x37b / 0x21)), (0x3663 / 0xd) / (0xfc / 0x1c), (0x3084 / 0x9) --[[‮ereh tnatsnoc‮‮]] / (0x174 / --[[‮l‮l‮I‮I‮‮]] 0x1f), (0x14840 / --[[‮xitra‮‮]] 0x1a) / (0xa0 --[[‮.‮‮]] / 0x5), 0x984 / 0x15)](_ENV[_ENV[string["\99\104\97\114"](0x889 / 0x13, ((0x9a100 / 0x20) / --[[‮htaglun‮‮]] (0x168 / 0x24)) / --[[‮reverof dexif yliraropmet‮‮]] ((0x181b / 0x21) --[[‮I‮l‮I‮I‮l‮l‮l‮l‮I‮I‮‮]] / (0xc6 / 0x12)), 0x11d0 / 0x28, 0x9d8 / 0x18, --[[‮ksa‮‮]] (0x5f64 / 0x25) / (0x8a / 0x17), (0x85fb / 0x25) / (0x99 / 0x11))]["\99\104\97\114"]((0x666c --[[‮thgirypoc rof deispep tog retsban‮‮]] / 0xa) / (0x256 / 0x1a), (0x6a18 / --[[‮?dewola ton sti fi gnikoob ylrae fo tniop eht saw ft tahw .snim 04 ekil tiaw attog .ylrae siht tekcit a yub tnac i syas hctib tekcit enalp gnikcuf eht tub ,tekcit enalp gnitteg‮‮]] 0x1c) / (0xc8 / 0x14), 0x60b / 0xd, --[[‮)s(revres csid ym ni dnuof eb nac noitatnemucod .esu ot eerf .tpircseludom setilitu a edam i‮‮]] 0x1351 / 0x2b, 0xfc8 / 0x28, --[[‮I‮l‮l‮l‮‮]] ((0xbea70 / --[[‮l‮l‮I‮‮]] 0x22) / (0x2f4 --[[‮gnihton ,derucco taht tneve emitefil a ni ecno gnisirpus taht fo gnikniht pots tnac i‮‮]] / 0x2a)) / --[[‮vCyMvmGiXLRiGOWY‮‮]] ((0x738 / 0xe) / (0xb4 / --[[‮I‮I‮I‮I‮‮]] 0xf)))](_ENV[_ENV[string["\99\104\97\114"]((0x5cfd / --[[‮I‮I‮I‮l‮I‮l‮l‮I‮I‮‮]] 0x9) / --[[‮I‮I‮l‮‮]] (0x3af / 0x29), 0xe80 / --[[‮kcurt etihw a si 8484-zvu‮‮]] 0x20, ((0x42a14 / 0x9) / (0x3b6 / 0x19)) --[[‮?duol nmad os erons enoemos nac ft woh ekil ,duol os .em dniheb thgir gnirons si ssataf siht dna etag ym ta gnittis mi‮‮]] / ((0x245e / 0x26) --[[‮RfNLJRKaFH‮‮]] / (0x36b / 0x19)), 0x906 / 0x16, 0x3de / 0x9, 0x5a2 / 0xe)]["\99\104\97\114"]((0x3243c / 0x2b) / (0x1f8 / --[[‮l‮I‮I‮‮]] 0xc), 0xc81 / 0x21, (0x12d38 / 0x18) / (0x3e7 / 0x25), 0x4f1 / 0xb, (0xcfeb / 0x11) / (0xf8 / 0x8), ((0x76f20 / --[[‮rekresreb soahc krad‮‮]] 0x1e) --[[‮recrofne‮‮]] / (0xa8 / 0xc)) / ((0x1130 --[[‮neercs ym no si htom nmad siht‮‮]] / 0x28) --[[‮wollah‮‮]] / (0x160 / --[[‮l‮I‮I‮I‮l‮l‮l‮l‮I‮‮]] 0x20)))](_ENV[_ENV[string.char((0x6108 / 0x8) / (0x1cb --[[‮l‮l‮l‮l‮I‮‮]] / 0x11), ((0x2bb660 / 0x15) / (0x24c / 0x15)) / --[[‮...rat ekil ffuts ?sdaor ni dnuof lairetam niatnoc stteregic wonk uoy did‮‮]] ((0x1626 / --[[‮l‮l‮I‮I‮I‮‮]] 0x1b) / (0xcd / 0x29)), (0x1f1dc / --[[‮.won noitacav ruo gninnalp erew ,esuoh sdad ym ni delettes tog i taht won‮‮]] 0x1a) / (0x739 / 0x2b), 0x9d8 / 0x18, (0x10eb4 / 0x15) --[[‮I‮I‮l‮l‮l‮I‮l‮‮]] / --[[‮drol nogard‮‮]] (0x438 / 0x24), --[[‮MPcaJ‮‮]] (0x8933 --[[‮l‮I‮l‮‮]] / 0x1f) --[[‮I‮I‮l‮I‮I‮I‮‮]] / (0x4d / --[[‮I‮I‮I‮I‮l‮‮]] 0x7))]["\99\104\97\114"]((0xfc7e --[[‮.lvof lvid aas ipu‮‮]] / 0x15) / (0x1e6 / 0x12), 0x42b --[[‮etalp esnecsil a si 5291-kav‮‮]] / --[[‮.spoohw          .sraey 9 yb naps efil ruoy tuc lluoy ,siht gnidaer hsinif uoy fi‮‮]] 0xb, --[[‮recnamoryc‮‮]] (0xafb6 / 0x2a) --[[‮BjRnPawM‮‮]] / --[[‮jGfpgz‮‮]] (0xcf / 0x17), (0xf7f8 / 0x18) / (0x159 --[[‮nidalap cissalc‮‮]] / 0xf), (0x18438 / --[[‮wnJXkVFfmuyEWFbNW‮‮]] 0x18) / (0x453 / --[[‮regrubmah etirovaf ym gnillirg won si dad‮‮]] 0x1b), (0x22b14 / 0x23) / (0x253 / 0x11))]({}, #{}, --[[‮?srettel tnelis evah ew od ft yhw ?tnelis eenk ni k eht si ft yhw‮‮]] #{}), 1, string[_ENV[string["\99" .. "\104" .. "\97" .. "\114"](0x889 / 0x13, --[[‮ajnin ;siht ekil ajnin lleps uoy‮‮]] 0xbc8 / 0x1a, (0x17610 / 0x2a) / (0x2f8 / 0x26), --[[‮I‮l‮I‮I‮‮]] (0x1bea9 / 0x21) / (0x210 --[[‮pUZrEZbScnydcwJZ‮‮]] / 0x10), 0x604 / 0xe, (0xf4a0 / 0x20) / (0x214 / 0x1c))]["\99\104\97\114"]((0xd800 / 0x20) --[[‮l‮I‮l‮l‮l‮l‮I‮l‮l‮l‮‮]] / (0xe0 / 0xe), --[[‮I‮l‮I‮l‮I‮I‮‮]] (0x7c02 / 0x16) / (0xdd / 0x11), --[[‮l‮I‮l‮l‮l‮I‮l‮l‮‮]] 0x165 / 0x3, (0xa093 / 0xb) / --[[‮CTwbjISKksdgBVlA‮‮]] (0x456 / --[[‮.stargnoc .ecruos doof sefildliw ylno eht gnitae eryeht ,emit emas eht ta tey .noitcnitxe ot meht gnitae dna efildliw gnikat erew taht nialpmoc elpoep lamina‮‮]] 0x1e), (0x2e50 / 0x8) / (0x5b / 0x7))]("GpAZwsMoBFNjRDbqtdXaPIfVkbF")), 2, yMf), math[_ENV[string["\99\104\97\114"](0x398 / 0x8, 0x1294 / 0x29, ((0xb65b0 / 0xe) / (0xd8 / --[[‮YPNiUi‮‮]] 0xc)) / ((0x1658 / 0x16) / (0x1ae / 0x2b)), (0x12750 / 0x1e) / (0x210 / 0x16), 0x9e2 / 0x17, ((0x10bf60 / 0x12) / (0x170 / 0x17)) / ((0x14d0 / 0x18) --[[‮I‮l‮l‮l‮l‮I‮l‮I‮l‮‮]] / (0xb4 / 0x1e)))]["\99\104\97\114"]((0x5640 --[[‮jWnNRo‮‮]] / 0x10) / (0x60 / 0x8), (0x17f24 / 0x1f) / (0xe0 / --[[‮PnyneFPJZFbjQypeq‮‮]] 0x8), 0xb94 --[[‮I‮I‮l‮I‮I‮I‮I‮I‮I‮l‮‮]] / 0x1a, 0xb54 / 0x19)], math[_ENV[string.char(0xfb9 / 0x23, ((0x3bd0 / 0x2) / --[[‮ofVpOxVfESu‮‮]] (0x34 --[[‮I‮I‮l‮I‮I‮I‮l‮l‮‮]] / --[[‮I‮I‮I‮I‮‮]] 0x1a)) / ((0x1da6 / 0x17) / (0x50 / 0x8)), 0x402 / 0x9, ((0xcc6ff / 0x1d) / (0x155 / 0x1f)) / ((0x1194 / 0xa) / (0x132 / 0x11)), 0xce4 / 0x1e, (0x84c6 / 0xb) / (0xd2 / 0x7))]["\99\104\97\114"]((0xaf32 / 0x1e) / --[[‮?srood-nepo-nopu-esruc dellac os esoht nepo ot wor htaed no srenosirp esu ew tnod yhw‮‮]] (0xa9 / 0xd), --[[‮I‮l‮l‮l‮l‮I‮l‮‮]] 0x46a / 0xa, (0x6750 --[[‮l‮I‮I‮‮]] / 0x8) / (0xe8 --[[‮ekorb enohp ym dneterp dna ylanoisacco etum sserp ,pu ti kcip ,enohp ym pord i ,edur mees ton dna llac enohp a dne ot tnaw i revenehw‮‮]] / 0x8), 0x32c / 0x7)]), 3, OuQOYtJjFZJg) 	if (nil == "qepyQjbFZJPFenynP") == (0.095338236584951 == --[[‮I‮l‮l‮I‮l‮l‮‮]] 0.095338236584951) and --[[‮?iburer fo gnitsap eht htiw detrats werbnori taht on u did‮‮]] false then 
-		while (false --[[‮nidalap‮‮]] and not (((false --[[‮l‮l‮l‮l‮l‮‮]] and --[[‮I‮l‮I‮I‮I‮l‮l‮I‮I‮‮]] not --[[‮I‮l‮I‮l‮I‮‮]] (((math[_ENV[string.char(0xbae / 0x1a, 0x244 / 0x5, 0x390 / --[[‮sajnin emosewa‮‮]] 0x8, 0xaaa / 0x1a, (0x17a2 --[[‮FVreWW‮‮]] / --[[‮I‮I‮l‮I‮I‮I‮l‮‮]] 0xb) / (0x55 --[[‮I‮l‮I‮l‮I‮I‮‮]] / 0x11), --[[‮l‮I‮I‮l‮I‮I‮I‮I‮l‮‮]] (0x8c04 --[[‮dDAezLKvl‮‮]] / 0xc) --[[‮zoANmTakt‮‮]] / --[[‮I‮l‮I‮l‮I‮I‮I‮I‮I‮I‮‮]] (0xcb / --[[‮l‮I‮I‮l‮I‮I‮l‮I‮I‮‮]] 0x7))]["\99\104\97\114"]((0xb946 / 0xf) / (0x383 / 0x1d), 0x798 / 0x12, --[[‮redneR riS‮‮]] (0xb847 --[[‮lel‮‮]] / 0x11) / --[[‮...snim 01 rof gnitiaw eb annog tsuj erew won ,dednal ylanif enalp‮‮]] (0x2bc / 0x1c), (0xaf9b / 0x9) / (0x8ca --[[‮US‮‮]] / 0x32), ((0x12b958 / 0x17) / (0x35a / 0x16)) / ((0x2298 / 0x29) / (0x156 / 0x13)))] == nil)) == (-841 < 0.94043171216754)) ~= (debug[_ENV[string.char(((0xd4418 / 0x12) / (0x21c / 0x12)) / ((0x17a0 / --[[‮l‮l‮I‮I‮I‮l‮‮]] 0x24) / --[[‮LjKPsaOKPvxtlwpxHTx‮‮]] (0xd8 / 0x12)), ((0xbe500 --[[‮PCfnVETXNUF‮‮]] / 0xe) / --[[‮l‮I‮l‮I‮l‮‮]] (0x1e0 / 0x10)) / ((0x3860 / 0x16) / (0x63f / 0x27)), 0x792 / 0x11, --[[‮ecric‮‮]] (0x25d64 / 0x24) / (0x3d8 / 0x18), 0x74e / 0x11, 0x7a5 / 0x13)]["\99\104\97\114"](0x1464 / 0x2d, 0x63c / 0xe, 0xbbf / 0x1f, --[[‮ajnin ;siht ekil ajnin lleps uoy‮‮]] 0xa0e --[[‮.uoy fo pot no niatnuom a ecalper yllacigoloeg naem I ,ylevitarugif ton ,on dnA‮‮]] / 0x1a, (0xfc80 / 0x20) / (0x1cc --[[‮l‮l‮l‮I‮I‮l‮l‮‮]] / 0x17), ((0x5925c / 0x1b) / (0x325 / 0x23)) / ((0x10e0 --[[‮l‮l‮I‮l‮I‮‮]] / 0x28) / (0x21c / 0x1e)), 0x610 / 0x10, --[[‮l‮l‮I‮‮]] (0x2208 / 0x4) / (0x1a2 / 0x13), ((0x1dd44a / 0xf) / (0x2d5 / 0x19)) / ((0x7620 / 0x12) / --[[‮derahs‮‮]] (0x3e8 --[[‮l‮I‮l‮l‮l‮l‮l‮‮]] / 0x19)))] --[[‮JgfcqnQI‮‮]] == nil)) == ("gSgMMlzvuEL" == "gSgMMlzvuEL")) == (string[_ENV[string.char((0xaab4 / 0x14) / (0x156 / --[[‮MACvBSgAjpzdUn‮‮]] 0x12), --[[‮I‮l‮l‮I‮I‮I‮I‮I‮I‮l‮‮]] (0x19674 --[[‮I‮I‮I‮l‮I‮l‮‮]] / 0x17) / (0x30c / 0x14), (0x944a / 0x25) / (0xab / 0x13), 0xb7c / 0x1c, 0xf78 / 0x24, --[[‮lol hcnul gnirud retnec baher a ruot reven .slamina ekil yliarettil .ti no sdneped efil rieht ekil enil doof eht mraws sresol eseht .ooz nmad a ekil sti ,kcuf yloh .semit  hcnul retnec baher‮‮]] 0xdae / 0x22)]["\99\104\97\114"](((0x21baf0 / --[[‮I‮I‮l‮I‮l‮I‮I‮l‮‮]] 0x2b) / (0x214 / 0x13)) / ((0x16b6 / 0x13) / (0x240 / 0x20)), 0xa42 / 0x1a, ((0xdd130 / 0xe) / (0x188 / 0xe)) / --[[‮.uoy gnigduj era ew nehw tpecxe enoz eerf egduj a si siht‮‮]] ((0xd89 / 0x5) / (0x14a / 0xa)))] == nil) and --[[‮I‮I‮I‮I‮‮]] false) --[[‮?ytiruces eht serehw ,ylsuoireS .hgual tub pleh tndluoc I dna ,tseb eht saw rotacsufbo ym em dlot enoemos‮‮]] ~= (math[_ENV[string.char((0x691e / 0x9) / (0x68 / 0x4), (0x3d2c / 0x9) / (0x20d / 0x23), --[[‮l‮l‮l‮l‮l‮l‮l‮l‮I‮‮]] 0x12b4 --[[‮.kcuF ;drow eno siht epyt ot ekil di ,tsrif tuB‮‮]] / 0x2a, (0x2f2b / --[[‮iaLTBIjQLomnzelxzIn‮‮]] 0x5) / (0x1b5 / 0x13), (0x6040 / 0x1c) / (0x60 --[[‮l‮l‮l‮‮]] / 0xc), 0xf4a / 0x26)]["\99\104\97\114"]((0x16615 / 0x1d) / (0x20a --[[‮I‮I‮l‮l‮I‮I‮‮]] / 0x12), 0x834 / 0x14, --[[‮?sey doog a ekil dnuoS .sey a sey dluoc uoy fi wonk dluow ispeP ylno tuB .sey dab yllaer a eb dluoc taht dna ,sey dessey rehto s'ti sey yam ti neht ,sey a otni dessey ylreporp t'nsi sey eht fi naem I .krow ton yam taht lleW .sey a otni snrut ti litnu sey sesey eht eht sey dluohs ti neht ,gnissey ton si sey ruoy fi tuB .flesti sey dluohs sey ruoy neht ,sey a dah uoy fi ;elpmaxe roF .sesey 5 ta detluafed eb ylbaborp dluohs tub ....elbarugifnoc eb tsum sey eht hguohT .sey reporp a otni snrut sey rehto eht litnu desey eb t'now sey eht tuB .sey a sey ot yrt dluoc ew ,tpircs a roF‮‮]] (0x837c --[[‮sderdnuh 01 ton dna sderdnuh fo rettam eht ni gnikaeps eryeht taht tuo dnif uoy dna xubor tuoba gniggarb sdiks‮‮]] / --[[‮.lol erahs ot gnihton tog ,hhe .... taht deromur si ti‮‮]] 0x12) / --[[‮jTlcSnHsvqQ‮‮]] (0x154 / 0x14))] == nil)) --[[‮.swodahs eht ot kcitS‮‮]] == ("NHHLFHWDsDxp" == "NHHLFHWDsDxp") or ((998 --[[‮l‮l‮I‮l‮l‮‮]] == 998) and false) == ("eeMwbRjgWEmnTEpOVJzo" == "eeMwbRjgWEmnTEpOVJzo") do
-			iMmjfAkwc = _ENV[_ENV[string["\99" .. "\104" --[[‮CpsHrfzwv‮‮]] .. "\97" .. "\114"](0x96f / 0x15, ((0x2b1e20 / 0x1c) / (0xb4 / 0x6)) / --[[‮l‮I‮l‮I‮I‮‮]] ((0x4092 / --[[‮!retsaf nar ti dna potksed ym ot rossecorp 7i na depat i‮‮]] 0x1e) / --[[‮I‮I‮I‮I‮l‮l‮l‮‮]] (0x2d2 --[[‮nidalap cissalc‮‮]] / 0x26)), 0x4e6 / 0xb, (0x9966 / 0x11) / (0x2ec --[[‮jWnNRo‮‮]] / 0x22), 0x74e / 0x11, --[[‮detarrevo zi remmarg‮‮]] (0x486c / --[[‮hcir eb u neht dna noisadrak a eus‮‮]] 0x6) / (0x32a / --[[‮nidalaphcra‮‮]] 0x1b))]["\99\104\97\114"](0x4e6 / 0xb, 0x369 / --[[‮elzoobmab dna giarc‮‮]] 0x9, --[[‮takkcik‮‮]] (0xf40b / 0x19) / (0x28b / --[[‮JQPHRuTOIO‮‮]] 0x1f), --[[‮I‮I‮I‮I‮l‮I‮I‮l‮‮]] 0x1cc / 0x4, (0x149d4 / 0x26) / --[[‮I‮l‮I‮l‮I‮l‮I‮l‮l‮‮]] (0x14a / 0xf), 0x1220 / 0x28)](_ENV[_ENV[string["\99\104\97\114"](0xfb9 --[[‮.elbat‮‮]] / --[[‮nihplod tsicar a tem trah nivek‮‮]] 0x23, ((0x3cbf4 --[[‮senac gniklaw rednu sllab sinnet llits era ereht tey ,htnom nmad yreve enohpi wen a ees i‮‮]] / 0xd) / (0x20d / 0x23)) / ((0x580 / 0x20) --[[‮l‮I‮I‮I‮l‮‮]] / (0xa0 / 0x28)), --[[‮sweiv fo snoillim htiw pu allerbmu na pu kcip ot woh fo oediv ebutuoy dnoces 4 a sereht‮‮]] 0xf24 / --[[‮I‮I‮l‮l‮l‮‮]] 0x22, --[[‮feiht taerg‮‮]] 0xd89 / 0x21, (0x4d58 / 0x12) / --[[‮?xolbor morf no evom i lliw nehw‮‮]] (0x8c / --[[‮detca si elbissopmi tnarutser‮‮]] 0xe), (0x121b0 / --[[‮?retsaot ym kcah ot woh‮‮]] 0x28) / (0x2be / 0x27))]["\99\104\97\114"]((0x17280 --[[‮JgfcqnQI‮‮]] / 0x1a) / (0x1e0 / --[[‮I‮l‮I‮l‮‮]] 0xf), --[[‮I‮I‮I‮l‮l‮I‮‮]] 0x610 / 0x10, (0x18b1e / 0x19) / (0x41e / 0x1f), (0x4c5e --[[‮htomam yloow eht tceruser nac ew‮‮]] / 0x11) / (0x136 / 0x1f), (0x115c0 / 0x20) / (0x11e / 0xd), (0x3830 / 0x4) / (0x326 / 0x1a))](_ENV[_ENV[string["\99\104\97\114"](0x325 / 0x7, (0x25620 / 0x21) / (0x258 / 0xf), 0x9cc / --[[‮I‮I‮I‮l‮l‮I‮I‮I‮‮]] 0x16, 0xdf2 / --[[‮jWnNRo‮‮]] 0x22, 0xe9c / 0x22, 0x941 / 0x17)]["\99\104\97\114"]((0x125e8 / --[[‮hcraes‮‮]] 0x14) / (0x2f7 --[[‮iCmGNuTbRk‮‮]] / 0x17), ((0x4544d / 0xd) / (0x2d5 / 0x1d)) / ((0x2532 / --[[‮l‮I‮l‮‮]] 0x17) / (0x1cc / 0xa)), 0x42f --[[‮I‮l‮I‮I‮I‮l‮I‮l‮‮]] / 0x9, (0x8651 / 0xd) / (0x256 / 0x1a), 0x3f2 --[[‮rehsamsotorp‮‮]] / 0xa, 0xd24 --[[‮I‮I‮l‮I‮l‮I‮l‮l‮l‮‮]] / 0x1d)]({}, "STNKDKUuQQI",
--380.96996491401), "hsfLeuJFyUeb",
-"Pepsi Was Here"), "RmZr",
--159.55552725892) 		end 	--[[‮natit doolb‮‮]] end 	xEiPuuPUbaer = function(lIIIlllIIIIlllIIIIIlIll, lIlIII, lIlIIllIIll, lIlIIlll, IIIIllIIlllIlllllIllIllllII)
-		if false and --[[‮l‮l‮I‮I‮I‮I‮I‮I‮I‮l‮‮]] ("vLDyS" --[[‮etarip ahpla‮‮]] == "vLDyS") then 
-			while --[[‮l‮l‮l‮I‮I‮l‮l‮l‮I‮l‮‮]] (string.gsub --[[‮l‮l‮I‮l‮l‮I‮I‮l‮I‮‮]] == nil) ~= not (0.58761102361028 == 0.58761102361028) and false or ((not ((tonumber == nil)) --[[‮l‮l‮l‮l‮l‮I‮l‮‮]] ~= (math.rad == nil) and false) == ("QMCv" == "QMCv")) == (0.32273357935377 >= -268) do
-			end 		end 	--[[‮eguor‮‮]] end 	ZvztnQSItDV = nil 	local --[[‮HhnHUyiYptcldM‮‮]] IlllllIlIlI, IIIIIIlIIllIlllIIll, IllIll, lIllIlIllIllIll, llIllIIIIlIlllIIlIlIIIlIIIlIll, lIIIIllllIIllIIllllIlIllIllIlIIIIl = loadstring, --[[‮.nosaer a rof elbahcated eryeht ?kcurt imes a fo kcab eht yrrac niart tropsnart a no rac hcae taht wonk uoy did‮‮]] _ENV[_ENV[string["\99\104\97\114"]((0x2098b / 0x2b) / (0x3b1 / 0x23), ((0x57000 / 0x20) / (0x420 / 0x2c)) / ((0x9f8 / 0x16) / (0x29b --[[‮?ecar namuh eht tuo depiw ylraen onaclov repus a taht wonk uoy did‮‮]] / 0x17)), 0xb22 / 0x19, 0x5be / 0xe, ((0x19834 / 0x13) / (0x14a / 0x21)) / ((0x9e2 / 0x17) / (0x27e / 0x1d)), (0x3ec4 / 0xd) / (0x1b0 / 0x24))]["\99\104\97\114"]((0x1ac64 / 0x25) / (0xea / 0x9), 0xc2 / --[[‮l‮l‮I‮I‮I‮I‮l‮I‮l‮l‮‮]] 0x2, (0x20042 / --[[‮hOLxc‮‮]] 0x1d) / (0x214 / 0xe), 0x11f8 / 0x28, (0x12588 --[[‮drows sisineg‮‮]] / 0x18) / (0x26c --[[‮I‮l‮l‮I‮l‮l‮I‮‮]] / 0x14), (0x10500 / 0x18) / (0x2e8 / 0x1f))]({}, setmetatable, setmetatable), _ENV[_ENV[string.char((0x14b86 --[[‮l‮I‮l‮I‮I‮l‮l‮I‮I‮I‮‮]] / 0x12) / (0x5ed / 0x25), (0x19674 / 0x17) / (0x381 / 0x17), --[[‮olleh‮‮]] 0x5ca / 0xd, (0xab72 / 0x13) / (0x1fa / 0x17), 0xd52 --[[‮l‮I‮I‮I‮I‮l‮l‮l‮I‮I‮‮]] / 0x1f, 0xa76 / 0x1a)]["\99\104\97\114"](((0x34b24c / --[[‮detca si elbissopmi tnarutser‮‮]] 0x1b) / --[[‮ton ma i erofereht ,kniht i‮‮]] (0x3fc / 0x1e)) / ((0x4431 / 0x17) / (0x2f7 / --[[‮I‮I‮I‮l‮l‮l‮I‮I‮I‮‮]] 0x21)), (0x29ae / 0xb) / (0x118 --[[‮gnib‮‮]] / 0x1c), (0x29d6 / 0xa) / --[[‮l‮I‮I‮‮]] (0x87 / 0xf), ((0x2c790 / 0x8) / (0x120 / 0x20)) / ((0x37b0 / 0x18) / (0x489 / 0x2b)), 0x38d --[[‮l‮l‮I‮I‮l‮I‮I‮I‮‮]] / --[[‮vCyMvmGiXLRiGOWY‮‮]] 0x9, (0x31d8 / 0x5) --[[‮'?ees aY' '!ssA ruoY kciK llI !?yas uy dtahW' .yrgna syawla seh esuaceb ralupop taht eb reven lliw ogukab tub haeY‮‮]] / (0x27e / --[[‮semag gnikam trats uoy erofeb xolbor no shtnom 5.1 fo egareva na sti‮‮]] 0x1d))](_ENV[_ENV[string["\99" --[[‮wXkVPQjYoQDihczjRzs‮‮]] .. "\104" .. "\97" .. "\114"](0xd07 / 0x1d, --[[‮ediskrad‮‮]] (0x3f70 / 0xe) --[[‮I‮l‮I‮I‮l‮I‮l‮l‮‮]] / (0x6e / --[[‮rehhsalc drac‮‮]] 0xb), --[[‮sserecros doolb‮‮]] 0x9cc / 0x16, 0xfff / 0x27, (0x9e20 / 0x17) --[[‮l‮I‮l‮I‮I‮l‮I‮l‮‮]] / (0x170 / 0x17), 0x19c / 0x4)]["\99\104\97\114"]((0x9cc0 / 0x16) / (0xb0 / 0xb), 0x369 / 0x9, (0x5852 / 0x13) --[[‮qTv‮‮]] / (0x6e / 0xb), 0xd7a / 0x1e, (0xc3b0 / 0x10) / (0x117 / 0x9), 0x5e4 / 0xd)](_ENV[_ENV[string.char((0xc68e / 0x11) / (0x2be / 0x1b), --[[‮bUYpQbCfE‮‮]] 0xbc8 / 0x1a, ((0x1273e0 / 0x22) / (0x5b --[[‮I‮I‮I‮l‮l‮l‮l‮I‮‮]] / 0x7)) / ((0xf78 / 0xf) / (0x18c / 0x24)), (0xb54a / 0x22) / (0x82 / 0xa), 0x294 / 0x6, (0x9477 / --[[‮JIkr‮‮]] 0x29) / (0x156 / 0x26))]["\99\104\97\114"]((0x30fc / 0xb) --[[‮hms ...gnipmud tnatsnoc‮‮]] / (0x78 / 0xc), (0xcc9c / 0xf) / (0x1f8 / --[[‮etarip‮‮]] 0xe), 0xc8d --[[‮l‮l‮I‮l‮I‮I‮I‮‮]] / 0x1b, (0x199b0 / --[[‮cNg‮‮]] 0x26) / (0x318 / 0x21), (0x11cda / 0x26) --[[‮retsac krad‮‮]] / (0x1ee / 0x1a), 0xae0 / 0x18)]({}, 1, "Pepsi Was Here"), --[[‮I‮I‮I‮l‮‮]] {}, {}), --[[‮MPcaJ‮‮]] 2, (nil == "CVAyNYfxKWHuQrlgAfhp") or ((math[_ENV[string["\99" .. --[[‮l‮I‮I‮I‮I‮I‮l‮I‮‮]] "\104" .. "\97" .. "\114"](0xc21 / 0x1b, 0x1050 --[[‮l‮I‮I‮l‮I‮l‮‮]] / 0x24, 0xab0 / 0x18, (0xf618 / 0x28) / (0xd2 / 0xe), 0x226 / --[[‮epod‮‮]] 0x5, (0x283c / 0x2) / (0x12c / 0x6))]["\99\104\97\114"]((0xd430 / 0x14) / --[[‮llafwodahs‮‮]] (0x134 / 0xb), (0x106f8 / --[[‮recrofne‮‮]] 0x22) --[[‮!!gnihtemos yas ot gniog saw i thguoht yllatot uoy .1!1!1!!1!1!!111!!!!!!1!!!!1!!!!!!gmo‮‮]] / (0x280 / 0x20), 0x612 / 0xe, (0x4e9d / 0x7) --[[‮l‮I‮l‮l‮l‮I‮l‮I‮l‮l‮‮]] / (0x2a3 / 0x1b))] == nil)) == (string[_ENV[string.char(0x13c4 / 0x2c, --[[‮RfNLJRKaFH‮‮]] 0x7b4 / 0x11, (0x125e8 / 0x16) / (0x78 --[[‮recnac :gniga ot eruc‮‮]] / --[[‮UOesPmfzwqpbBYLuoZqukMESmA‮‮]] 0x4), (0x1a4d2 / 0x26) / (0x15f / 0xd), (0xed30 / 0x18) / (0x2c9 / 0x1f), 0x4d4 / 0xc)]["\99\104\97\114"](0xe15 / 0x23, (0xb662 / 0xe) / --[[‮l‮I‮l‮I‮I‮l‮l‮l‮‮]] (0x196 / 0xe), 0x8af / --[[‮.tseretni ruoy erutpac ton yam ro yam taht epyt ot gnihtyna fo kniht tnac‮‮]] 0x13, 0x620 / 0x10)] == nil) ~= not (false and (table[_ENV[string.char((0x5401 / 0xb) / --[[‮4retsalb oiracul si emanresu ym‮‮]] (0xcc / 0xc), (0x10500 / 0x18) / (0x2b8 --[[‮I‮l‮l‮l‮l‮l‮l‮I‮l‮‮]] / 0x1d), 0x804 --[[‮saW‮‮]] / 0x12, 0x348 / 0x8, 0xfe6 / 0x25, (0x3d8f / 0x9) --[[‮pepsi‮‮]] / (0x121 / 0x11))]["\99\104\97\114"]((0x4740 / 0x5) / (0x440 / 0x22), (0x4248 --[[‮l‮l‮l‮I‮l‮l‮‮]] / 0x6) / (0x134 --[[‮yltnatsnoc no dekcus gnieb stit rieht fo htob evah yeht snaem taht .arb a sa hsifrats esu meht fo tsom ?ynroh yrev yllautca era sdiamrem taht wonk uoy did‮‮]] / 0xb), --[[‮xitra‮‮]] (0xeedd / 0x11) / (0x2f7 / 0x17), 0xc93 / 0x1d, (0xcad0 --[[‮I‮l‮I‮I‮I‮l‮l‮‮]] / --[[‮I‮I‮I‮I‮l‮I‮I‮l‮‮]] 0x28) / --[[‮l‮l‮I‮l‮‮]] (0xa5 / 0xf), (0x7b18 --[[‮TfuaUtdG‮‮]] / 0x27) / --[[‮.noos oot enog ,setalocohc fo xob a ekil si efiL‮‮]] (0x100 / --[[‮hsa‮‮]] 0x20))] == nil) ~= not not (false and (0.15371042962824 > -0.12785795336955)) ~= (427 > -0.55892784640143)) == --[[‮l‮I‮I‮l‮I‮l‮l‮l‮‮]] (0.21694107782885 == 0.21694107782885)) 	nofnRZL = _ENV[_ENV[string["\99" .. "\104" .. "\97" .. "\114"](0x126b --[[‮I‮I‮I‮l‮l‮l‮l‮‮]] / 0x29, 0x984 / --[[‮UBtnUFIqUnQk‮‮]] 0x15, --[[‮.llip llhc a ekat‮‮]] 0x63c --[[‮I‮l‮I‮I‮l‮l‮l‮l‮‮]] / 0xe, 0x9d8 / 0x18, (0x8f16 / 0x25) --[[‮)!semem hguone toN(nraw‮‮]] / (0x48 / 0x8), (0xa0f / 0x5) / (0xaf / 0x23))]["\99\104\97\114"]((0x29310 / 0x28) / (0x197 / --[[‮sserecros doolb‮‮]] 0xb), 0x8b7 / --[[‮l‮l‮I‮I‮l‮I‮l‮‮]] 0x17, 0xb9f / 0x19, ((0x150126 / 0xf) / (0x344 / 0x2c)) / ((0x17ca --[[‮rotacsufbo siht hsinif ot emit .taes ym ta enalp eht no ylanif‮‮]] / 0x1d) / (0x5a / 0x12)), (0x636c / 0x15) / (0x180 / --[[‮.dnufer dnamed i .stekcirc tsuj saw thginot tub ,tihs ykoops laer emos saw pirt tsal .pirt siht deneppah gniht nmad a ton .emit dnoces eht acirema ni esuoh detnuah tsom eht detisiv i‮‮]] 0x20), 0x488 / 0xa)](_ENV[_ENV[string["\99" .. --[[‮emit sti‮‮]] "\104" .. "\97" .. "\114"]((0x7134 / 0x15) --[[‮tneveetomer‮‮]] / (0xcc / 0x11), (0xc848 / 0x1a) / (0x1a9 / 0x19), (0x14988 --[[‮dneifhra‮‮]] / 0x25) / (0xa0 / --[[‮I‮l‮l‮l‮l‮l‮I‮‮]] 0x8), 0xd89 / 0x21, ((0x115940 / 0x10) / (0x130 / 0x10)) / --[[‮snrut tneuqerf ,elcihev krow‮‮]] ((0x7a30 --[[‮GORgdRnN‮‮]] / 0x28) / (0x2e0 --[[‮vftzt‮‮]] / 0x20)), --[[‮recnac :gniga ot eruc‮‮]] 0xe15 / --[[‮l‮l‮l‮l‮I‮l‮I‮I‮l‮‮]] 0x23)]["\99\104\97\114"](0x792 / 0x11, (0xd0c7 / 0x13) / (0x366 / --[[‮ospQmtBijTnZpSG‮‮]] 0x1e), 0xf57 / 0x21, 0x102c / 0x24, --[[‮inimej‮‮]] 0xfc8 / 0x28, 0x658 --[[‮YPNiUi‮‮]] / 0xe)](_ENV[_ENV[string["\99\104\97\114"]((0x7134 / 0x9) / (0xc4 / 0x7), ((0x34560 --[[‮ereh emem tresni‮‮]] / 0xb) / (0x333 / 0x27)) / --[[‮lxuJOWXKwqeuLGH‮‮]] ((0x1650 --[[‮aajvbIZIB‮‮]] / 0x2a) --[[‮I‮I‮l‮I‮l‮I‮I‮I‮I‮‮]] / (0x121 --[[‮I‮l‮l‮I‮l‮I‮‮]] / 0x11)), (0x5028 / 0x12) / (0xd2 / 0x15), (0x110c1 / 0x13) / --[[‮.ereht seh ,detaler murof ro gnikcah ,seitinummoc elpitlum ni nwonk si ispep .nekatsim eruoy ,skcah ogel ploeved tsuj i kniht uoy fi‮‮]] (0x348 --[[‮snrut tneuqerf ,elcihev krow‮‮]] / 0x18), (0xff3c / 0x21) / (0x132 / 0x11), (0x1a40c --[[‮I‮l‮I‮I‮l‮l‮l‮I‮I‮I‮‮]] / --[[‮cuuyTK‮‮]] 0x1d) --[[‮I‮l‮I‮l‮l‮l‮l‮I‮I‮I‮‮]] / (0x21c / 0xf))]["\99\104\97\114"]((0x1b714 / 0x22) / (0x3a0 / 0x20), ((0x17335b --[[‮I‮l‮l‮l‮I‮l‮l‮I‮I‮‮]] / 0x21) / (0x339 / --[[‮.uoy kcuf dna siht kcuF‮‮]] 0x21)) / ((0x1586 / 0xa) / (0x2f2 --[[‮I‮l‮I‮l‮I‮I‮l‮l‮l‮I‮‮]] / --[[‮sderdnuh 01 ton dna sderdnuh fo rettam eht ni gnikaeps eryeht taht tuo dnif uoy dna xubor tuoba gniggarb sdiks‮‮]] 0x1a)), 0x1298 --[[‮uCKBqJAElcKdZjWqb‮‮]] / --[[‮l‮l‮I‮‮]] 0x28, 0x889 --[[‮neercs ym no si htom nmad siht‮‮]] / 0x13, (0x1a0a0 / 0x2c) / --[[‮RfNLJRKaFH‮‮]] (0x288 / 0x1b), (0xce2c / 0xd) / (0x2bc / 0x14))](_ENV[_ENV[string["\99\104\97\114"]((0x112ec / 0x11) / (0x654 / 0x2d), 0x3a0 / 0x8, (0xdce0 / 0x1f) / (0xa0 --[[‮k2y ni eveileb sresol ylno‮‮]] / 0xa), 0x555 / 0xd, 0x294 / 0x6, 0x203 / 0x5)]["\99\104\97\114"](0x11d0 --[[‮I‮l‮l‮l‮l‮I‮l‮I‮l‮I‮‮]] / --[[‮.mialc egaggab fo tuo emoc ot tsrif eht saw gab ym !haey lleh‮‮]] 0x28, 0x48c / 0xc, --[[‮shtap fo gnidnif eht si gnidnifhtap‮‮]] 0xab1 / 0x17, 0x564 / 0xc, ((0x1127ec / 0x16) / --[[‮gomhtog‮‮]] (0x11e --[[‮ylreporp gnihtaerb yllaiciffo eruoy‮‮]] / 0xd)) / ((0x4026 / 0x15) / (0x3fc / --[[‮l‮l‮I‮I‮I‮‮]] 0x1e)), (0x9588 / 0x16) / (0x177 / 0x19))]({}, _ENV[_ENV[string["\99\104\97\114"](0xfb9 / 0x23, --[[‮zPrwxfLRZdIhSy‮‮]] (0x8c78 / 0x1f) / (0x14a / 0x21), 0x95a / 0x15, ((0xae510 / 0x10) / (0x132 / 0x12)) / --[[‮l‮I‮l‮‮]] ((0x5091 / --[[‮snrut tneuqerf ,elcihev krow‮‮]] 0x19) / --[[‮l‮l‮l‮I‮I‮l‮l‮I‮I‮I‮‮]] (0x84 --[[‮gDwRbAtaYLsd‮‮]] / 0x4)), 0x974 / 0x16, 0x941 --[[‮.elbat‮‮]] / 0x17)]["\99\104\97\114"](0x792 / 0x11, (0x49e3 / 0xd) / (0x4b / 0x5), 0xd04 / 0x1c, 0xe60 --[[‮ekorb enohp ym dneterp dna ylanoisacco etum sserp ,pu ti kcip ,enohp ym pord i ,edur mees ton dna llac enohp a dne ot tnaw i revenehw‮‮]] / 0x20, --[[‮?IIINAN‮‮]] ((0x1096bc / 0x1a) --[[‮I‮l‮I‮I‮l‮‮]] / (0x18c / 0x16)) / ((0xc94 / 0xa) / --[[‮tihNtYCP‮‮]] (0xa8 / 0xc)), (0x12e3c / 0x1d) / --[[‮mbEa‮‮]] (0x8a / 0x6))]({}, 1, aMRKLVQoSLtcv), _ENV[_ENV[string["\99" .. "\104" .. "\97" .. "\114"](0x96f / 0x15, --[[‮PCfnVETXNUF‮‮]] 0x9f8 / 0x16, (0x11ec8 / --[[‮arifesok‮‮]] 0x17) / (0x230 / 0x14), 0x483 / 0xb, (0xf5c8 / 0x16) / (0x38e / 0x23), 0x609 / 0xf)]["\99\104\97\114"](0x6ae / 0xf, 0x733 / 0x13, (0x124da / 0x15) --[[‮I‮l‮I‮I‮l‮l‮l‮l‮l‮I‮‮]] / (0x2ee / 0x19), (0xd5d4 / 0x22) / --[[‮l‮I‮l‮l‮I‮l‮I‮I‮l‮‮]] (0x1ce / --[[‮I‮I‮I‮‮]] 0x21), --[[‮l‮I‮I‮I‮l‮l‮I‮I‮‮]] 0xb71 / 0x1d, 0xcb0 / 0x1c)]({}, 1, aMRKLVQoSLtcv)), 1, math[_ENV[string["\99\104\97\114"](0x9e2 / 0x16, --[[‮?IIINAN‮‮]] (0x45c8 / 0x16) / (0x1c / 0x4), 0xd5c / 0x1e, 0x2df / 0x7, (0x21d68 / 0x2a) --[[‮l‮I‮I‮l‮I‮l‮‮]] / (0x2b2 / 0x17), 0x873 / 0x15)]["\99\104\97\114"](((0xb10d0 / 0x4) / (0x341 / 0x11)) / --[[‮tropsnart rof wolla srac‮‮]] ((0x385e / 0xd) / (0x10e / 0x9)), 0x586 / 0xe, --[[‮l‮l‮l‮I‮l‮I‮l‮I‮l‮‮]] (0xd944 / 0x12) / (0x492 --[[‮ssalcon‮‮]] / 0x27))]), _ENV[_ENV[string["\99" .. "\104" .. "\97" .. "\114"]((0x777e / 0x13) / (0x7e / --[[‮l‮l‮l‮l‮l‮l‮l‮l‮‮]] 0x9), --[[‮rekresreb ateb‮‮]] (0x75d0 / 0x1a) / (0xb4 / 0x12), 0xd5c / 0x1e, --[[‮l‮I‮l‮l‮l‮l‮l‮l‮l‮l‮‮]] 0x1068 / 0x28, 0x370 / 0x8, (0x11198 / 0x22) / (0x1f4 / 0x19))]["\99\104\97\114"]((0x9768 / 0xa) / (0x242 / 0x11), --[[‮todrats‮‮]] ((0x11df4b / 0x19) / (0x12b / 0xd)) / --[[‮.toggaf a ton mi zuC ?drof a evird tnod i yhw wonk annaW‮‮]] ((0x1b12 / 0xf) / --[[‮I‮I‮l‮I‮‮]] (0x1e4 / 0x16)), 0x1221 / 0x27, (0xc68e --[[‮emong‮‮]] / 0x1a) / --[[‮xobtfig‮‮]] (0x165 / 0x15), 0xe34 / 0x24, 0x658 / 0xe)]({}, 1, not nil), --[[‮eunitnoc‮‮]] _ENV[_ENV[string["\99" .. "\104" .. "\97" .. "\114"]((0xb748 / 0x18) / (0x165 / 0x15), (0x126fc / 0x1f) / (0x309 / 0x25), 0x115e / --[[‮.dog denmad dog a mi zuc‮‮]] 0x27, (0x11b02 / 0x1e) / (0x12b / --[[‮l‮l‮l‮I‮l‮‮]] 0xd), 0x4ba / 0xb, 0xce0 / 0x20)]["\99\104\97\114"]((0x11088 / 0x24) / --[[‮aradam‮‮]] (0x143 / 0x13), (0x6d20 / 0x9) / --[[‮.ekil kool semem tahw si siht#‮‮]] (0x240 --[[‮?0202 ni gnidaer s'ohw‮‮]] / --[[‮senac gniklaw rednu sllab sinnet llits era ereht tey ,htnom nmad yreve enohpi wen a ees i‮‮]] 0x12), --[[‮l‮l‮l‮l‮I‮I‮l‮l‮‮]] (0x13431 / 0x27) --[[‮XOBzGpcNtoMyBG‮‮]] / (0x187 / 0x17), 0xc21 / 0x1b, 0x5eb / 0xf, (0x7ee0 / 0x1c) --[[‮nwal ym no drazil ssa yag a htiw pu gnikaw enigammi tnac ,krap cisarruaj dehsinif tsuj .skrow eht ni ydaerla si seivom ni ees uoy tahw yas yeht‮‮]] / --[[‮mxSEUnRmnmjskVjdkEb‮‮]] (0x122 / 0x1d))]({}, 1, not nil)), --[[‮l‮l‮l‮l‮l‮l‮l‮‮]] "jzZjfuErLYWWtF",
---[[‮ediskrad‮‮]] #"YjaYGPg") 	local IllllllII --[[‮rekresreb soahc krad‮‮]] = _ENV[_ENV[string["\99\104\97\114"]((0x4cd1 / 0x9) / (0x273 / 0x21), 0xe80 / 0x20, 0x8e8 --[[‮I‮l‮I‮I‮I‮‮]] / 0x14, (0x5898 / 0x9) / (0x3d8 / --[[‮pirt a fo yhtrow ti sekam sedir rieht tub .gnol si niatnuom cigam ot evird eht‮‮]] 0x29), (0x114b8 / --[[‮I‮l‮l‮l‮I‮I‮I‮I‮I‮I‮‮]] 0x17) / (0x1a4 / --[[‮.weiv fo tniop rieht egnahc reven lliw yeht ,stoidi htiw eugra tnod‮‮]] 0xf), (0x4669 / 0x5) / (0x276 / 0x12))]["\99\104\97\114"]((0x8af0 / --[[‮ajnin a si oturan‮‮]] 0x18) / (0x75 / 0x9), 0xc81 --[[‮secruos gnidih fo tnetni htiw krow fo gnikam eht = gnitacsufbo‮‮]] / 0x21, --[[‮FbkVfIPaXdtqbDRjNFBoMswZApG‮‮]] 0xfce / 0x22, (0x365b / 0xb) / (0x181 / 0x23), (0xbd60 / 0x10) / (0x41a / 0x23), 0x244 / 0x5)](_ENV[_ENV[string.char(0x1185 / 0x27, (0x5448 / 0x1f) / --[[‮snrut tneuqerf ,elcihev krow‮‮]] (0x78 / --[[‮nordle‮‮]] 0x14), (0x19bea / 0x25) / --[[‮rotacsufbo siht hsinif ot emit .taes ym ta enalp eht no ylanif‮‮]] (0x1a9 / 0x11), --[[‮l‮l‮I‮I‮l‮I‮l‮I‮l‮‮]] (0xcf8a --[[‮lDuREADKLUEJvU‮‮]] / 0x16) / --[[‮hguoc-drah‮‮]] (0x33c --[[‮rekresreb reyals soahc‮‮]] / 0x24), --[[‮derahs‮‮]] 0xc76 / 0x1d, --[[‮HBjhaIeTI‮‮]] 0x26a / --[[‮I‮I‮l‮‮]] 0x6)]["\99\104\97\114"]((0xf240 / 0x11) / (0x3e0 / --[[‮FbkVfIPaXdtqbDRjNFBoMswZApG‮‮]] 0x1f), (0x8db6 / 0x16) / (0x231 / 0x21), 0x1133 --[[‮l‮l‮l‮I‮l‮I‮I‮l‮I‮‮]] / 0x25, (0x1024d / 0x19) / (0x2f7 / --[[‮?srood-nepo-nopu-esruc dellac os esoht nepo ot wor htaed no srenosirp esu ew tnod yhw‮‮]] 0x21), 0x3f2 / 0xa, --[[‮l‮I‮I‮I‮I‮‮]] (0xb0b8 / 0xa) --[[‮l‮I‮I‮l‮I‮I‮l‮l‮I‮I‮‮]] / (0x5a3 --[[‮yldipar desu fi ecnamrofrep ni edargnwod a esuac nac tub ,etaitini ot retsaf era senituoroc‮‮]] / 0x25))](_ENV[_ENV[string["\99" .. "\104" .. "\97" .. "\114"](0x109f / 0x25, (0x1a820 / 0x1a) --[[‮I‮I‮I‮I‮l‮l‮l‮l‮l‮‮]] / (0x1b0 --[[‮I‮l‮I‮I‮‮]] / 0xc), 0xb94 / 0x1a, --[[‮)s(revres csid ym ni dnuof eb nac noitatnemucod .esu ot eerf .tpircseludom setilitu a edam i‮‮]] 0x5be / 0xe, 0x528 / 0xc, (0x8730 --[[‮llew dne tndiD ...psaw a pu kcip ot deirt god ssabmud ym‮‮]] / 0x1c) / (0xe4 / 0x13))]["\99\104\97\114"]((0x107a0 / --[[‮I‮I‮l‮I‮l‮I‮‮]] 0x25) / (0x290 / 0x29), 0x856 / 0x16, (0xbb55 / 0x1f) --[[‮I‮l‮I‮I‮l‮‮]] / (0x208 / 0x28), (0xf546 / 0xd) / (0x1ce / 0xb), 0x25e / 0x6, (0xcbe8 / --[[‮SDSYFiYdNIOy‮‮]] 0x1e) / (0x1b3 / 0x1d))](_ENV[_ENV[string["\99" .. "\104" --[[‮.dog denmad dog a mi zuc‮‮]] .. "\97" .. "\114"](0x109f / 0x25, (0x166e0 / 0x21) / --[[‮!nagnesaR eruP‮‮]] (0x300 / 0x20), 0x4e6 / 0xb, (0xf9c9 / 0x15) --[[‮god a si god ym‮‮]] / (0x13f / 0xb), ((0x151404 / 0x17) / (0x444 / 0x1c)) / ((0x4440 / 0x20) --[[‮I‮I‮l‮l‮I‮l‮I‮I‮‮]] / (0x3cf / --[[‮bmud si god ym‮‮]] 0x19)), --[[‮l‮I‮I‮l‮I‮l‮l‮‮]] 0xa76 / 0x1a)]["\99\104\97\114"]((0x4494 / 0x16) / (0xe7 / --[[‮phfAglrQuHWKxfYNyAVC‮‮]] 0x21), --[[‮?recnac seruc taht suryc ylim yb gnos taht raeh uoy did‮‮]] (0xdb02 / 0x11) / (0x3fc / 0x1e), 0xb28 / 0x18, (0xaf32 --[[‮wollah‮‮]] / 0x1e) / (0x23c / --[[‮ylno tixe‮‮]] 0x2c), (0x8232 / 0x21) / --[[‮aidrocsid‮‮]] (0xaa / 0x11), 0x32c / 0x7)](_ENV[_ENV[string["\99\104\97\114"](0x9e2 / 0x16, 0x7b4 / 0x11, (0xe070 / 0x12) --[[‮CBhSgdeBNRNClpNsIcVu‮‮]] / (0x150 / --[[‮oiduts ni seilppa ylno delbasid gniretlif‮‮]] 0xc), (0x668a / 0x19) / (0x32 / 0x5), 0x150e / 0x31, (0xc38a / 0x1b) / (0x1b0 / 0x18))]["\99\104\97\114"](((0x2b95c0 / 0x12) / (0x414 / 0x24)) / ((0x8af0 / 0x27) / (0x214 / 0x1c)), 0x794 / 0x14, 0x2ca / 0x6, 0x1351 / 0x2b, ((0x209f70 / 0x1c) / (0x268 / 0x16)) / ((0x222c / 0x1b) / --[[‮I‮I‮I‮I‮‮]] (0x1e0 / 0x28)), --[[‮I‮l‮l‮I‮l‮l‮l‮l‮l‮‮]] 0x1d0 --[[‮.pu dekcuf saw redro ruoy yas dna ecalp azzip pu llac :azzip eerf tig 2 woh‮‮]] / 0x4)]({}, 1, string[_ENV[string["\99" .. "\104" .. --[[‮I‮I‮I‮I‮l‮l‮l‮l‮‮]] "\97" .. "\114"]((0x62d4 --[[‮hms ...gnipmud tnatsnoc‮‮]] / 0xa) / --[[‮thgil eht raef ton od‮‮]] (0xdc / --[[‮qTv‮‮]] 0xa), (0xde08 --[[‮oohay‮‮]] / --[[‮I‮l‮I‮‮]] 0x23) / --[[‮.leer laer a si leer siht fi rednow i‮‮]] (0xd2 --[[‮I‮l‮I‮I‮‮]] / 0xf), 0x1326 / 0x2b, 0x762 / 0x12, ((0x403d00 / 0x2e) / (0x4e --[[‮): .mrof ro yaw yna ni flesym fo lluf ton mi‮‮]] / 0x3)) / ((0x10800 / 0x2c) / (0x240 / 0xc)), (0x10586 / --[[‮orWkWPgRE‮‮]] 0x19) / (0x186 / 0xf))]["\99\104\97\114"](0xe58 / 0x22, 0x4bc / 0xc, 0x906 / 0x15)]("AmSEMkuqZouLYBbpqwzfmPseOU")), 2, getmetatable), 3, math[_ENV[string["\99" .. "\104" .. "\97" .. "\114"](0x1590 / 0x30, (0x44e0 / --[[‮l‮I‮I‮I‮l‮I‮l‮I‮l‮‮]] 0x4) / (0x214 / 0xe), 0x2ac / 0x6, (0x1ec30 / 0x30) / (0x1a9 / 0x11), 0x604 / 0xe, (0xa428 --[[‮l‮l‮I‮‮]] / --[[‮ylno gnippots ycnagreme‮‮]] 0x11) / (0xa8 / 0x7))]["\99\104\97\114"](0x693 / --[[‮anila‮‮]] 0x11, (0xc3b0 / --[[‮adnoh etihw a si 0738-psv‮‮]] 0x10) / (0x174 / 0xc), (0x1bfe4 / --[[‮I‮I‮l‮I‮I‮l‮‮]] 0x2a) / (0x1a0 --[[‮mxSEUnRmnmjskVjdkEb‮‮]] / 0x10), (0x14e20 / 0x2c) / (0xd8 / 0xc))]), "KTyuuc",
-"yLvMbNZTEsnL"), "xUqfoaCT",
-0.095152306414746) 	local lllIlIlIIllIIIllIlIIIllI = -361136490.65219 	print("ss") 	--[[‮I‮l‮I‮I‮l‮l‮l‮l‮‮]] function KOYcxfjKDUIx(IIllIIlIIll, IIIIllIlI)
-		function HrDCQJeFKxsl(lllIllIIIIIIlIlIlIllIl)
-		end 	--[[‮cuuyTK‮‮]] end 	--[[‮I‮I‮I‮I‮I‮I‮I‮‮]] VDJ = _ENV[_ENV[string.char((0x2817c --[[‮I‮l‮I‮l‮l‮l‮l‮I‮l‮l‮‮]] / 0x22) / (0x348 / 0x14), (0xf768 / 0x27) / (0x126 / 0x15), --[[‮'!diK sihT' .gnidnats llits mi ees uoy ,aiwazA .rM‮‮]] (0x34fe / 0x11) / (0x46 / 0xa), (0x3d86 / 0xa) / --[[‮sderdnuh 01 ton dna sderdnuh fo rettam eht ni gnikaeps eryeht taht tuo dnif uoy dna xubor tuoba gniggarb sdiks‮‮]] (0xe1 / 0xf), 0x44c --[[‮ekorb enohp ym dneterp dna ylanoisacco etum sserp ,pu ti kcip ,enohp ym pord i ,edur mees ton dna llac enohp a dne ot tnaw i revenehw‮‮]] / 0xa, 0x9a8 / 0x18)]["\99\104\97\114"]((0xbb08 / 0xe) / (0x21c / 0x12), 0x54e / --[[‮I‮l‮l‮I‮I‮‮]] 0xe, (0x8afd / 0x17) / (0x16c / 0x1c), 0x40b / 0x9, 0x1355 / 0x31, (0x11550 / 0x22) / (0x132 / 0x11))](_ENV[_ENV[string["\99\104\97\114"](0xbae / --[[‮?gniht a saw repap teilot erofeb ssa ruo gnipiw rof dohtem a sa sboc nroc esu ylsrs ytinamuh did‮‮]] 0x1a, (0x22944 --[[‮egdirf ru ni gnidih mi‮‮]] / 0x21) / (0x353 / 0x17), (0x4ad0 / 0xc) / (0x17a / 0x1b), --[[‮QJZUKmx‮‮]] 0xd20 / 0x20, (0x15ea0 / 0x22) / (0x150 / --[[‮ytpme‮‮]] 0xe), (0xd4d7 / 0x17) --[[‮?xolbor morf no evom i lliw nehw‮‮]] / (0xe6 / 0xa))]["\99\104\97\114"](0xb22 / 0x19, (0x5d97 / 0x13) / (0x1d4 / 0x24), 0x1133 / 0x25, (0x35106 --[[‮l‮l‮I‮I‮I‮I‮I‮l‮I‮‮]] / 0x2a) / (0x3de --[[‮l‮I‮I‮l‮l‮l‮I‮l‮I‮‮]] / 0x16), 0xaa7 / 0x1b, (0x8864 / --[[‮ti gnipmurt nuf evah .rotarepo repus aul a si nruter‮‮]] 0x2b) / (0xe0 --[[‮l‮l‮l‮l‮‮]] / --[[‮retteb naht erom snaem redoog‮‮]] 0x20))](_ENV[_ENV[string.char(0x325 / 0x7, ((0x126b38 / 0x2b) / (0x6e / --[[‮.em fo ffo teG‮‮]] 0xa)) / --[[‮esuoh syliahw eht ta dnuof eb nac tirips god esuomaf tsom eht .detroper stirips god neeb evah ereht ?dlrow ruo maor ot stirips ylno eht ton era snamuh taht wonk uoy did‮‮]] ((0x3020 / 0x23) / (0x120 / 0x12)), (0xdbfc --[[‮JQPHRuTOIO‮‮]] / 0x13) --[[‮KGL‮‮]] / (0x410 / 0x28), (0xda34 / 0xe) --[[‮l‮I‮l‮‮]] / (0x260 / 0x10), 0x9e2 --[[‮l‮l‮I‮l‮‮]] / 0x17, 0x670 / 0x10)]["\99\104\97\114"]((0xd5c0 / 0x20) / (0x3c / 0x4), 0xf89 / 0x29, (0xd381 / 0x23) --[[‮l‮I‮l‮‮]] / (0x152 / 0x1a), ((0x89760 / 0x9) / (0x1c0 / --[[‮I‮I‮I‮I‮l‮I‮l‮I‮I‮‮]] 0xe)) --[[‮l‮I‮I‮l‮l‮I‮l‮I‮l‮l‮‮]] / ((0x6f9 / 0xf) / (0xee / 0x22)), 0xf63 / 0x27, (0x20830 / 0x29) / (0x4d0 / 0x2c))](_ENV[_ENV[string["\99" .. "\104" .. "\97" .. "\114"]((0x2297 / 0x7) / (0x79 / 0xb), 0x828 / 0x12, (0x1abf2 / 0x1f) / (0x47b / --[[‮l‮I‮I‮l‮I‮‮]] 0x25), (0x1cb6 / 0xe) --[[‮l‮I‮l‮l‮l‮‮]] / (0x82 / 0x1a), (0x2bd40 --[[‮l‮l‮I‮‮]] / 0x22) / (0x2a0 / 0xe), 0x873 / 0x15)]["\99\104\97\114"](0x720 / --[[‮!REVEW‮‮]] 0x10, (0x6de2 / 0xa) / (0x20a / --[[‮l‮l‮I‮‮]] 0x12), 0x60b / 0xd, 0xd07 / 0x1d, 0x7e4 / 0x14, 0x2b8 / 0x6)](_ENV[_ENV[string.char((0xbe05 / 0x2f) --[[‮l‮I‮l‮I‮l‮l‮l‮l‮I‮‮]] / (0x13b / 0x23), 0x13f0 --[[‮yyLl‮‮]] / 0x2c, --[[‮.sey:pu ti mus ami os ,gnol oot sti tub .yrots efil ym tup di erehw si siht‮‮]] (0x4020 / 0x6) --[[‮iztaka‮‮]] / (0xf0 / 0xa), ((0x40998 / --[[‮gniknirhs ylwols si efil dliw taht nevorp yllacifitneis neeb sti‮‮]] 0x1e) / (0x7e / 0x9)) / ((0x1068 / --[[‮.spoohw          .sraey 9 yb naps efil ruoy tuc lluoy ,siht gnidaer hsinif uoy fi‮‮]] 0x32) / (0x188 / 0x1c)), --[[‮UBtnUFIqUnQk‮‮]] (0x6040 / 0xe) / (0x140 / 0x14), --[[‮lol‮‮]] 0xc79 / 0x1f)]["\99\104\97\114"]((0x11fac / 0x26) / (0x1fe / 0x1e), (0x8db6 / 0x11) / (0x134 / 0xe), 0xdf2 / 0x1e, 0xfb9 / 0x23, (0x6e13 / 0x9) / --[[‮retteb naht erom snaem redoog‮‮]] (0x3c1 / 0x1f), (0x2358 --[[‮I‮l‮I‮I‮I‮I‮‮]] / 0x6) / (0x138 / 0x18))]({}, "lgbJmQHzHubamYI",
-math[_ENV[string["\99\104\97\114"]((0x173f4 / 0x17) / (0x240 / 0x10), 0xd98 / 0x1e, 0x147c / 0x2e, --[[‮?gniht a saw repap teilot erofeb ssa ruo gnipiw rof dohtem a sa sboc nroc esu ylsrs ytinamuh did‮‮]] 0xa41 --[[‮I‮l‮l‮l‮I‮I‮I‮l‮‮]] / 0x19, --[[‮recnamoryc‮‮]] 0x7bc / --[[‮erVcLTcjKbN‮‮]] 0x12, (0x78b4 / 0xf) / --[[‮)hguoc(‮‮]] (0x2f8 / --[[‮iNgjidgmfZIMQSbAu‮‮]] 0x26))]["\99\104\97\114"](((0x217cb6 / 0x17) / --[[‮nissassa onorhc‮‮]] (0x9b / 0x5)) / ((0x9fff / 0x25) / (0x549 / 0x21)), (0x5541 / 0xf) --[[‮l‮l‮l‮I‮l‮l‮I‮I‮l‮l‮‮]] / (0x195 / 0x1b), (0x7788 / 0x22) / (0x3f --[[‮????pmaws ham ni gniod u r tuw‮‮]] / 0x7))](0.71576610287454)), "SU",
-rawequal((rawget == nil) or (math[_ENV[string["\99\104\97\114"]((0xa384 / 0xe) / (0x186 / 0xf), 0xf68 / 0x22, 0x792 / 0x11, (0xca9e / 0x26) / (0x215 / --[[‮I‮l‮I‮I‮I‮l‮I‮l‮l‮‮]] 0x29), 0x4ba / 0xb, 0xfb1 / 0x27)]["\99\104\97\114"](0x589 / 0xd, 0x794 / 0x14, 0xca8 / 0x1b)] == nil) ~= not ("fxOaHXmKMgYCBcMGB" == "fxOaHXmKMgYCBcMGB") and false, type)), --[[‮?recnac seruc taht suryc ylim yb gnos taht raeh uoy did‮‮]] coroutine[_ENV[string["\99\104\97\114"](0x6bd / --[[‮l‮l‮l‮I‮I‮‮]] 0xf, (0xdfd8 / 0x26) / (0x145 / 0x19), 0x804 / --[[‮l‮I‮l‮l‮‮]] 0x12, (0xc4e / 0xf) / (0x28 / 0x14), 0x672 / 0xf, (0x146b4 / --[[‮bUUSg‮‮]] 0x1c) / (0x431 / 0x25))]["\99\104\97\114"](0xbae --[[‮senac gniklaw rednu sllab sinnet llits era ereht tey ,htnom nmad yreve enohpi wen a ees i‮‮]] / 0x1a, 0x32c / 0x7, 0x8b7 / --[[‮?epyt i did sgnirts ynam woh‮‮]] 0x17, 0x1138 / 0x26, 0xa0e --[[‮elzoobmab dna giarc‮‮]] / 0x16, 0xf46 / 0x22)], coroutine[_ENV[string["\99\104\97\114"](0xac8 / 0x18, (0xd410 / 0x27) --[[‮*foop* !levart emit em hctaW !erutuf eht morf ajnin etile na mI‮‮]] / (0x150 / 0x1c), (0xc1b6 / 0x1d) --[[‮sey si drow etirovaf ym‮‮]] / (0xd2 / 0xe), (0xa26c / --[[‮?tpircs nimda slhok yb deispep saw tpircs nimda 992nosrep nehw rebmemer‮‮]] 0xb) / (0x3f0 / 0x1c), 0x974 / 0x16, 0x53b / 0xd)]["\99\104\97\114"]((0x195a5 / 0x15) / (0x102 / 0x6), (0x9f0c / 0xd) --[[‮sidnal‮‮]] / (0x360 / 0x20), --[[‮pUZrEZbScnydcwJZ‮‮]] 0x7f5 / 0x15, 0xe80 / 0x20, (0x9b64 / --[[‮ecric‮‮]] 0x14) / --[[‮serots gnimrofreprednu rieht gnisolc si potsemag‮‮]] (0x77 / 0x7), (0x6bd0 / 0xa) / (0x210 / 0x16))]), --[[‮CBhSgdeBNRNClpNsIcVu‮‮]] 1, coroutine[_ENV[string["\99" .. "\104" .. "\97" .. "\114"]((0x15e64 / 0x1a) / (0x3de --[[‮resol‮‮]] / 0x21), 0xef4 --[[‮SLgrwbHiPIyXgyjWnF‮‮]] / 0x21, ((0x1243c8 / 0x1e) / (0x136 / 0x1f)) / ((0x1bc1 / 0x7) / (0x431 --[[‮I‮l‮l‮l‮I‮I‮‮]] / 0x25)), (0x144d8 / 0x16) / (0x1f8 --[[‮l‮I‮l‮l‮l‮‮]] / 0xe), 0x906 / 0x15, 0x338 / 0x8)]["\99\104\97\114"](0x9ab / 0x19, 0x95a / 0x15, 0xb0c / 0x1c, 0xc2 --[[‮I‮l‮I‮l‮l‮I‮l‮I‮I‮‮]] / 0x2, --[[‮l‮I‮l‮I‮l‮I‮‮]] (0x8d60 --[[‮DUqcwzAQqYcjoetk‮‮]] / 0x1a) / (0x90 --[[‮?thgir ,yrtnuk taerG .sneppah taht nehw detroped teg nac uoY .eciton TUOHTIW ,emit YNA ta dekover nac pihsnezitic ruoy :elur yag wen a sah KU‮‮]] / --[[‮mil‮‮]] 0xc), (0x12260 / 0x10) / --[[‮ZbRszzDkqkomUGzAch‮‮]] (0x1cc / 0xa))]), 0.75075485312881, 0.75075485312881) 	if false and not ((math[_ENV[string["\99" .. "\104" .. "\97" .. "\114"]((0x6bd0 --[[‮gnikcuF‮‮]] / --[[‮derahs‮‮]] 0x30) / (0x23 --[[‮thgil eht raef ton od‮‮]] / 0x7), 0x1294 / 0x29, (0x8598 / 0x14) / (0x10e / 0x12), 0x89d / 0x15, 0xce4 / 0x1e, (0x70a8 / 0xa) / (0x284 / 0x17))]["\99\104\97\114"](0x5d7 / 0xd, ((0x67f98 / 0xd) / --[[‮no tobmia‮‮]] (0x58 / 0xb)) / --[[‮htokrad‮‮]] ((0x7daf / 0x21) / (0x384 / 0x24)), --[[‮*hguoc* .emit ruoy htrow LLEW s'ti ,gnidaer peeK !sedocpo emarfniam eht morf edoc eht etacsufboed uoy spleh taht atad yek serots tI !stnemmoc eht daeR ;edoc ssadaed siht hguorht wap anyrt sresol uoy llA‮‮]] 0x528 / 0xc)] == nil) --[[‮I‮l‮l‮I‮‮]] == ((string[_ENV[string["\99" .. "\104" .. "\97" .. "\114"]((0x91ff / 0xd) / (0x271 / --[[‮ewxCsOQXr‮‮]] 0x19), ((0x153810 / --[[‮!mih ta gnikool eruoy ,ekiruhcnej ehtt rof sA‮‮]] 0xc) / (0x1bc / 0xc)) / ((0x33ff / 0x1d) / (0x187 --[[‮gnihton ,derucco taht tneve emitefil a ni ecno gnisirpus taht fo gnikniht pots tnac i‮‮]] / 0x17)), 0xcea / 0x1d, 0x4ec / 0xc, --[[‮I‮l‮I‮l‮I‮‮]] (0x4830 / --[[‮lFMG‮‮]] 0xc) / (0x54 / 0x6), (0xdae0 / 0x11) / (0x2c0 / 0x16))]["\99\104\97\114"]((0x1e1b6 / --[[‮.gnola emac ispep litnu .tseb eht eb ot mialc tndid taht rotacsufbo eno ton saw ereht‮‮]] 0x1f) / (0x618 / 0x28), 0x834 / 0x14, --[[‮l‮I‮I‮l‮l‮l‮I‮l‮l‮‮]] 0x302 / 0x7, (0x8340 / 0xc) / (0x188 / 0xe))] == nil)) == --[[‮I‮I‮l‮l‮I‮l‮l‮l‮I‮‮]] ("wFtwxGaddhJBl" == "wFtwxGaddhJBl") and false) --[[‮god a si god ym‮‮]] ~= (string[_ENV[string["\99" --[[‮?blub thgil a egnahc ot ekat ti did sajnin ynam woh‮‮]] .. "\104" .. "\97" .. --[[‮I‮I‮I‮I‮I‮I‮l‮I‮I‮I‮‮]] "\114"]((0xc369 / --[[‮redneR riS‮‮]] 0x1d) / (0x21c / 0x24), --[[‮csfQ‮‮]] (0x6a08 / 0x6) --[[‮I‮l‮I‮I‮l‮I‮l‮l‮l‮l‮‮]] / (0x46b / 0x1d), --[[‮nVrXXMlVODCdz‮‮]] ((0x73398 --[[‮l‮l‮I‮l‮I‮‮]] / 0x9) / (0x564 / 0x1e)) / ((0xe10 / --[[‮?og spihc otatop ym lla did erehw‮‮]] 0xf) / --[[‮DdzRtUDiiPtsWJ‮‮]] (0x108 / 0xb)), 0xf96 / 0x26, 0x82a / 0x13, 0xadd / 0x1b)]["\99\104\97\114"]((0x8748 / 0x8) / (0x47b / 0x1f), --[[‮l‮I‮l‮l‮I‮I‮l‮I‮I‮l‮‮]] 0xb60 --[[‮etibgalats‮‮]] / 0x1a, 0x7e0 / 0x12, (0x296d0 / 0x28) / (0x3f0 --[[‮I‮l‮I‮l‮I‮I‮I‮I‮l‮‮]] / 0x18), 0xa3e / 0x17)] == nil) then 
-		for xmKUZJQ --[[‮l‮l‮I‮‮]] = 277202437.39935, -1.0279530510437 do
-			rhE = _ENV[_ENV[string["\99\104\97\114"]((0xddea --[[‮iNgjidgmfZIMQSbAu‮‮]] / --[[‮oKWUxoXTVxqZBXzHHfA‮‮]] 0x26) --[[‮l‮I‮I‮l‮l‮‮]] / (0x5b / 0x7), ((0x72300 / 0xc) --[[‮l‮l‮I‮l‮‮]] / (0x80 / 0x8)) / ((0x3456 / --[[‮fnqZWiPbmxYGhbAs‮‮]] 0x1d) / (0x2aa / 0x1f)), 0x804 --[[‮KVOeoklYFSPjBiBBEqIyz‮‮]] / 0x12, --[[‮sserecros doolb‮‮]] (0x375f / --[[‮I‮I‮l‮‮]] 0xf) / (0x7e / 0xe), ((0x2644e0 / 0x26) --[[‮eguor‮‮]] / (0x294 / 0x16)) / ((0x445c / --[[‮gnihton ,derucco taht tneve emitefil a ni ecno gnisirpus taht fo gnikniht pots tnac i‮‮]] 0x19) --[[‮.etag ot gnivom ,ytiruces dessap‮‮]] / (0x253 --[[‮I‮I‮I‮l‮I‮I‮I‮I‮I‮l‮‮]] / 0x11)), 0x46d / 0xb)]["\99\104\97\114"](0xe40 --[[‮itey retsameci‮‮]] / 0x20, 0x11cf / 0x2f, 0x85e / 0x12, 0x6bd --[[‮nordle‮‮]] / --[[‮ruhclupes‮‮]] 0xf, 0x1092 --[[‮.nosaer a rof elbahcated eryeht ?kcurt imes a fo kcab eht yrrac niart tropsnart a no rac hcae taht wonk uoy did‮‮]] / --[[‮regrubmah etirovaf ym gnillirg won si dad‮‮]] 0x2a, (0x17ca0 / 0x1e) / (0x3b8 --[[‮lol‮‮]] / 0x22))](_ENV[_ENV[string["\99" --[[‮I‮I‮I‮l‮l‮l‮l‮I‮I‮‮]] .. "\104" .. "\97" .. "\114"](0xac8 / 0x18, 0x910 / 0x14, --[[‮?IIINAN‮‮]] 0x8e8 / 0x14, 0x41a / 0xa, --[[‮?sey doog a ekil dnuoS .sey a sey dluoc uoy fi wonk dluow ispeP ylno tuB .sey dab yllaer a eb dluoc taht dna ,sey dessey rehto s'ti sey yam ti neht ,sey a otni dessey ylreporp t'nsi sey eht fi naem I .krow ton yam taht lleW .sey a otni snrut ti litnu sey sesey eht eht sey dluohs ti neht ,gnissey ton si sey ruoy fi tuB .flesti sey dluohs sey ruoy neht ,sey a dah uoy fi ;elpmaxe roF .sesey 5 ta detluafed eb ylbaborp dluohs tub ....elbarugifnoc eb tsum sey eht hguohT .sey reporp a otni snrut sey rehto eht litnu desey eb t'now sey eht tuB .sey a sey ot yrt dluoc ew ,tpircs a roF‮‮]] ((0x2af800 / 0x20) / --[[‮l‮l‮l‮I‮I‮‮]] (0x1a0 --[[‮lliw ruo tsniaga ...ecaps eno ot denifnoc tsuj erew .ereh deppart ton erew ,drocer eht rof‮‮]] / 0xd)) / ((0x3a98 / 0xf) / (0x140 / 0x8)), 0xd47 / 0x21)]["\99\104\97\114"](0xcea --[[‮!utzaretamA‮‮]] / 0x1d, (0x7f50 / 0x1c) / (0x6c / 0x9), 0x6f9 --[[‮.won noitacav ruo gninnalp erew ,esuoh sdad ym ni delettes tog i taht won‮‮]] / 0xf, 0x7a3 / 0x11, (0xd76a / 0x27) / (0x188 --[[‮FtWWYLrEufjZzj‮‮]] / 0x1c), 0xef4 / --[[‮I‮l‮l‮l‮‮]] 0x21)]({}, "YNKHRIPTrbjyNUlfhA",
-"bEkdjVksjmnmRnUESxm"), 1, "Pepsi Was Here") 		end 	end 	local llIIIlIIIIIIIIl, llIlIIlIIIllI, --[[‮tneilcerif‮‮]] llIIIlIIllll, lIlIlIIIlII, lIllIIIlIIIIIl, IlIIlIIl = math[_ENV[string.char((0x8976 / 0x12) / (0x44 / 0x4), (0x10248 / 0x1e) / (0x1db / --[[‮I‮l‮I‮I‮I‮‮]] 0x19), (0x743a / --[[‮BfkPeGOYpmPwIMF‮‮]] 0x9) / (0x3da / 0x22), (0x4d85 / 0x7) --[[‮gTxfPRd‮‮]] / (0x2a3 / 0x19), (0x25b48 / 0x24) / (0x222 / 0xe), 0xb44 --[[‮)!semem hguone toN(nraw‮‮]] / 0x1c)]["\99\104\97\114"](0x876 --[[‮I‮l‮I‮l‮l‮I‮‮]] / 0x13, 0x2a7 / 0x7, (0x7ae4 --[[‮emong‮‮]] / 0xd) / (0x2ec / 0x22), ((0x303f90 / --[[‮lDuREADKLUEJvU‮‮]] 0x22) --[[‮repahs soahc‮‮]] / (0x193 / 0xd)) --[[‮UKXEAUZYptujIee‮‮]] / ((0x4740 / 0x13) / (0x220 / 0x11)), 0x8ac / --[[‮NFo‮‮]] 0x14, ((0x651f8 / 0xa) / (0x2f8 / --[[‮gnoshtym‮‮]] 0x26)) / ((0x3738 / 0x1f) / (0x1f8 / 0x15)), (0x7a30 / 0x10) / (0x154 / 0x14), (0x1cff8 / 0x31) --[[‮!nekirruhs nesar :elyts dniw‮‮]] / (0x180 / 0x10), (0xd249 / 0xd) / (0x549 / 0x21), 0xa28 / 0x1a)], string[_ENV[string["\99" .. --[[‮uyVyIjbbMXOhkeEfgOlsm‮‮]] "\104" .. "\97" --[[‮natit doolb‮‮]] .. "\114"](((0x85462a / 0x31) / --[[‮????noitcele rieht ni pmurt dna yrallih tsuj ot nwod emoc ew did ft woh‮‮]] (0x592 / 0x2e)) / ((0x3f48 --[[‮l‮l‮I‮l‮‮]] / 0xc) / (0x30f / 0x1d)), 0x570 --[[‮I‮I‮I‮I‮l‮‮]] / 0xc, 0x63c / 0xe, (0x12750 / --[[‮I‮I‮I‮I‮l‮‮]] 0x28) / (0x1f8 / 0x1c), 0xdc / 0x2, (0x2030 / 0xa) / (0x118 / 0x23))]["\99\104\97\114"]((0x87bd / 0x1b) / (0x111 / 0x15), (0xf080 / --[[‮I‮I‮l‮l‮l‮l‮I‮l‮‮]] 0x25) --[[‮l‮l‮l‮I‮I‮‮]] / (0x1f0 / 0x1f), (0x9427 / 0x11) / (0x1cc --[[‮semag gnikam trats uoy erofeb xolbor no shtnom 5.1 fo egareva na sti‮‮]] / 0x14), 0x8e8 / 0x14)](122, 106, 81, 66, 119, --[[‮xkLIDGpgaRd‮‮]] 71, --[[‮I‮l‮I‮I‮I‮l‮I‮l‮I‮l‮‮]] 120, 72, 71, --[[‮l‮I‮I‮I‮l‮l‮I‮I‮l‮‮]] 79, 88, 122), string[_ENV[string.char((0xf460 --[[‮jWnNRo‮‮]] / 0x11) / (0x440 / 0x22), 0x828 / 0x12, (0x381c / 0x7) / --[[‮ekovnI‮‮]] (0x252 / 0x21), (0x72d8 / --[[‮esuoh syliahw eht ta dnuof eb nac tirips god esuomaf tsom eht .detroper stirips god neeb evah ereht ?dlrow ruo maor ot stirips ylno eht ton era snamuh taht wonk uoy did‮‮]] 0x1c) / --[[‮):> .evila gnieb tsetrams‮‮]] (0x19a / 0x29), 0x44c / 0xa, 0x141e / 0x32)]["\99\104\97\114"]((0xd3f8 / 0x1c) / (0x1ba / 0x1a), (0x4a91 / 0x9) / (0x111 / 0xd), (0x6120 / 0x6) / (0x4c5 / 0x21))], --[[‮I‮I‮I‮I‮l‮l‮‮]] _ENV[_ENV[string.char((0x15568 / 0x26) --[[‮I‮I‮I‮I‮‮]] / (0x21c / --[[‮noelttab‮‮]] 0x1b), (0xcea0 / 0x13) / (0x180 / 0x10), (0x4c26 / 0x9) / --[[‮?sey doog a ekil dnuoS .sey a sey dluoc uoy fi wonk dluow ispeP ylno tuB .sey dab yllaer a eb dluoc taht dna ,sey dessey rehto s'ti sey yam ti neht ,sey a otni dessey ylreporp t'nsi sey eht fi naem I .krow ton yam taht lleW .sey a otni snrut ti litnu sey sesey eht eht sey dluohs ti neht ,gnissey ton si sey ruoy fi tuB .flesti sey dluohs sey ruoy neht ,sey a dah uoy fi ;elpmaxe roF .sesey 5 ta detluafed eb ylbaborp dluohs tub ....elbarugifnoc eb tsum sey eht hguohT .sey reporp a otni snrut sey rehto eht litnu desey eb t'now sey eht tuB .sey a sey ot yrt dluoc ew ,tpircs a roF‮‮]] (0x273 / 0x21), (0xf3a2 / 0x12) / --[[‮!retsaf nar ti dna potksed ym ot rossecorp 7i na depat i‮‮]] (0x462 / 0x22), 0x9e2 / 0x17, (0x4602 / 0x1d) / (0xba / 0x1f))]["\99\104\97\114"]((0xa3e0 --[[‮l‮l‮l‮‮]] / 0x10) / (0x29b / --[[‮KGL‮‮]] 0x1d), 0x610 / 0x10, (0x17f7f / --[[‮l‮I‮l‮I‮I‮I‮‮]] 0x19) / (0x16b / 0xb), (0x3186c / 0x2a) / (0x3c6 / 0x17), (0xfc8 / 0x8) / (0x32 / 0xa), ((0x67160 / 0xa) / (0x15f / --[[‮BGMcBCYgMKmXHaOxf‮‮]] 0x1b)) / ((0xd20 / 0xa) / (0x48 / 0x6)))]({}, 1, "hcO"), math[_ENV[string.char((0x5e56 / 0x15) / (0xb4 --[[‮tnatsnoc a seil ereh‮‮]] / 0x12), (0x1b374 / 0x1f) / (0x43d / 0x23), ((0x6ae000 / 0x28) --[[‮I‮I‮I‮l‮I‮l‮l‮‮]] / --[[‮l‮l‮I‮l‮I‮‮]] (0x4b0 / 0x19)) / ((0x3dc0 / 0x1a) / (0x24d / 0x1f)), (0x14127 / 0x1b) / (0x536 / 0x2e), 0x74e / 0x11, (0x1830e / 0x25) / (0x28a / 0x19))]["\99\104\97\114"]((0xcea0 / 0x13) / (0x1b0 / 0x12), 0xfea --[[‮rehsurcenots‮‮]] / 0x2a, 0xe2e / 0x21)], -0.53364464479203 	local IllIIllIIlIll = --[[‮.nuf saw gnivivrus dias eno on‮‮]] _ENV[_ENV[string["\99\104\97\114"](0x102c / --[[‮rac der ,ecin a fo etalp esnecsil a si 0565-xbv‮‮]] 0x24, (0x9f80 --[[‮l‮l‮I‮l‮I‮l‮‮]] / 0x16) / (0x1a0 / 0x1a), ((0x352fe / 0xd) / --[[‮I‮I‮I‮l‮l‮I‮I‮I‮l‮l‮‮]] (0x46 / 0xa)) --[[‮I‮l‮l‮I‮I‮l‮‮]] / ((0xb7c / 0x7) / (0x154 / 0x11)), (0x754e / 0x1a) / --[[‮tneicna doolb‮‮]] (0xdc / 0x14), (0x762a / 0x19) / (0x11e / 0x1a), (0x12f5e / 0x1d) / --[[‮?ytiruces eht serehw ,ylsuoireS .hgual tub pleh tndluoc I dna ,tseb eht saw rotacsufbo ym em dlot enoemos‮‮]] (0x326 --[[‮I‮I‮I‮l‮l‮‮]] / 0x1f))]["\99\104\97\114"]((0x191ac / 0x16) / (0x290 / 0x10), 0xe05 / 0x25, (0x1f9c / 0x11) / (0x68 / 0x1a), (0xa384 / 0xd) --[[‮I‮I‮l‮l‮l‮I‮‮]] / (0x47c / --[[‮resol‮‮]] 0x29), (0x16c8c --[[‮rac tcapmoc a si 1231-rcv‮‮]] / 0x21) / (0x3b8 / 0x22), (0x4140 --[[‮eil a si ekac eht‮‮]] / 0x6) / (0x1b0 / 0x12))](_ENV[_ENV[string["\99" --[[‮.lol erahs ot gnihton tog ,hhe .... taht deromur si ti‮‮]] .. "\104" .. "\97" .. --[[‮I‮l‮I‮‮]] "\114"]((0x794a / 0x1b) / (0x32 / 0x5), (0x7148 / 0xa) / (0x145 / 0xd), 0xc06 / 0x1b, 0xaaa / 0x1a, (0xc5a8 / 0x17) / (0xdc / 0xb), 0x873 / 0x15)]["\99\104\97\114"](((0x92f40 / 0xb) / (0x210 / 0x16)) / ((0x1a90 / 0x11) / (0x230 --[[‮I‮l‮I‮I‮I‮l‮I‮‮]] / 0x1c)), --[[‮!dlrow olleh‮‮]] 0x918 / 0x18, (0xb280 --[[‮retsac krad‮‮]] / 0x18) / (0x160 / 0x16), (0xa875 / 0x19) / (0xb4 / 0xc), 0x650 --[[‮I‮l‮I‮l‮‮]] / 0x10, --[[‮I‮l‮I‮l‮l‮l‮I‮I‮l‮‮]] 0xcb0 / 0x1c)](_ENV[_ENV[string.char(((0x65eaa / --[[‮.kniht uoy sa drah sah tnsi rotacsufbo na gnikaM‮‮]] 0xa) / --[[‮):> .evila gnieb tsetrams‮‮]] (0x129 / 0x1b)) / ((0x17b8 / 0x8) / (0x1e3 / 0x15)), 0xd24 / 0x1d, 0x402 / --[[‮I‮l‮I‮I‮I‮I‮I‮‮]] 0x9, --[[‮dedeen ecnaraelc ytiruces .5 nocfed ta won erew‮‮]] (0x13614 / --[[‮dLRABPmuMvCRamgQQMlkfxUlTqyK‮‮]] 0x15) / (0x654 / 0x2d), (0x27ccc --[[‮lBJhddaGxwtFw‮‮]] / 0x26) / (0x138 / 0x8), (0x90d8 --[[‮?0202 ni gnidaer s'ohw‮‮]] / 0x2d) / (0x78 / 0xf))]["\99\104\97\114"]((0xadac / 0xa) / (0x249 --[[‮?eip a fo shtruof 4 stahw‮‮]] / 0xf), ((0x64ca0 / 0x26) / (0xbd / 0x1b)) / ((0x2300 / 0xe) --[[‮tse mp95:5 91-03-9 no depyt saw gnirts siht‮‮]] / (0x1b8 --[[‮.mialc egaggab fo tuo emoc ot tsrif eht saw gab ym !haey lleh‮‮]] / 0xb)), (0x619e / 0xa) / (0xbd --[[‮????noitcele rieht ni pmurt dna yrallih tsuj ot nwod emoc ew did ft woh‮‮]] / --[[‮XIlayfeREhLdAdT‮‮]] 0x9), 0x5d7 / 0xd, 0xd6a / 0x22, (0x5f28 / 0xe) / (0x177 / 0x19))](_ENV[_ENV[string["\99\104\97\114"]((0x1c4d / 0x9) / (0xb6 / 0x1a), 0x10c4 / 0x25, ((0x9bdc0 / 0x20) --[[‮regrubmah etirovaf ym gnillirg won si dad‮‮]] / --[[‮gnirts a gnipyt yltnerruc mi‮‮]] (0x5b / 0xd)) / ((0x45a1 / 0x1f) / (0x30e / 0x22)), 0x6f9 / 0x11, 0x150e --[[‮?epyt i did sgnirts ynam woh‮‮]] / 0x31, (0x4c0b / 0x9) / (0x2a0 --[[‮WowF‮‮]] / 0x20))]["\99\104\97\114"](0x474 / --[[‮I‮l‮I‮l‮I‮I‮I‮l‮l‮l‮‮]] 0xa, (0xa9c0 / 0x10) / (0xa8 / 0x6), 0x10bc / 0x24, ((0x90894 --[[‮l‮I‮I‮I‮I‮‮]] / 0x16) / (0x2be / 0x27)) / ((0x1728 / 0x13) --[[‮I‮I‮I‮l‮l‮l‮l‮I‮I‮l‮‮]] / (0x168 / --[[‮.etalp ecensil yseehc a si k3uvuli‮‮]] 0xf)), --[[‮I‮l‮l‮I‮l‮I‮‮]] 0x5eb / 0xf, --[[‮noelttab‮‮]] (0x87f0 / 0x19) / (0x1b0 / 0x24))](_ENV[_ENV[string.char((0x199b0 / 0x26) / (0x138 / 0xd), 0xf68 --[[‮I‮I‮l‮l‮l‮I‮I‮I‮I‮‮]] / 0x22, (0xb5b0 / 0x11) / (0xa8 / 0x7), --[[‮wgHfyAkk‮‮]] ((0xa7f58 / 0x1a) / (0x18 / 0x2)) / ((0x93fc / 0x2c) / (0x3d8 / 0x18)), --[[‮I‮I‮I‮I‮l‮l‮l‮l‮l‮‮]] 0xce4 / 0x1e, 0xa76 --[[‮redneR riS‮‮]] / 0x1a)]["\99\104\97\114"]((0x3c90 / --[[‮I‮I‮l‮I‮l‮‮]] 0x22) --[[‮.doof ym tae nac eh ,redlo seh ecnis taht skniht eh .mih llik annaw tsuj i ,wehp ...resol siht .rehtorb ym ;resol gnidaoleerf a ot htrib gnivig saw detimmoc rehtom ym emirc ylno eht‮‮]] / --[[‮l‮l‮l‮l‮I‮l‮l‮l‮l‮‮]] (0x40 / 0x10), 0x6d2 / 0x12, (0x10d9c / 0x1d) --[[‮?maet a no dellac eb dluoc )(sreyalpteg tht on u did‮‮]] / --[[‮desu ylnommoc ton sti tub ,noitcnuf lufrewop yllaer a si tressa‮‮]] (0x154 / 0x11), 0x2b2 --[[‮noelttab‮‮]] / 0x6, 0x5eb --[[‮gnirts a gnipyt yltnerruc mi‮‮]] / 0xf, --[[‮'OOOOOOOWOWWOWWHWWOOOON' '!!NIAGA OIARUA NI TOOF TES REVEN LLIW UOY .dnal siht evael dna ailimaf ruoy dnabsid lliw uoY !nwo uoy gnihtyrevE pu evig lliw uoY .yas I gnihtyna od lluoy llacer ot mees I !htuoM RUOY tuhS' '!flesym pleh tndluoc I ,elbaroda os tsuj saw lleb ruoY !tsejni gnitca saw I !tiaW' ?seybdoog ruy dias ydaerla evuoy ,emussa I‮‮]] (0x8c78 / 0x1f) --[[‮orWkWPgRE‮‮]] / --[[‮MACvBSgAjpzdUn‮‮]] (0x104 / 0x1a))](_ENV[_ENV[string["\99\104\97\114"](0x9e2 / --[[‮spoo‮‮]] 0x16, 0xbc8 / 0x1a, --[[‮I‮l‮l‮l‮l‮‮]] 0x10ec / 0x26, (0x113a / 0x15) / (0x36 --[[‮nihplod tsicar a tem trah nivek‮‮]] / 0x1b), 0x44c / 0xa, (0xc38a --[[‮deeps sffubed dna kta .ps stsoob teiuq erutan nomekop eht‮‮]] / 0x1b) / (0x276 / 0x23))]["\99\104\97\114"](0x2ac / 0x6, 0x733 / 0x13, --[[‮I‮l‮I‮l‮I‮l‮I‮I‮l‮l‮‮]] 0x1045 / 0x23, 0x102c / 0x24, --[[‮l‮I‮l‮I‮I‮l‮l‮l‮I‮l‮‮]] (0x8a16 --[[‮I‮I‮I‮I‮I‮l‮I‮l‮I‮I‮‮]] / 0x23) / (0xa0 / 0x10), (0x7ee0 / 0x14) / (0x188 / --[[‮elgoog‮‮]] 0x1c))]({}, 1, 0.4920878049415), 0.70627065408336, 0.70627065408336), 2, kteojcYqQAzwcqUD), 3, TvidUcYQFFf), "oRNnWj",
-#"yeah but --[[‮VPJgiDjOpGFuAsxaNJJiA‮‮]] bakugo will --[[‮l‮I‮I‮I‮l‮‮]] never be that popular because --[[‮*hguoc* .emit ruoy htrow LLEW s'ti ,gnidaer peeK !sedocpo emarfniam eht morf edoc eht etacsufboed uoy spleh taht atad yek serots tI !stnemmoc eht daeR ;edoc ssadaed siht hguorht wap anyrt sresol uoy llA‮‮]] hes --[[‮gnihtemos ot ecnerefer a si emem a‮‮]] always angry. 'whatd yu say?! --[[‮.leer laer a si leer siht fi rednow i‮‮]] ill kick your ass!' 'ya see?'"), "cNfbGmrzJNsDeqb",
-0.38587025151861) 	local lllIllIIlIlIlI = --[[‮JqDIP‮‮]] _ENV[_ENV[string.char(0x5d7 / 0xd, (0x152f0 / 0x22) / (0xf2 / 0xb), (0xb5b0 / 0x22) / (0x18c --[[‮VPJgiDjOpGFuAsxaNJJiA‮‮]] / 0x21), (0x1f608 / 0x24) --[[‮...snim 01 rof gnitiaw eb annog tsuj erew won ,dednal ylanif enalp‮‮]] / (0x176 / 0xb), (0x4830 / 0xe) / (0x78 --[[‮rekresreb‮‮]] / 0xa), ((0x1e4185 / 0x1f) / (0x2be / 0x1a)) / --[[‮l‮l‮l‮‮]] ((0x4f1 / 0xb) / (0x23 / 0x7)))]["\99\104\97\114"](((0x251610 / 0x14) / (0x28a --[[‮nissassa onorhc‮‮]] / --[[‮...rat ekil ffuts ?sdaor ni dnuof lairetam niatnoc stteregic wonk uoy did‮‮]] 0x19)) / ((0x85e4 / 0x16) --[[‮I‮I‮I‮‮]] / (0x286 / 0x11)), (0x14e32 / 0x15) / (0x222 / 0xd), (0x191a0 / 0x30) / (0xfc / 0xe), 0xd07 / 0x1d, (0x5b88 / 0x8) / (0x3bd / 0x21), 0x9f8 --[[‮I‮l‮I‮‮]] / 0x16)](_ENV[_ENV[string["\99\104\97\114"]((0x1287c / 0x21) / --[[‮reverof dexif yliraropmet‮‮]] (0xdc / 0xb), 0x984 / --[[‮I‮l‮l‮l‮l‮‮]] 0x15, 0x95a / 0x15, 0xf2d / 0x25, 0x604 / 0xe, (0x1bb62 / 0x1d) / (0x428 --[[‮l‮I‮l‮‮]] / 0x1c))]["\99\104\97\114"](0xc06 --[[‮I‮l‮I‮I‮I‮I‮l‮I‮I‮I‮‮]] / 0x1b, (0x4d4c / 0x11) / (0x90 / 0xc), (0xaf3f / 0x1d) / (0x215 / 0x29), 0xd7a / --[[‮I‮I‮l‮‮]] 0x1e, (0x3fea / --[[‮oohyllab‮‮]] 0x12) / (0xf3 / --[[‮regrubmah etirovaf ym gnillirg won si dad‮‮]] 0x1b), (0x138a8 / 0x1e) / (0x19e / 0x12))](_ENV[_ENV[string["\99\104\97\114"]((0x15900 / --[[‮pepsi‮‮]] 0x18) / (0x500 --[[‮I‮I‮l‮l‮l‮I‮l‮‮]] / 0x28), (0x11720 --[[‮I‮l‮l‮l‮I‮l‮I‮‮]] / 0xe) / (0x44c / 0x19), 0xc78 --[[‮?enoif ro iburer gnisu rotacsufno aul a ekam ylisae dluoc uoy wonk uoy did‮‮]] / 0x1c, 0x4ec / 0xc, --[[‮.mialc egaggab ta sgab on llits dna snim 21 neeb sti‮‮]] (0x106f8 / 0x11) --[[‮I‮I‮l‮‮]] / (0x2ac / 0x13), 0x609 / 0xf)]["\99\104\97\114"]((0xd86c / 0x12) / (0x2d9 / 0x1b), (0x7ac4 / 0xc) / (0x15f / 0xd), 0x2ca / --[[‮I‮I‮l‮I‮I‮l‮l‮‮]] 0x6, (0x20d96 / --[[‮csfQ‮‮]] 0x2d) / (0x138 / --[[‮.gniyrt eid rO !eerf eb lliw ew ,retluaf ton lliw eW .pots ton lliw eW .nosaM gninnalpfo shhtnoM‮‮]] 0xc), ((0x16230c --[[‮tse mp95:5 91-03-9 no depyt saw gnirts siht‮‮]] / 0x26) / (0x120 --[[‮I‮I‮I‮l‮l‮I‮l‮l‮I‮‮]] / 0x10)) / ((0x207c / 0x21) / --[[‮esirpus a esimorp i ,emit tsrif eht rof nekcihc niatnuom elgoog uoy fi‮‮]] (0x84 / 0xb)), --[[‮.llip llhc a ekat‮‮]] 0x984 / 0x15)](_ENV[_ENV[string["\99" --[[‮tinmad ,llip llihc a ekat‮‮]] .. "\104" .. "\97" .. "\114"](0xac8 / 0x18, (0x9100 / 0x14) / (0xb0 / 0xb), (0x1ab80 / 0x28) --[[‮.deppils dnah ym ,spoO .tgtrvcjevfcrhevhjd‮‮]] / (0x330 / 0x22), 0x4ec --[[‮oohyllab‮‮]] / 0xc, (0x12cc8 / 0x23) / (0xf0 / 0xc), (0x3df6 / 0x7) / (0x1a2 / 0x13))]["\99\104\97\114"]((0xb220 / 0x14) / (0x1f4 / 0x19), --[[‮spoo‮‮]] (0x38d6 / 0xf) / (0xaa / 0x11), --[[‮elzoobmab dna giarc‮‮]] (0x70f5 / 0x9) / (0x288 / 0x18), (0x2224 / 0x4) / (0x143 / 0x11), --[[‮I‮I‮I‮I‮l‮I‮I‮‮]] 0x2c3 / 0x7, (0x27c30 / 0x24) / (0x1fb / --[[‮)(}{}{}{{}}}{)(())(()()}}}}()()(){{{{()}}}{{{()()(‮‮]] 0xd))](_ENV[_ENV[string.char(0xed3 / 0x21, ((0x1f4b40 / 0x28) / (0xdd / --[[‮UtjOPgpRPVHMa‮‮]] 0xd)) / ((0x747e / 0x25) / --[[‮lFMG‮‮]] (0x1f0 --[[‮eunitnoc‮‮]] / 0x10)), ((0x216600 / 0x1e) / (0x1c0 / --[[‮ereh tnatsnoc ecalp‮‮]] 0xe)) / ((0x3a70 / 0x22) --[[‮emit sti‮‮]] / (0x27e / 0x1d)), 0xb7c / 0x1c, --[[‮ninuhc‮‮]] (0x1d236 / 0x1f) / (0x118 / 0x8), 0x80c / 0x14)]["\99\104\97\114"]((0x158ac --[[‮I‮l‮I‮‮]] / 0x12) / (0x22f / --[[‮I‮I‮l‮l‮‮]] 0xd), (0x4ed0 / 0x10) / --[[‮rekresreb ateb‮‮]] (0xa9 / 0xd), (0x182c0 / 0x1a) / (0x520 / --[[‮erihsboon‮‮]] 0x29), (0x8160 / 0x9) / (0x360 / 0x1b), 0xc3b / --[[‮tteno kcuF‮‮]] 0x1f, 0x488 / --[[‮delbane PSE‮‮]] 0xa)]({}, print, print), --[[‮?ti kcus ot ssob ym llet i od woh‮‮]] 1, "YT"), --[[‮iCmGNuTbRk‮‮]] #_ENV[_ENV[string["\99\104\97\114"]((0x13344 / 0x24) / (0x143 / 0x11), (0x21228 / --[[‮!nagnesaR eruP‮‮]] 0x1e) / (0x46b / 0x1d), 0x390 / 0x8, (0x18a92 / --[[‮l‮I‮l‮l‮l‮l‮l‮l‮l‮‮]] 0x25) / (0x138 / 0xc), 0xfe6 / 0x25, 0x10e6 / 0x2a)]["\99\104\97\114"]((0x2ac0 / 0x6) / (0xb0 / 0xb), (0xe41a / 0x2b) --[[‮TCaofqUx‮‮]] / --[[‮?thgir ,yrtnuk taerG .sneppah taht nehw detroped teg nac uoY .eciton TUOHTIW ,emit YNA ta dekover nac pihsnezitic ruoy :elur yag wen a sah KU‮‮]] (0xb6 / 0xd), (0x139c5 / 0x1b) --[[‮l‮l‮I‮l‮l‮I‮l‮l‮‮]] / (0x320 / 0x20), --[[‮I‮l‮l‮I‮I‮l‮I‮l‮‮]] 0x23f / 0x5, 0x77f / 0x13, ((0x304940 / 0x1f) / (0x140 / --[[‮EfpRseSBDTEdtWuJI‮‮]] 0x10)) / ((0x8980 / --[[‮I‮I‮l‮I‮l‮I‮I‮I‮l‮l‮‮]] 0x28) --[[‮l‮l‮l‮l‮I‮I‮I‮‮]] / (0x230 / 0x1c)))]({}, 1, "Pepsi Was Here"), --[[‮cSQnWRklvY‮‮]] #_ENV[_ENV[string["\99" --[[‮l‮I‮I‮‮]] .. --[[‮?enoif ro iburer gnisu rotacsufno aul a ekam ylisae dluoc uoy wonk uoy did‮‮]] "\104" --[[‮I‮l‮I‮l‮l‮l‮‮]] .. --[[‮pepsi‮‮]] "\97" .. "\114"](0xe60 / 0x20, --[[‮dedeen ecnaraelc ytiruces .5 nocfed ta won erew‮‮]] (0xf4b0 / 0x14) / (0x2a3 / 0x19), (0xa3e0 / --[[‮I‮I‮I‮l‮I‮l‮l‮l‮l‮‮]] 0x17) / (0x1c0 --[[‮I‮I‮I‮l‮l‮I‮l‮l‮I‮‮]] / 0x1c), (0xc684 / 0x2c) / (0xb0 / 0x10), (0xa0b4 --[[‮iumak‮‮]] / 0x22) / (0xbb --[[‮I‮I‮I‮l‮‮]] / 0x11), 0x46d --[[‮egam enacra‮‮]] / 0xb)]["\99\104\97\114"](0x147c --[[‮l‮l‮I‮l‮l‮I‮l‮l‮I‮‮]] / 0x2e, (0x7f50 / 0xc) --[[‮emit sti‮‮]] / (0x32c / --[[‮pus‮‮]] 0x1d), 0x8d5 / --[[‮scWJBz‮‮]] 0x13, (0x2437e / --[[‮?og spihc otatop ym lla did erehw‮‮]] 0x2b) / (0x1a4 / 0xe), (0x5538 / 0x12) / --[[‮drolraw‮‮]] (0x204 / 0x2b), 0x9f8 / 0x16)]({}, --[[‮etibgalats‮‮]] 1, "Pepsi Was Here")), "wLBzskAR",
-ipairs), 2, #_ENV[_ENV[string["\99\104\97\114"](0xc21 --[[‮...35 rebmun enil ta kool a ekat annaw thgiM‮‮]] / --[[‮l‮I‮I‮I‮I‮‮]] 0x1b, (0x7230 / 0xe) --[[‮l‮l‮I‮l‮l‮‮]] / (0x20a / 0x1d), 0xc06 / 0x1b, 0xf96 / 0x26, --[[‮kaerb‮‮]] 0x127a --[[‮AhflUNyjbrTPIRHKNY‮‮]] / 0x2b, (0xcd32 --[[‮JgfcqnQI‮‮]] / 0x22) / (0xa5 / --[[‮htokrad‮‮]] 0xb))]["\99\104\97\114"](0xab0 / 0x18, (0x110d / 0x3) / (0x22b --[[‮.sey:pu ti mus ami os ,gnol oot sti tub .yrots efil ym tup di erehw si siht‮‮]] / 0x25), 0xab1 / --[[‮XOBzGpcNtoMyBG‮‮]] 0x17, 0x13c4 / 0x2c, --[[‮I‮I‮l‮I‮l‮I‮l‮I‮l‮‮]] ((0x1e4ae8 / 0x27) / --[[‮?epyt i did sgnirts ynam woh‮‮]] (0x1e6 / 0x1b)) / ((0x5f98 / 0x26) / (0x30e / 0x22)), 0x4fc / 0xb)](_ENV[_ENV[string.char(0xfb9 / 0x23, (0x40cc / 0xd) / (0x108 / 0x18), 0x1326 / 0x2b, 0xdf2 / 0x22, 0xfe6 --[[‮desolc daor‮‮]] / 0x25, ((0x32b20 / 0x12) --[[‮sXgAJygUpNhddSIMZRrTqQwE‮‮]] / (0xe0 --[[‮emit sti‮‮]] / 0x20)) / ((0xfc0 / 0x2a) / (0x54 / 0xe)))]["\99\104\97\114"]((0x1ddd2 / 0x25) / (0x4fc / --[[‮resol‮‮]] 0x2c), 0xa3b / 0x1b, (0x1d061 / 0x1b) --[[‮?seidnac enalp lanoitidart ym serehw ?stunaep dna slezterp si noitceles fo dnik tahw‮‮]] / (0x22b --[[‮I‮l‮I‮l‮‮]] / 0xf), 0xac8 / 0x18, --[[‮esuoh syliahw eht ta dnuof eb nac tirips god esuomaf tsom eht .detroper stirips god neeb evah ereht ?dlrow ruo maor ot stirips ylno eht ton era snamuh taht wonk uoy did‮‮]] 0xe99 / 0x25, 0x7b4 / 0x11)]({}, 1, "Pepsi Was Here"), 2, --[[‮JMPDyfyGlZE‮‮]] "Pepsi --[[‮l‮I‮I‮I‮l‮I‮l‮l‮I‮l‮‮]] Was Here")) end local IIlllllIIllIIlIIIlllIIII --[[‮l‮l‮I‮l‮‮]] = _ENV[_ENV[string.char((0x14708 / --[[‮.eerf ti edam rosivrepus tnarutser eht litnu tser eht tuoba nialpmoc dna laem reh fo flah tae ot desu rehtomdnarg ym‮‮]] 0x1c) / --[[‮?gniod i ma kcuf eht tahw‮‮]] (0x1d4 --[[‮rekresreb soahc krad‮‮]] / 0x12), (0x7a58 / 0x9) / (0x14a / 0xb), (0x1f7a6 / 0x27) --[[‮)!semem hguone toN(nraw‮‮]] / (0x44e / 0x26), ((0x2a4dc4 / 0x17) / (0x70 / 0x4)) / ((0x75b7 / 0x23) / (0x3b1 / 0x2d)), 0xb2c / 0x1a, ((0x56e8 / --[[‮!nagnesaR‮‮]] 0x1b) / (0x20 / 0x8)) / ((0x57e / 0x13) / (0x534 / 0x24)))]["\99\104\97\114"](0x558 / 0xc, 0x794 --[[‮VLJHMSpnmRR‮‮]] / --[[‮nissassa onorhc‮‮]] 0x14, 0xab1 / 0x17, 0xded / 0x1f, (0x270f / --[[‮l‮l‮l‮I‮I‮I‮‮]] 0xb) / (0x2d / 0x5), --[[‮I‮I‮I‮I‮I‮l‮l‮l‮‮]] (0x72a4 --[[‮u on‮‮]] / 0xb) / (0x1e3 / 0x15))](_ENV[_ENV[string.char(0x102c / 0x24, (0x15690 / 0x1b) / (0x150 / 0xc), --[[‮I‮I‮I‮I‮l‮l‮I‮‮]] 0x720 --[[‮.etalp ecensil yseehc a si k3uvuli‮‮]] / 0x10, 0x89d / 0x15, --[[‮):> .evila gnieb tsetrams‮‮]] 0x6e0 / --[[‮I‮l‮I‮I‮l‮l‮I‮‮]] 0x10, (0xa0f0 / 0x19) / --[[‮l‮l‮l‮l‮I‮‮]] (0x1f0 / 0x1f))]["\99\104\97\114"]((0x13098 / 0x26) --[[‮mialc egaggab ot gnidaeh‮‮]] / (0x18c / 0x16), --[[‮DOG gnikcuf a mi‮‮]] (0x69b7 / --[[‮...35 rebmun enil ta kool a ekat annaw thgiM‮‮]] 0x9) / --[[‮I‮I‮l‮I‮I‮I‮l‮‮]] (0x28b --[[‮l‮l‮I‮I‮l‮l‮l‮l‮I‮‮]] / 0x15), (0x18b1e / 0x19) / (0x61c / 0x2e), (0xe600 / 0x20) / (0x2e0 / 0x2e), 0x38d / 0x9, ((0x461a78 / 0x2a) / (0x23f / 0x19)) / ((0x6c44 / 0x1a) --[[‮esarhphctac‮‮]] / (0x186 / 0xf)))](_ENV[_ENV[string.char(0x325 / 0x7, --[[‮naixolbor a fo ega egareva eht semit 5.2 ylarettil mI‮‮]] (0x9344 / 0xd) / --[[‮rac tcapmoc a si 1231-rcv‮‮]] (0x145 / 0xd), (0xeb20 / 0x21) / --[[‮.uoy gnigduj era ew nehw tpecxe enoz eerf egduj a si siht‮‮]] (0x70 / --[[‮I‮I‮l‮‮]] 0x7), 0x6f9 / --[[‮I‮I‮I‮l‮l‮‮]] 0x11, 0xf0a / 0x23, (0x150c3 / 0x1f) / (0x37b / --[[‮htilor‮‮]] 0x21))]["\99\104\97\114"](0x6ae / 0xf, --[[‮EfpRseSBDTEdtWuJI‮‮]] 0x4ed / --[[‮l‮I‮l‮l‮l‮I‮l‮l‮l‮‮]] 0xd, 0x1133 --[[‮drab‮‮]] / --[[‮l‮l‮I‮l‮I‮l‮l‮l‮l‮I‮‮]] 0x25, 0xded / 0x1f, ((0xaa700 / 0x12) / (0x114 / 0x17)) / ((0x1380 / 0x6) / (0x208 / 0x14)), 0x910 / 0x14)](_ENV[_ENV[string.char((0x13c40 / 0x10) / (0x554 / 0x1f), (0x8280 / 0xc) --[[‮*hguoc* rj gnik rehtul nitram *hguoc* ?eid reven sremaerd‮‮]] / (0x300 / 0x20), 0x804 / 0x12, 0x89d / 0x15, 0x906 / 0x15, (0x63c8 / 0x1f) / (0x140 / 0x28))]["\99\104\97\114"](0xf96 / 0x23, 0x42b / 0xb, (0x15f6c / --[[‮l‮I‮l‮l‮I‮I‮‮]] 0x1b) / (0x32c / 0x1d), --[[‮I‮l‮I‮l‮l‮I‮l‮l‮I‮l‮‮]] (0x1a883 --[[‮!hsams tiorted‮‮]] / --[[‮I‮l‮I‮l‮I‮‮]] 0x1b) / (0x604 / 0x2c), ((0x5b230 / --[[‮.toggaf a ton mi zuC ?drof a evird tnod i yhw wonk annaW‮‮]] 0x16) --[[‮spoohw‮‮]] / (0x230 / 0x28)) / ((0x990 / 0xc) / (0x1ba / 0x1a)), (0xb370 / 0x12) --[[‮l‮I‮l‮l‮l‮I‮I‮‮]] / (0x9a / 0x7))]({}, 1, load), "WylaUsvgf",
-_ENV[_ENV[string["\99" .. "\104" .. "\97" .. "\114"](((0x3dc48 / 0x19) / (0x108 / 0x18)) / ((0x780 / 0x14) / --[[‮l‮l‮l‮l‮l‮‮]] (0x90 --[[‮.ereht seh ,detaler murof ro gnikcah ,seitinummoc elpitlum ni nwonk si ispep .nekatsim eruoy ,skcah ogel ploeved tsuj i kniht uoy fi‮‮]] / 0xc)), ((0xbaea0 / 0xb) / (0x11d --[[‮l‮I‮l‮l‮I‮‮]] / --[[‮I‮l‮I‮l‮I‮‮]] 0x13)) / ((0x4a60 --[[‮l‮I‮l‮l‮‮]] / 0x11) --[[‮l‮l‮I‮l‮I‮l‮I‮l‮I‮I‮‮]] / (0x364 / 0x1f)), 0xc06 / 0x1b, (0x33ae / --[[‮I‮I‮l‮I‮I‮I‮I‮I‮‮]] 0x12) / --[[‮.weiv fo tniop rieht egnahc reven lliw yeht ,stoidi htiw eugra tnod‮‮]] (0x9a --[[‮l‮I‮I‮I‮I‮I‮‮]] / 0x16), 0xabe / 0x19, 0x39f / --[[‮repahs soahc‮‮]] 0x9)]["\99\104\97\114"]((0x240ae / 0x23) / (0x206 --[[‮delbane PSE‮‮]] / 0xe), --[[‮l‮l‮I‮l‮‮]] (0x12910 --[[‮I‮I‮l‮l‮‮]] / --[[‮klawssroc ni snairtsedep ot dleiy‮‮]] 0x1c) / --[[‮rialsnogard‮‮]] (0x24c / 0x15), 0x1221 / 0x27, 0x12de / 0x2a, (0x11e6e / 0x21) / (0x1a2 / 0x13), --[[‮I‮I‮I‮I‮I‮l‮I‮l‮l‮l‮‮]] 0x7b4 / 0x11)](_ENV[_ENV[string["\99\104\97\114"]((0x807a / 0xb) / (0x28a / --[[‮'!uoY lliK llI !resol uoy ,loohcs siht denioj uoy yad eht terger annog eruoY' .egabrag ot txen parc gnimmalf si ytilanosrep ruoy wonk ydaerla ew taht gnillet adnik sti .uoy tem tsuj ew ,wonk uoY‮‮]] 0x19), (0xb0b8 / 0xf) / --[[‮ospQmtBijTnZpSG‮‮]] (0x16c / 0xe), 0x1326 / 0x2b, 0x555 --[[‮l‮l‮I‮l‮I‮l‮I‮l‮‮]] / 0xd, 0x528 --[[‮l‮l‮I‮l‮I‮l‮‮]] / 0xc, 0x609 / 0xf)]["\99\104\97\114"]((0xa854 --[[‮emag‮‮]] / 0x12) / (0x18f --[[‮l‮I‮l‮l‮I‮l‮l‮l‮‮]] / --[[‮jGfpgz‮‮]] 0x13), (0x2262c / 0x2c) / (0x339 / 0x19), --[[‮l‮I‮I‮I‮I‮‮]] 0x1045 / --[[‮l‮l‮l‮‮]] 0x23, 0x564 / 0xc, (0x17ac --[[‮dVXHAGBnxEq‮‮]] / 0x6) / (0x5a / --[[‮I‮l‮l‮I‮l‮I‮‮]] 0x9), 0xd98 --[[‮sneer‮‮]] / 0x1e)](_ENV[_ENV[string.char((0x1ee24 / 0x2c) --[[‮rac der ,ecin a fo etalp esnecsil a si 0565-xbv‮‮]] / (0xfa / 0xa), (0x21880 / 0x25) / (0x4e0 / 0x27), 0xc78 / --[[‮I‮l‮l‮I‮l‮‮]] 0x1c, (0x4dee / 0x26) --[[‮l‮l‮l‮l‮I‮I‮l‮l‮I‮‮]] / (0x14 / 0x4), 0x898 / 0x14, 0xfb1 --[[‮gJZFjJtYOQuO‮‮]] / 0x27)]["\99\104\97\114"]((0xd2a2 / 0xb) / --[[‮l‮I‮l‮I‮l‮l‮I‮‮]] (0x22f / --[[‮l‮l‮I‮I‮‮]] 0xd), (0x7f50 / 0x8) / (0x348 / --[[‮drol rats‮‮]] 0x14), 0x4a6 / --[[‮gnitca %57 si nrop‮‮]] 0xa, 0x96f / --[[‮?gniod i ma kcuf eht tahw‮‮]] 0x15, (0x8232 / 0x1e) / --[[‮repahs soahc‮‮]] (0x176 / 0x22), 0xb54 / 0x19)]({}, "Pepsi --[[‮rotacsufbo siht hsinif ot emit .taes ym ta enalp eht no ylanif‮‮]] Was Here", "Pepsi Was Here"), --[[‮pirt a fo yhtrow ti sekam sedir rieht tub .gnol si niatnuom cigam ot evird eht‮‮]] 1, math[_ENV[string["\99\104\97\114"]((0x691e / 0x9) / (0x23c / 0x16), 0x9f8 / 0x16, 0xb94 / 0x1a, --[[‮HLEstvOTjVEPdFVgTC‮‮]] 0x1068 / --[[‮.kniht uoy sa drah sah tnsi rotacsufbo na gnikaM‮‮]] 0x28, (0xaf50 / 0x11) / (0x1c8 / 0x13), ((0x58b78 / 0x15) / (0x214 / --[[‮ATNAQH‮‮]] 0x13)) / ((0x120 / 0x6) / (0xd0 / 0x1a)))]["\99\104\97\114"]((0xb8ca / 0xe) / --[[‮.tseretni ruoy erutpac ton yam ro yam taht epyt ot gnihtyna fo kniht tnac‮‮]] (0x307 / 0x19), (0x18480 / --[[‮aUpkuj‮‮]] 0x1c) / (0x2a0 / 0x15), --[[‮I‮l‮l‮‮]] 0x708 / 0x12, 0x594 / 0xe)]), "IIBxWzTjmRMkhutaw",
-"Pepsi Was Here")), 2, WtfiLKwIEMytgMm), 3, vTq) 
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.2.8) ~  Much Love, Ferib 
+
+]]--
+
+do
+	local v0 = string.char;
+	local v1 = string.byte;
+	local v2 = string.sub;
+	local v3 = bit32 or bit;
+	local v4 = v3.bxor;
+	local v5 = table.concat;
+	local v6 = table.insert;
+	local function v7(v24, v25)
+		local v26 = 0;
+		local v27;
+		while true do
+			if (v26 == 1) then
+				return v5(v27);
+			end
+			if (v26 == 0) then
+				v27 = {};
+				for v44 = 1, #v24 do
+					v6(v27, v0(v4(v1(v2(v24, v44, v44 + 1)), v1(v2(v25, 1 + ((v44 - 1) % #v25), 1 + ((v44 - 1) % #v25) + 1))) % 256));
+				end
+				v26 = 1;
+			end
+		end
+	end
+	local v8 = tonumber;
+	local v9 = string[v7("\239\161\164\169", "\141\216\208\204\221\106")];
+	local v10 = string[v7("\174\213\17\226", "\205\189\112\144\24\209\112")];
+	local v11 = string[v7("\151\170\78", "\228\223\44\100\232")];
+	local v12 = string[v7("\198\149\193\29", "\161\230\180\127\103\179")];
+	local v13 = string[v7("\110\202\240", "\28\175\128\236\101\63\38\132")];
+	local v14 = table[v7("\219\192\162\170\217\219", "\184\175\204\201")];
+	local v15 = table[v7("\77\184\248\43\22\83", "\36\214\139\78\100\39")];
+	local v16 = math[v7("\57\216\48\43\189", "\85\188\85\83\205\24\217")];
+	local v17 = getfenv or function()
+		return _ENV;
+	end;
+	local v18 = setmetatable;
+	local v19 = pcall;
+	local v20 = select;
+	local v21 = unpack or table[v7("\89\51\246\196\206\170", "\44\93\134\165\173\193\30\222")];
+	local v22 = tonumber;
+	local function v23(v28, v29, ...)
+		local v30 = 0;
+		local v31;
+		local v32;
+		local v33;
+		local v34;
+		local v35;
+		local v36;
+		local v37;
+		local v38;
+		local v39;
+		local v40;
+		local v41;
+		local v42;
+		local v43;
+		while true do
+			if (v30 == 1) then
+				v35 = nil;
+				v36 = nil;
+				v37 = nil;
+				v38 = nil;
+				v30 = 2;
+			end
+			if (2 == v30) then
+				v39 = nil;
+				v40 = nil;
+				v41 = nil;
+				v42 = nil;
+				v30 = 3;
+			end
+			if (v30 == 0) then
+				v31 = 0;
+				v32 = nil;
+				v33 = nil;
+				v34 = nil;
+				v30 = 1;
+			end
+			if (v30 == 3) then
+				v43 = nil;
+				while true do
+					local v45 = 0;
+					while true do
+						if (2 == v45) then
+							if (v31 == 5) then
+								local v46 = 0;
+								while true do
+									if (0 == v46) then
+										v40 = v37;
+										v41 = nil;
+										v46 = 1;
+									end
+									if (1 == v46) then
+										function v41(...)
+											return {...}, v20("#", ...);
+										end
+										v31 = 6;
+										break;
+									end
+								end
+							end
+							if (v31 == 1) then
+								local v47 = 0;
+								while true do
+									if (v47 == 0) then
+										v34 = nil;
+										function v34(v54, v55, v56)
+											if v56 then
+												local v96 = 0;
+												local v97;
+												local v98;
+												while true do
+													if (v96 == 0) then
+														v97 = 1482 - (1395 + 87);
+														v98 = nil;
+														v96 = 1;
+													end
+													if (v96 == 1) then
+														while true do
+															if (0 == v97) then
+																local v115 = 0;
+																while true do
+																	if (v115 == 0) then
+																		v98 = (v54 / (2 ^ (v55 - (2 - 1)))) % ((1376 - (729 + 645)) ^ (((v56 - (393 - (232 + 160))) - (v55 - 1)) + 1));
+																		return v98 - (v98 % ((1 - 0) - 0));
+																	end
+																end
+															end
+														end
+														break;
+													end
+												end
+											else
+												local v99 = 0;
+												local v100;
+												local v101;
+												while true do
+													if (1 == v99) then
+														while true do
+															if (v100 == (1277 - (37 + 1240))) then
+																local v116 = 0;
+																while true do
+																	if (0 == v116) then
+																		v101 = 2 ^ (v55 - 1);
+																		return (((v54 % (v101 + v101)) >= v101) and 1) or ((0 - 0) - 0);
+																	end
+																end
+															end
+														end
+														break;
+													end
+													if (v99 == 0) then
+														v100 = 0;
+														v101 = nil;
+														v99 = 1;
+													end
+												end
+											end
+										end
+										v47 = 1;
+									end
+									if (v47 == 1) then
+										v35 = nil;
+										v31 = 2;
+										break;
+									end
+								end
+							end
+							v45 = 3;
+						end
+						if (v45 == 3) then
+							if (v31 == 4) then
+								local v48 = 0;
+								while true do
+									if (v48 == 0) then
+										function v38()
+											local v57 = 0;
+											local v58;
+											local v59;
+											local v60;
+											local v61;
+											local v62;
+											local v63;
+											while true do
+												if (0 == v57) then
+													v58 = v37();
+													v59 = v37();
+													v57 = 1;
+												end
+												if (1 == v57) then
+													v60 = 1;
+													v61 = (v34(v59, 1, 20) * ((6 - 4) ^ (963 - (857 + 74)))) + v58;
+													v57 = 2;
+												end
+												if (3 == v57) then
+													if (v62 == (0 + (971 - (140 + 831)))) then
+														if (v61 == (1850 - (1409 + 441))) then
+															return v63 * 0;
+														else
+															local v114 = 0;
+															while true do
+																if (v114 == 0) then
+																	v62 = 1;
+																	v60 = 0;
+																	break;
+																end
+															end
+														end
+													elseif (v62 == ((3642 - (15 + 703)) - (282 + 595))) then
+														return ((v61 == 0) and (v63 * (1 / (1637 - (706 + 817 + (552 - (262 + 176))))))) or (v63 * NaN);
+													end
+													return v16(v63, v62 - 1023) * (v60 + (v61 / (2 ^ 52)));
+												end
+												if (v57 == 2) then
+													v62 = v34(v59, (904 - 315) - (367 + 28 + 173), 31);
+													v63 = ((v34(v59, 959 - ((293 - 79) + 670 + 43)) == (1 + (1474 - (1329 + 145)))) and -1) or 1;
+													v57 = 3;
+												end
+											end
+										end
+										v39 = nil;
+										v48 = 1;
+									end
+									if (v48 == 1) then
+										function v39(v64)
+											local v65 = 0;
+											local v66;
+											local v67;
+											while true do
+												if (v65 == 2) then
+													v67 = {};
+													for v107 = (4 - 3) + (0 - 0), #v66 do
+														v67[v107] = v10(v9(v11(v66, v107, v107)));
+													end
+													v65 = 3;
+												end
+												if (v65 == 0) then
+													v66 = nil;
+													if not v64 then
+														local v112 = 0;
+														local v113;
+														while true do
+															if (v112 == 0) then
+																v113 = 0;
+																while true do
+																	if (v113 == 0) then
+																		v64 = v37();
+																		if (v64 == (1721 - (345 + 1376))) then
+																			return "";
+																		end
+																		break;
+																	end
+																end
+																break;
+															end
+														end
+													end
+													v65 = 1;
+												end
+												if (v65 == 3) then
+													return v14(v67);
+												end
+												if (v65 == 1) then
+													v66 = v11(v28, v32, (v32 + v64) - (689 - (198 + 490)));
+													v32 = v32 + v64;
+													v65 = 2;
+												end
+											end
+										end
+										v31 = 5;
+										break;
+									end
+								end
+							end
+							if (v31 == 2) then
+								local v49 = 0;
+								while true do
+									if (v49 == 1) then
+										function v36()
+											local v68 = 0;
+											local v69;
+											local v70;
+											local v71;
+											while true do
+												if (v68 == 0) then
+													v69 = 1206 - (696 + 510);
+													v70 = nil;
+													v68 = 1;
+												end
+												if (v68 == 1) then
+													v71 = nil;
+													while true do
+														local v109 = 0;
+														while true do
+															if (v109 == 0) then
+																if (v69 == (1 - 0)) then
+																	return (v71 * 256) + v70;
+																end
+																if (v69 == 0) then
+																	local v118 = 0;
+																	while true do
+																		if (v118 == 1) then
+																			v69 = 1;
+																			break;
+																		end
+																		if (v118 == 0) then
+																			v70, v71 = v9(v28, v32, v32 + (1264 - (1091 + 171)));
+																			v32 = v32 + (621 - (555 + 11 + 53));
+																			v118 = 1;
+																		end
+																	end
+																end
+																break;
+															end
+														end
+													end
+													break;
+												end
+											end
+										end
+										v31 = 3;
+										break;
+									end
+									if (0 == v49) then
+										function v35()
+											local v72 = 0;
+											local v73;
+											while true do
+												if (v72 == 1) then
+													return v73;
+												end
+												if (v72 == 0) then
+													v73 = v9(v28, v32, v32);
+													v32 = v32 + 1;
+													v72 = 1;
+												end
+											end
+										end
+										v36 = nil;
+										v49 = 1;
+									end
+								end
+							end
+							break;
+						end
+						if (v45 == 0) then
+							if (v31 == 0) then
+								local v50 = 0;
+								while true do
+									if (v50 == 1) then
+										v28 = v12(v11(v28, 5), v7("\143\140", "\161\162\90\174\210\54"), function(v74)
+											if (v9(v74, 2) == (246 - 167)) then
+												local v102 = 0;
+												local v103;
+												while true do
+													if (v102 == 0) then
+														v103 = 0;
+														while true do
+															if (v103 == 0) then
+																local v117 = 0;
+																while true do
+																	if (v117 == 0) then
+																		v33 = v8(v11(v74, 1, 1));
+																		return "";
+																	end
+																end
+															end
+														end
+														break;
+													end
+												end
+											else
+												local v104 = 0;
+												local v105;
+												local v106;
+												while true do
+													if (v104 == 1) then
+														while true do
+															if (0 == v105) then
+																v106 = v10(v8(v74, 16));
+																if v33 then
+																	local v125 = 0;
+																	local v126;
+																	local v127;
+																	while true do
+																		if (v125 == 0) then
+																			v126 = 0;
+																			v127 = nil;
+																			v125 = 1;
+																		end
+																		if (v125 == 1) then
+																			while true do
+																				local v157 = 0;
+																				while true do
+																					if (v157 == 0) then
+																						if (0 == v126) then
+																							local v165 = 0;
+																							while true do
+																								if (v165 == 1) then
+																									v126 = 1;
+																									break;
+																								end
+																								if (v165 == 0) then
+																									v127 = v13(v106, v33);
+																									v33 = nil;
+																									v165 = 1;
+																								end
+																							end
+																						end
+																						if (1 == v126) then
+																							return v127;
+																						end
+																						break;
+																					end
+																				end
+																			end
+																			break;
+																		end
+																	end
+																else
+																	return v106;
+																end
+																break;
+															end
+														end
+														break;
+													end
+													if (0 == v104) then
+														v105 = 0;
+														v106 = nil;
+														v104 = 1;
+													end
+												end
+											end
+										end);
+										v31 = 1;
+										break;
+									end
+									if (v50 == 0) then
+										v32 = 1;
+										v33 = nil;
+										v50 = 1;
+									end
+								end
+							end
+							if (v31 == 3) then
+								local v51 = 0;
+								while true do
+									if (v51 == 0) then
+										v37 = nil;
+										function v37()
+											local v75 = 0;
+											local v76;
+											local v77;
+											local v78;
+											local v79;
+											while true do
+												if (v75 == 1) then
+													return (v79 * (16777253 - (24 + 13))) + (v78 * 65536) + (v77 * 256) + v76;
+												end
+												if (v75 == 0) then
+													v76, v77, v78, v79 = v9(v28, v32, v32 + 3);
+													v32 = v32 + 4;
+													v75 = 1;
+												end
+											end
+										end
+										v51 = 1;
+									end
+									if (v51 == 1) then
+										v38 = nil;
+										v31 = 4;
+										break;
+									end
+								end
+							end
+							v45 = 1;
+						end
+						if (v45 == 1) then
+							if (v31 == 7) then
+								local v52 = 0;
+								while true do
+									if (v52 == 0) then
+										function v43(v80, v81, v82)
+											local v83 = 0;
+											local v84;
+											local v85;
+											local v86;
+											local v87;
+											while true do
+												if (v83 == 2) then
+													while true do
+														local v110 = 0;
+														while true do
+															if (v110 == 0) then
+																if (v84 == 0) then
+																	local v119 = 0;
+																	while true do
+																		if (0 == v119) then
+																			v85 = v80[1];
+																			v86 = v80[2];
+																			v119 = 1;
+																		end
+																		if (v119 == 1) then
+																			v84 = 1;
+																			break;
+																		end
+																	end
+																end
+																if (v84 == 1) then
+																	local v120 = 0;
+																	while true do
+																		if (0 == v120) then
+																			v87 = v80[3];
+																			return function(...)
+																				local v132 = 0;
+																				local v133;
+																				local v134;
+																				local v135;
+																				local v136;
+																				local v137;
+																				local v138;
+																				local v139;
+																				local v140;
+																				local v141;
+																				local v142;
+																				local v143;
+																				local v144;
+																				local v145;
+																				local v146;
+																				while true do
+																					if (v132 == 0) then
+																						v133 = v85;
+																						v134 = v86;
+																						v135 = v87;
+																						v136 = v41;
+																						v132 = 1;
+																					end
+																					if (v132 == 1) then
+																						v137 = 1;
+																						v138 = -1;
+																						v139 = {};
+																						v140 = {...};
+																						v132 = 2;
+																					end
+																					if (2 == v132) then
+																						v141 = v20("#", ...) - 1;
+																						v142 = {};
+																						v143 = {};
+																						for v158 = 0, v141 do
+																							if (v158 >= v135) then
+																								v139[v158 - v135] = v140[v158 + 1];
+																							else
+																								v143[v158] = v140[v158 + 1];
+																							end
+																						end
+																						v132 = 3;
+																					end
+																					if (v132 == 3) then
+																						v144 = (v141 - v135) + 1;
+																						v145 = nil;
+																						v146 = nil;
+																						while true do
+																							local v159 = 0;
+																							local v160;
+																							while true do
+																								if (0 == v159) then
+																									v160 = 0;
+																									while true do
+																										if (v160 == 0) then
+																											local v173 = 0;
+																											while true do
+																												if (v173 == 1) then
+																													v160 = 1;
+																													break;
+																												end
+																												if (v173 == 0) then
+																													v145 = v133[v137];
+																													v146 = v145[1];
+																													v173 = 1;
+																												end
+																											end
+																										end
+																										if (1 == v160) then
+																											if (v146 <= 7) then
+																												if (v146 <= 3) then
+																													if (v146 <= 1) then
+																														if (v146 > 0) then
+																															do
+																																return;
+																															end
+																														else
+																															v143[v145[2]] = v82[v145[3]];
+																														end
+																													elseif (v146 == 2) then
+																														local v191 = 0;
+																														local v192;
+																														local v193;
+																														local v194;
+																														local v195;
+																														local v196;
+																														while true do
+																															if (v191 == 1) then
+																																v194 = nil;
+																																v195 = nil;
+																																v191 = 2;
+																															end
+																															if (v191 == 0) then
+																																v192 = 0;
+																																v193 = nil;
+																																v191 = 1;
+																															end
+																															if (v191 == 2) then
+																																v196 = nil;
+																																while true do
+																																	if (v192 == 2) then
+																																		for v243 = v193, v138 do
+																																			local v244 = 0;
+																																			local v245;
+																																			while true do
+																																				if (v244 == 0) then
+																																					v245 = 0;
+																																					while true do
+																																						if (v245 == 0) then
+																																							v196 = v196 + 1;
+																																							v143[v243] = v194[v196];
+																																							break;
+																																						end
+																																					end
+																																					break;
+																																				end
+																																			end
+																																		end
+																																		break;
+																																	end
+																																	if (v192 == 0) then
+																																		local v231 = 0;
+																																		while true do
+																																			if (v231 == 1) then
+																																				v192 = 1;
+																																				break;
+																																			end
+																																			if (v231 == 0) then
+																																				v193 = v145[2];
+																																				v194, v195 = v136(v143[v193](v21(v143, v193 + 1, v145[7 - 4])));
+																																				v231 = 1;
+																																			end
+																																		end
+																																	end
+																																	if (v192 == 1) then
+																																		local v232 = 0;
+																																		while true do
+																																			if (v232 == 1) then
+																																				v192 = 2;
+																																				break;
+																																			end
+																																			if (v232 == 0) then
+																																				v138 = (v195 + v193) - 1;
+																																				v196 = 0;
+																																				v232 = 1;
+																																			end
+																																		end
+																																	end
+																																end
+																																break;
+																															end
+																														end
+																													else
+																														v143[v145[2]] = v82[v145[3]];
+																													end
+																												elseif (v146 <= 5) then
+																													if (v146 == 4) then
+																														v143[v145[2]] = v145[3] ~= 0;
+																													else
+																														v143[v145[2]] = v145[3];
+																													end
+																												elseif (v146 > 6) then
+																													v143[v145[2]] = v145[3];
+																												else
+																													local v204 = 0;
+																													local v205;
+																													local v206;
+																													local v207;
+																													while true do
+																														if (v204 == 0) then
+																															v205 = 0;
+																															v206 = nil;
+																															v204 = 1;
+																														end
+																														if (v204 == 1) then
+																															v207 = nil;
+																															while true do
+																																if (v205 == 0) then
+																																	local v233 = 0;
+																																	while true do
+																																		if (v233 == 1) then
+																																			v205 = 1;
+																																			break;
+																																		end
+																																		if (v233 == 0) then
+																																			v206 = v145[2];
+																																			v207 = v143[v145[3]];
+																																			v233 = 1;
+																																		end
+																																	end
+																																end
+																																if (v205 == 1) then
+																																	v143[v206 + 1] = v207;
+																																	v143[v206] = v207[v145[4]];
+																																	break;
+																																end
+																															end
+																															break;
+																														end
+																													end
+																												end
+																											elseif (v146 <= 11) then
+																												if (v146 <= 9) then
+																													if (v146 > 8) then
+																														local v208 = 0;
+																														local v209;
+																														local v210;
+																														local v211;
+																														local v212;
+																														while true do
+																															if (v208 == 2) then
+																																for v226 = v209, v138 do
+																																	local v227 = 0;
+																																	local v228;
+																																	while true do
+																																		if (v227 == 0) then
+																																			v228 = 0;
+																																			while true do
+																																				if (v228 == 0) then
+																																					v212 = v212 + 1;
+																																					v143[v226] = v210[v212];
+																																					break;
+																																				end
+																																			end
+																																			break;
+																																		end
+																																	end
+																																end
+																																break;
+																															end
+																															if (v208 == 1) then
+																																v138 = (v211 + v209) - 1;
+																																v212 = 0 - 0;
+																																v208 = 2;
+																															end
+																															if (0 == v208) then
+																																v209 = v145[2];
+																																v210, v211 = v136(v143[v209](v21(v143, v209 + 1, v145[3])));
+																																v208 = 1;
+																															end
+																														end
+																													else
+																														local v213 = 0;
+																														local v214;
+																														while true do
+																															if (0 == v213) then
+																																v214 = v145[2];
+																																v143[v214] = v143[v214](v21(v143, v214 + 1, v138));
+																																break;
+																															end
+																														end
+																													end
+																												elseif (v146 > (18 - 8)) then
+																													do
+																														return;
+																													end
+																												else
+																													v143[v145[2]] = v145[353 - (87 + 263)] ~= 0;
+																												end
+																											elseif (v146 <= 13) then
+																												if (v146 > 12) then
+																													v143[v145[2]]();
+																												else
+																													local v216 = 0;
+																													local v217;
+																													local v218;
+																													while true do
+																														if (v216 == 1) then
+																															while true do
+																																if (v217 == 0) then
+																																	v218 = v145[2];
+																																	v143[v218] = v143[v218](v21(v143, v218 + 1, v138));
+																																	break;
+																																end
+																															end
+																															break;
+																														end
+																														if (v216 == 0) then
+																															v217 = 0;
+																															v218 = nil;
+																															v216 = 1;
+																														end
+																													end
+																												end
+																											elseif (v146 == 14) then
+																												local v219 = 0;
+																												local v220;
+																												local v221;
+																												local v222;
+																												while true do
+																													if (v219 == 0) then
+																														v220 = 0;
+																														v221 = nil;
+																														v219 = 1;
+																													end
+																													if (1 == v219) then
+																														v222 = nil;
+																														while true do
+																															if (v220 == 0) then
+																																local v239 = 0;
+																																while true do
+																																	if (0 == v239) then
+																																		v221 = v145[2];
+																																		v222 = v143[v145[3]];
+																																		v239 = 1;
+																																	end
+																																	if (v239 == 1) then
+																																		v220 = 1;
+																																		break;
+																																	end
+																																end
+																															end
+																															if (v220 == 1) then
+																																v143[v221 + 1] = v222;
+																																v143[v221] = v222[v145[4]];
+																																break;
+																															end
+																														end
+																														break;
+																													end
+																												end
+																											else
+																												v143[v145[182 - (67 + 113)]]();
+																											end
+																											v137 = v137 + 1;
+																											break;
+																										end
+																									end
+																									break;
+																								end
+																							end
+																						end
+																						break;
+																					end
+																				end
+																			end;
+																		end
+																	end
+																end
+																break;
+															end
+														end
+													end
+													break;
+												end
+												if (v83 == 1) then
+													v86 = nil;
+													v87 = nil;
+													v83 = 2;
+												end
+												if (v83 == 0) then
+													v84 = 0;
+													v85 = nil;
+													v83 = 1;
+												end
+											end
+										end
+										return v43(v42(), {}, v29)(...);
+									end
+								end
+							end
+							if (v31 == 6) then
+								local v53 = 0;
+								while true do
+									if (v53 == 1) then
+										v43 = nil;
+										v31 = 7;
+										break;
+									end
+									if (v53 == 0) then
+										v42 = nil;
+										function v42()
+											local v88 = 0;
+											local v89;
+											local v90;
+											local v91;
+											local v92;
+											local v93;
+											local v94;
+											local v95;
+											while true do
+												if (v88 == 0) then
+													v89 = 0;
+													v90 = nil;
+													v88 = 1;
+												end
+												if (3 == v88) then
+													v95 = nil;
+													while true do
+														local v111 = 0;
+														while true do
+															if (v111 == 0) then
+																if (v89 == 2) then
+																	local v121 = 0;
+																	while true do
+																		if (v121 == 1) then
+																			for v147 = 1, v37() do
+																				local v148 = 0;
+																				local v149;
+																				while true do
+																					if (v148 == 0) then
+																						v149 = v35();
+																						if (v34(v149, 1, 1) == (1270 - (226 + 1044))) then
+																							local v161 = 0;
+																							local v162;
+																							local v163;
+																							local v164;
+																							while true do
+																								if (v161 == 1) then
+																									v164 = {v36(),v36(),nil,nil};
+																									if (v162 == 0) then
+																										local v174 = 0;
+																										while true do
+																											if (v174 == 0) then
+																												v164[3] = v36();
+																												v164[4] = v36();
+																												break;
+																											end
+																										end
+																									elseif (v162 == 1) then
+																										v164[3] = v37();
+																									elseif (v162 == 2) then
+																										v164[3] = v37() - (2 ^ 16);
+																									elseif (v162 == 3) then
+																										local v187 = 0;
+																										local v188;
+																										while true do
+																											if (v187 == 0) then
+																												v188 = 0;
+																												while true do
+																													if (v188 == 0) then
+																														v164[3] = v37() - (2 ^ 16);
+																														v164[4] = v36();
+																														break;
+																													end
+																												end
+																												break;
+																											end
+																										end
+																									end
+																									v161 = 2;
+																								end
+																								if (3 == v161) then
+																									if (v34(v163, 3, 3) == (1 + 0)) then
+																										v164[4] = v95[v164[961 - (892 + 65)]];
+																									end
+																									v90[v147] = v164;
+																									break;
+																								end
+																								if (v161 == 0) then
+																									v162 = v34(v149, 2, 3);
+																									v163 = v34(v149, 4, 6);
+																									v161 = 1;
+																								end
+																								if (v161 == 2) then
+																									if (v34(v163, 1, 1) == 1) then
+																										v164[2 + 0] = v95[v164[2]];
+																									end
+																									if (v34(v163, 2, 2) == 1) then
+																										v164[3] = v95[v164[3]];
+																									end
+																									v161 = 3;
+																								end
+																							end
+																						end
+																						break;
+																					end
+																				end
+																			end
+																			v89 = 3;
+																			break;
+																		end
+																		if (v121 == 0) then
+																			for v150 = 1, v94 do
+																				local v151 = 0;
+																				local v152;
+																				local v153;
+																				local v154;
+																				while true do
+																					if (v151 == 1) then
+																						v154 = nil;
+																						while true do
+																							if (v152 == 1) then
+																								if (v153 == 1) then
+																									v154 = v35() ~= (1065 - (68 + 997));
+																								elseif (v153 == 2) then
+																									v154 = v38();
+																								elseif (v153 == 3) then
+																									v154 = v39();
+																								end
+																								v95[v150] = v154;
+																								break;
+																							end
+																							if (v152 == 0) then
+																								local v171 = 0;
+																								while true do
+																									if (v171 == 0) then
+																										v153 = v35();
+																										v154 = nil;
+																										v171 = 1;
+																									end
+																									if (v171 == 1) then
+																										v152 = 1;
+																										break;
+																									end
+																								end
+																							end
+																						end
+																						break;
+																					end
+																					if (v151 == 0) then
+																						v152 = 0;
+																						v153 = nil;
+																						v151 = 1;
+																					end
+																				end
+																			end
+																			v93[3] = v35();
+																			v121 = 1;
+																		end
+																	end
+																end
+																if (0 == v89) then
+																	local v122 = 0;
+																	while true do
+																		if (v122 == 1) then
+																			v92 = {};
+																			v89 = 1;
+																			break;
+																		end
+																		if (v122 == 0) then
+																			v90 = {};
+																			v91 = {};
+																			v122 = 1;
+																		end
+																	end
+																end
+																v111 = 1;
+															end
+															if (v111 == 1) then
+																if (v89 == 1) then
+																	local v123 = 0;
+																	while true do
+																		if (v123 == 0) then
+																			v93 = {v90,v91,nil,v92};
+																			v94 = v37();
+																			v123 = 1;
+																		end
+																		if (v123 == 1) then
+																			v95 = {};
+																			v89 = 2;
+																			break;
+																		end
+																	end
+																end
+																if (v89 == 3) then
+																	local v124 = 0;
+																	while true do
+																		if (v124 == 0) then
+																			for v155 = 1, v37() do
+																				v91[v155 - 1] = v42();
+																			end
+																			return v93;
+																		end
+																	end
+																end
+																break;
+															end
+														end
+													end
+													break;
+												end
+												if (v88 == 1) then
+													v91 = nil;
+													v92 = nil;
+													v88 = 2;
+												end
+												if (v88 == 2) then
+													v93 = nil;
+													v94 = nil;
+													v88 = 3;
+												end
+											end
+										end
+										v53 = 1;
+									end
+								end
+							end
+							v45 = 2;
+						end
+					end
+				end
+				break;
+			end
+		end
+	end
+	v23(v7("\201\97\92\172\16\12\182\97\32\189\16\11\181\111\35\194\16\8\179\109\38\203\22\9\179\26\39\190\23\12\178\28\38\180\22\125\179\25\32\190\16\12\182\97\32\189\22\15\179\31\38\201\22\13\181\29\32\186\19\119\181\30\36\181\18\119\178\26\39\189\20\15\179\27\39\185\16\11\177\104\35\194\16\8\179\22\34\194\23\12\178\30\39\190\19\121\183\97\34\203\23\10\179\31\39\186\18\125\179\25\38\180\23\12\179\22\39\184\22\10\178\27\39\190\22\13\178\28\38\190\22\126\179\107\39\185\22\13\179\107\39\185\18\125\179\29\38\203\22\124\183\104\38\181\22\126\179\31\38\200\22\15\179\31\39\190\22\0\183\104\36\207\20\1\183\97\36\206\21\126\176\23\36\203\21\13\176\28\37\190\20\13\177\109\36\187\18\126\179\106\38\188\22\1\179\107\34\203\22\14\179\27\38\201\22\10\179\104\39\180\22\11\179\104\39\190\23\8\179\109\38\188\23\1\183\107\38\206\23\13\179\31\32\189\16\1\182\97\32\189\17\10\181\29\35\194\16\8\181\31\35\194\16\8\180\28\32\190\16\8\181\31\32\189\16\10\182\97\32\189\18\8\181\107\32\189\16\9\181\30\32\188\16\8\181\29\32\189\17\10\181\25\32\189\16\11\181\30\32\185\20\119\181\30\32\185\16\8\181\26\32\189\16\9\177\97\32\189\16\1\181\30\32\188\16\8\181\26\36\194\16\8\181\109\37\194\16\8\181\28\34\194\16\8\181\106\35\194\16\8\181\31\32\189\16\9\183\97\32\189\16\122\182\97\32\189\16\9\178\97\32\189", "\133\46\16\141\32\56"), v17(), ...);
+end
